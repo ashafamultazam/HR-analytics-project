@@ -27,7 +27,7 @@ The result is a single-page dashboard that HR managers can read in under a minut
 
 > 📸 **Dashboard preview:** add a screenshot at `images/dashboard.png` and it will show up below.
 >
-> ![Dashboard Preview](images/dashboard.png)
+> ![Dashboard Preview](images/Images/HR Analytics Dashboard.pdf)
 
 ---
 
@@ -185,7 +185,7 @@ The dataset follows the structure of public HR-analytics datasets on Kaggle (suc
 
 ## 👤 Author
 
-**[Your Name]**
-📧 [your.email@example.com](mailto:your.email@example.com) · 💼 [LinkedIn](https://linkedin.com/in/your-profile) · 🐙 [GitHub](https://github.com/your-username)
+**Ashafa Multazam**
+📧 [your.email@example.com](mailto:multazam.ashafa@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/ashafamultazam) · 🐙 [GitHub](https://github.com/ashafamultazam)
 
 ⭐ If you found this project useful, please give it a star!
