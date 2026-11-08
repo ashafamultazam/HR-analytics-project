@@ -25,9 +25,7 @@ Employee turnover is expensive: it means lost knowledge, recruitment costs, and 
 
 The result is a single-page dashboard that HR managers can read in under a minute and filter further for detail.
 
-> 📸 **Dashboard preview:** add a screenshot at `images/dashboard.png` and it will show up below.
->
-> ![Dashboard Preview](images/Images/HR Analytics Dashboard.pdf)
+> 📄 **Dashboard preview:** [View the full dashboard (PDF)](dashboard/HR%20Analytics%20Dashboard.pdf)
 
 ---
 
@@ -37,8 +35,8 @@ The result is a single-page dashboard that HR managers can read in under a minut
 📦 hr-analytics-dashboard
  ┣ 📜 HR_Analytics.csv              # Raw dataset (1,000 rows × 38 columns, ";" delimited)
  ┣ 📊 HR_Analytics_Dashboard.pbix   # Power BI report (data model + visuals)
- ┣ 📁 images
- ┃ ┗ 🖼️ dashboard.png               # Screenshot used in this README
+ ┣ 📁 dashboard
+ ┃ ┗ 📄 HR Analytics Dashboard.pdf  # Exported dashboard view
  ┗ 📝 README.md
 ```
 
@@ -186,6 +184,6 @@ The dataset follows the structure of public HR-analytics datasets on Kaggle (suc
 ## 👤 Author
 
 **Ashafa Multazam**
-📧 [your.email@example.com](mailto:multazam.ashafa@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/ashafamultazam) · 🐙 [GitHub](https://github.com/ashafamultazam)
+📧 [multazam.ashafa@gmail.com](mailto:multazam.ashafa@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/ashafamultazam) · 🐙 [GitHub](https://github.com/ashafamultazam)
 
 ⭐ If you found this project useful, please give it a star!
