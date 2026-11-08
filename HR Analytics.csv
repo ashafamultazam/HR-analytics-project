@@ -1,0 +1,1001 @@
+EmpID;Age;AgeGroup;Attrition;BusinessTravel;DailyRate;Department;DistanceFromHome(KM);Education;EducationField;EmployeeCount;EmployeeNumber;EnvironmentSatisfaction;Gender;JobInvolvement;JobLevel;JobRole;JobSatisfaction;MaritalStatus;MonthlyIncome;SalarySlab;HourlyRate;NumCompaniesWorked;Over18;OverTime;SalaryHike %;PerformanceRating;RelationshipSatisfaction;StandardWorkingHours;StockOptionLevel;TotalExperience(Years);TrainingsLastYear;WorkLifeBalance;YearsatCompany;YearsinCurrentRole;YearsSincePromotion;YearsWithCurrManager;AttritionCount
+VK5610;34;26-35;No;TravelRarely;167;Administration;8;5;Life Sciences;1;775;2;Female;3;2;Manufacturing Director;1;Single;15397;0-3 LPA;9623;3;Y;No;14;3;3;80;1;7;3;3;0;0;0;0;0
+VK4160;34;26-35;Yes;Travel-Frequently;296;Sales;6;2;Marketing;1;555;4;Female;1;1;Sales Representative;3;Single;62476;6-10 LPA;39048;0;Y;No;16;3;4;80;1;3;3;2;2;2;1;0;1
+VK2030;34;26-35;No;Travel-Frequently;878;Administration;10;4;Medical;1;277;4;Male;3;1;Research Scientist;3;Single;60031;6-10 LPA;37519;1;Y;Yes;17;3;4;80;1;5;4;4;5;3;2;0;0
+VK1150;34;26-35;No;TravelRarely;1031;Administration;6;4;Life Sciences;1;151;3;Female;2;2;Research Scientist;2;Single;18955;0-3 LPA;11847;6;Y;No;15;3;3;80;1;12;3;3;1;0;0;0;0
+VK14350;52;46-55;No;Non-Travel;585;IT;29;4;Life Sciences;1;2019;1;Male;3;1;Sales Representative;4;Single;20063;0-3 LPA;12539;2;Y;No;15;3;2;80;2;16;3;2;9;8;0;0;0
+VK14160;33;26-35;No;Non-Travel;1313;Administration;1;2;Medical;1;1994;2;Male;2;1;Laboratory Technician;3;Single;90084;10+ LPA;56302;1;Y;No;12;3;3;80;3;1;2;2;1;1;0;0;0
+VK3660;46;46-55;No;Non-Travel;1144;Operations;7;4;Medical;1;487;3;Female;3;2;Manufacturing Director;3;Married;23116;0-3 LPA;14448;2;Y;No;14;3;3;80;0;7;2;4;1;0;0;0;0
+VK10750;33;26-35;No;TravelRarely;516;Administration;8;5;Life Sciences;1;1515;4;Male;3;2;Healthcare Representative;3;Single;66953;6-10 LPA;41846;2;Y;Yes;17;3;1;80;0;14;6;3;0;0;0;0;0
+VK6720;34;26-35;No;TravelRarely;546;Administration;10;3;Life Sciences;1;934;2;Male;3;1;Laboratory Technician;2;Single;48280;3-6 LPA;30175;1;Y;No;14;3;2;80;2;1;3;3;1;0;1;0;0
+VK7110;33;26-35;No;Non-Travel;722;Sales;17;3;Life Sciences;1;992;4;Male;3;4;Manager;3;Single;90643;10+ LPA;56652;1;Y;No;11;3;4;80;0;10;2;3;10;8;6;0;0
+VK3640;33;26-35;Yes;TravelRarely;350;Sales;5;3;Marketing;1;485;4;Female;3;1;Sales Representative;3;Single;67387;6-10 LPA;42117;1;Y;Yes;13;3;2;80;0;1;2;3;1;0;0;0;1
+VK4320;54;46-55;No;TravelRarely;548;Operations;8;4;Life Sciences;1;578;3;Female;3;2;Laboratory Technician;3;Single;39243;3-6 LPA;24527;7;Y;No;11;3;3;80;0;19;3;3;1;0;0;0;0
+VK13760;32;26-35;Yes;Travel-Frequently;238;Administration;5;2;Life Sciences;1;1939;1;Female;4;1;Research Scientist;3;Single;98379;10+ LPA;61487;3;Y;Yes;14;3;1;80;0;8;2;3;4;1;0;0;1
+VK13950;32;26-35;No;TravelRarely;1373;Administration;5;4;Life Sciences;1;1966;4;Male;2;2;Manufacturing Director;4;Single;41158;3-6 LPA;25724;8;Y;No;24;4;2;80;0;8;1;3;1;0;0;0;0
+VK13200;32;26-35;No;Travel-Frequently;1318;Sales;10;4;Marketing;1;1853;4;Male;3;2;Sales Executive;4;Single;80605;6-10 LPA;50378;8;Y;No;13;3;3;80;0;4;2;4;0;0;0;0;0
+VK12380;32;26-35;Yes;TravelRarely;964;Sales;1;2;Life Sciences;1;1734;1;Male;1;2;Sales Executive;2;Single;60101;6-10 LPA;37563;6;Y;No;15;3;2;80;0;10;2;3;0;0;0;0;1
+VK12060;32;26-35;Yes;TravelRarely;1259;Administration;2;4;Life Sciences;1;1692;4;Male;3;1;Laboratory Technician;2;Single;63752;6-10 LPA;39845;1;Y;No;12;3;1;80;0;1;2;3;1;0;0;0;1
+VK12560;33;26-35;Yes;TravelRarely;211;Sales;16;3;Life Sciences;1;1758;1;Female;3;3;Sales Executive;1;Single;12338;0-3 LPA;7711;2;Y;Yes;20;4;3;80;0;11;2;2;0;0;0;0;1
+VK7640;34;26-35;No;TravelRarely;1333;Sales;10;4;Life Sciences;1;1055;3;Female;3;1;Sales Representative;3;Married;17779;0-3 LPA;11112;1;Y;Yes;19;3;4;80;1;1;2;3;1;1;0;0;0
+VK11160;34;26-35;No;TravelRarely;479;Administration;7;4;Medical;1;1577;1;Male;3;1;Research Scientist;4;Single;28192;3-6 LPA;1762;1;Y;No;13;3;3;80;0;1;4;1;1;0;0;0;0
+VK9070;34;26-35;No;TravelRarely;1320;Administration;20;3;Technical Degree;1;1265;3;Female;4;1;Research Scientist;3;Married;36270;3-6 LPA;22669;0;Y;No;17;3;4;80;0;2;5;2;1;0;0;0;0
+VK2990;36;36-45;No;Travel-Frequently;566;Operations;18;4;Life Sciences;1;407;3;Male;4;1;Laboratory Technician;4;Married;32921;3-6 LPA;20576;4;Y;No;18;3;4;80;2;4;2;3;1;0;0;0;0
+VK1190;36;36-45;No;TravelRarely;922;Operations;3;2;Life Sciences;1;155;1;Female;3;1;Laboratory Technician;4;Single;24959;0-3 LPA;15599;5;Y;No;22;4;1;80;1;7;2;3;1;0;0;0;0
+VK6280;52;46-55;No;Travel-Frequently;890;Operations;25;4;Medical;1;867;3;Female;2;4;Manufacturing Director;4;Married;64197;6-10 LPA;40123;3;Y;No;22;4;3;80;0;31;3;3;9;8;0;0;0
+VK0390;36;36-45;No;TravelRarely;852;Operations;5;4;Life Sciences;1;51;2;Female;2;1;Research Scientist;1;Married;8114;0-3 LPA;5071;9;Y;Yes;14;3;4;80;1;6;3;4;1;1;0;0;0
+VK11630;35;26-35;Yes;TravelRarely;737;Marketing;10;3;Medical;1;1639;4;Male;2;3;Sales Executive;1;Married;94045;10+ LPA;58778;9;Y;No;17;3;3;80;0;15;3;3;13;12;6;0;1
+VK11110;35;26-35;Yes;TravelRarely;104;Operations;2;3;Life Sciences;1;1569;1;Female;3;1;Laboratory Technician;1;Single;83848;10+ LPA;52405;1;Y;Yes;12;3;4;80;1;1;2;3;1;0;0;0;1
+VK10600;35;26-35;No;TravelRarely;660;Marketing;7;1;Life Sciences;1;1492;4;Male;3;1;Sales Representative;3;Married;67040;6-10 LPA;419;1;Y;No;13;3;1;80;1;1;3;3;1;0;0;0;0
+VK9740;35;26-35;No;TravelRarely;817;Operations;1;3;Medical;1;1369;4;Female;2;2;Laboratory Technician;4;Married;40298;3-6 LPA;25186;0;Y;No;12;3;2;80;1;10;0;3;9;7;0;0;0
+VK8040;34;26-35;No;Non-Travel;697;Administration;3;4;Life Sciences;1;1115;3;Male;2;1;Research Scientist;4;Married;73936;6-10 LPA;4621;3;Y;No;17;3;4;80;3;6;2;3;0;0;0;0;0
+VK6990;35;26-35;No;TravelRarely;1219;Marketing;18;3;Medical;1;975;3;Female;3;2;Sales Executive;3;Married;16485;0-3 LPA;10303;1;Y;No;16;3;2;80;0;5;3;3;5;2;1;0;0
+VK5160;35;26-35;No;Non-Travel;727;Operations;3;3;Life Sciences;1;704;3;Male;2;1;Laboratory Technician;3;Married;36909;3-6 LPA;23068;1;Y;No;18;3;3;80;2;1;3;3;1;0;0;0;0
+VK4390;35;26-35;No;TravelRarely;1276;Operations;16;3;Life Sciences;1;586;4;Male;3;3;Healthcare Representative;3;Married;58854;6-10 LPA;36784;4;Y;Yes;12;3;3;80;0;10;2;3;8;7;0;0;0
+VK3730;35;26-35;No;TravelRarely;755;Operations;9;4;Life Sciences;1;496;3;Male;2;2;Healthcare Representative;2;Single;84285;10+ LPA;52678;9;Y;No;19;3;3;80;0;10;5;3;1;1;0;0;0
+VK8070;52;46-55;No;TravelRarely;994;Operations;7;4;Life Sciences;1;1118;2;Male;3;3;Healthcare Representative;2;Single;18771;0-3 LPA;11732;7;Y;No;19;3;4;80;0;18;4;3;8;6;4;0;0
+VK0410;35;26-35;No;TravelRarely;464;Administration;4;2;Other;1;53;3;Male;3;1;Laboratory Technician;4;Single;47732;3-6 LPA;29832;1;Y;No;12;3;3;80;1;1;3;3;1;0;0;0;0
+VK13540;34;26-35;Yes;Non-Travel;967;Administration;16;4;Technical Degree;1;1905;4;Male;1;1;Research Scientist;1;Married;7801;0-3 LPA;4876;1;Y;Yes;23;4;2;80;1;5;2;3;5;2;3;0;1
+VK13430;34;26-35;No;TravelRarely;1480;Marketing;4;3;Life Sciences;1;1882;3;Male;3;3;Sales Executive;4;Married;90930;10+ LPA;56831;2;Y;Yes;13;3;4;80;3;9;3;3;5;3;1;0;0
+VK9780;34;26-35;No;Non-Travel;999;Administration;26;1;Technical Degree;1;1374;1;Female;2;1;Research Scientist;3;Single;55098;6-10 LPA;34436;1;Y;No;20;4;3;80;3;5;2;3;5;4;0;0;0
+VK5580;35;26-35;No;Non-Travel;1225;Operations;2;4;Life Sciences;1;771;4;Female;3;2;Healthcare Representative;1;Single;90339;10+ LPA;56462;2;Y;No;11;3;1;80;1;16;2;4;1;0;0;0;0
+VK10760;32;26-35;No;TravelRarely;495;Administration;10;3;Medical;1;1516;3;Male;3;3;Manager;4;Single;96435;10+ LPA;60272;2;Y;No;25;4;2;80;0;10;5;4;5;2;0;0;0
+VK0830;55;46-55;No;TravelRarely;111;IT;1;2;Life Sciences;1;106;1;Male;3;3;Sales Executive;4;Married;82182;6-10 LPA;51364;3;Y;No;14;3;4;80;1;24;4;3;1;0;1;0;0
+VK7720;54;46-55;No;TravelRarely;1082;IT;2;4;Life Sciences;1;1070;3;Female;2;3;Sales Executive;3;Married;40952;3-6 LPA;25595;6;Y;No;11;3;2;80;1;13;4;3;9;4;7;0;0
+VK4250;57;55+;No;TravelRarely;210;IT;29;3;Marketing;1;568;1;Male;2;4;Manager;4;Married;95613;10+ LPA;59758;3;Y;No;12;3;3;80;1;32;3;2;1;0;0;0;0
+VK1580;58;55+;No;TravelRarely;1145;Operations;9;3;Medical;1;214;2;Female;2;1;Research Scientist;2;Married;75478;6-10 LPA;47174;4;Y;Yes;20;4;2;80;1;9;3;2;1;0;0;0;0
+VK6610;58;55+;Yes;Travel-Frequently;781;Operations;2;1;Life Sciences;1;918;4;Male;2;1;Laboratory Technician;4;Single;16850;0-3 LPA;10531;9;Y;Yes;14;3;4;80;1;3;3;2;1;0;0;0;1
+VK0810;30;26-35;No;TravelRarely;852;Administration;1;1;Life Sciences;1;104;4;Male;2;2;Laboratory Technician;4;Married;80909;6-10 LPA;50568;1;Y;Yes;12;3;3;80;2;10;1;2;10;8;3;0;0
+VK7010;58;55+;Yes;TravelRarely;289;Operations;2;3;Technical Degree;1;977;4;Male;3;1;Research Scientist;3;Single;25058;3-6 LPA;15661;4;Y;No;24;4;1;80;0;7;4;3;1;0;0;0;1
+VK13660;29;26-35;Yes;Travel-Frequently;746;Sales;24;3;Technical Degree;1;1928;3;Male;4;1;Sales Representative;1;Single;87416;10+ LPA;54635;1;Y;No;17;3;4;80;0;1;3;3;1;0;0;0;1
+VK13330;29;26-35;Yes;Travel-Frequently;459;Administration;24;2;Life Sciences;1;1868;4;Male;2;1;Research Scientist;4;Single;23399;0-3 LPA;14624;1;Y;Yes;24;4;2;80;0;1;3;2;1;0;1;0;1
+VK13300;29;26-35;No;TravelRarely;352;Human Resources;6;1;Medical;1;1865;4;Male;2;1;Human Resources;2;Married;59871;6-10 LPA;37419;1;Y;No;11;3;4;80;0;1;3;3;1;0;0;0;0
+VK13140;29;26-35;Yes;TravelRarely;350;Human Resources;13;3;Human Resources;1;1844;1;Male;2;1;Human Resources;1;Single;92412;10+ LPA;57758;4;Y;Yes;15;3;4;80;3;4;3;3;2;2;2;0;1
+VK13720;56;55+;No;TravelRarely;1443;IT;11;5;Marketing;1;1935;4;Female;2;2;Sales Executive;1;Married;29769;3-6 LPA;18606;4;Y;No;16;3;3;80;1;6;3;3;0;0;0;0;0
+VK12590;29;26-35;No;TravelRarely;590;Administration;4;3;Technical Degree;1;1762;4;Female;2;1;Research Scientist;1;Single;24328;0-3 LPA;15205;1;Y;No;13;3;3;80;1;1;2;3;1;0;0;0;0
+VK10580;29;26-35;Yes;Travel-Frequently;115;Sales;13;3;Technical Degree;1;1487;1;Female;3;2;Sales Executive;2;Single;39360;3-6 LPA;246;5;Y;No;11;3;1;80;0;7;4;1;5;3;0;0;1
+VK9040;29;26-35;No;TravelRarely;1329;Administration;7;3;Life Sciences;1;1260;3;Male;3;2;Healthcare Representative;4;Single;6539;0-3 LPA;4087;1;Y;Yes;11;3;2;80;2;6;2;3;6;0;1;0;0
+VK7120;29;26-35;Yes;TravelRarely;906;Administration;10;3;Life Sciences;1;994;4;Female;2;1;Research Scientist;1;Single;67690;6-10 LPA;42306;6;Y;Yes;20;4;3;80;0;3;5;3;0;0;0;0;1
+VK5900;29;26-35;Yes;TravelRarely;805;Administration;1;2;Life Sciences;1;816;2;Female;2;1;Laboratory Technician;1;Married;44016;3-6 LPA;2751;1;Y;Yes;11;3;4;80;1;1;1;3;1;0;0;0;1
+VK5470;29;26-35;No;TravelRarely;1396;Sales;10;3;Life Sciences;1;749;3;Male;3;1;Sales Representative;3;Single;30855;3-6 LPA;19284;1;Y;No;11;3;3;80;0;1;6;3;1;0;0;0;0
+VK2660;29;26-35;No;TravelRarely;1210;Sales;2;3;Medical;1;366;1;Male;2;2;Sales Executive;2;Married;86981;10+ LPA;54363;2;Y;No;19;3;2;80;2;10;2;3;0;0;0;0;0
+VK13750;58;55+;No;TravelRarely;605;Sales;21;3;Life Sciences;1;1938;4;Female;3;4;Manager;4;Married;2524;0-3 LPA;1578;4;Y;Yes;13;3;3;80;1;29;2;2;1;0;0;0;0
+VK2260;59;55+;No;TravelRarely;142;Operations;3;3;Life Sciences;1;309;3;Male;2;1;Research Scientist;4;Married;35008;3-6 LPA;2188;3;Y;No;17;3;1;80;1;7;6;3;1;0;0;0;0
+VK13380;28;26-35;No;TravelRarely;1172;Sales;3;3;Medical;1;1875;2;Female;3;1;Sales Representative;2;Married;68270;6-10 LPA;42669;1;Y;No;19;3;4;80;1;1;3;3;1;0;0;0;0
+VK11050;29;26-35;No;TravelRarely;598;Administration;9;3;Life Sciences;1;1558;3;Male;4;1;Research Scientist;3;Married;22357;0-3 LPA;13973;6;Y;No;18;3;1;80;2;5;2;2;1;0;0;0;0
+VK8510;32;26-35;No;Non-Travel;862;Sales;2;1;Life Sciences;1;1190;3;Female;3;1;Sales Representative;1;Single;45078;3-6 LPA;28174;1;Y;No;12;3;3;80;3;1;3;3;1;0;0;0;0
+VK3820;30;26-35;No;TravelRarely;202;Sales;2;1;Technical Degree;1;508;3;Male;3;1;Sales Representative;2;Married;41764;3-6 LPA;26102;1;Y;No;18;3;1;80;1;1;3;3;1;0;0;0;0
+VK4810;30;26-35;Yes;Travel-Frequently;448;Sales;12;4;Life Sciences;1;648;2;Male;2;1;Sales Representative;1;Married;83989;10+ LPA;52493;1;Y;No;18;3;3;80;1;1;2;4;1;0;0;0;1
+VK9150;55;46-55;No;Non-Travel;177;Operations;8;1;Medical;1;1278;4;Male;2;4;Healthcare Representative;2;Single;36737;3-6 LPA;22961;1;Y;Yes;15;3;4;80;1;34;3;3;33;9;15;0;0
+VK1020;32;26-35;No;TravelRarely;827;Administration;1;1;Life Sciences;1;134;4;Male;3;1;Research Scientist;1;Single;90480;10+ LPA;5655;1;Y;No;13;3;4;80;0;1;2;3;1;0;0;0;0
+VK10110;55;46-55;No;TravelRarely;1136;Operations;1;4;Medical;1;1424;2;Male;4;4;Research Director;4;Married;37397;3-6 LPA;23373;2;Y;No;13;3;4;80;2;31;4;4;7;7;0;0;0
+VK12650;55;46-55;No;TravelRarely;478;Operations;2;3;Medical;1;1770;3;Male;2;5;Research Director;1;Married;20250;0-3 LPA;12656;8;Y;No;12;3;2;80;3;34;2;3;1;0;0;0;0
+VK14030;31;26-35;No;TravelRarely;1276;Administration;2;1;Medical;1;1974;4;Female;1;1;Laboratory Technician;4;Single;74847;6-10 LPA;46779;1;Y;Yes;11;3;3;80;3;1;4;3;1;0;0;0;0
+VK13130;31;26-35;Yes;TravelRarely;359;Finance;18;5;Human Resources;1;1842;4;Male;4;1;Human Resources;1;Married;73615;6-10 LPA;46009;0;Y;No;17;3;3;80;0;2;4;3;1;0;0;0;1
+VK12580;31;26-35;Yes;TravelRarely;1079;Sales;16;4;Marketing;1;1761;1;Male;3;3;Sales Executive;3;Married;70678;6-10 LPA;44174;2;Y;No;13;3;1;80;3;10;2;3;1;0;0;0;1
+VK10170;31;26-35;Yes;TravelRarely;202;Administration;8;3;Life Sciences;1;1433;1;Female;2;1;Research Scientist;2;Single;81135;6-10 LPA;50709;1;Y;No;12;3;3;80;0;1;3;4;1;0;0;0;1
+VK10150;31;26-35;No;TravelRarely;182;Administration;8;5;Life Sciences;1;1430;1;Female;3;4;Research Director;2;Single;93772;10+ LPA;58608;3;Y;No;11;3;3;80;0;9;3;4;3;2;1;0;0
+VK3860;30;26-35;Yes;Travel-Frequently;464;Administration;4;3;Technical Degree;1;514;3;Male;3;1;Research Scientist;4;Single;75543;6-10 LPA;47214;9;Y;Yes;23;4;3;80;0;3;4;3;1;0;0;0;1
+VK10130;31;26-35;Yes;Travel-Frequently;667;Sales;1;4;Life Sciences;1;1427;2;Female;1;1;Sales Representative;3;Single;69027;6-10 LPA;43142;1;Y;No;12;3;2;80;0;1;3;3;1;0;0;0;1
+VK6800;31;26-35;No;Non-Travel;1188;Sales;20;2;Marketing;1;947;4;Female;3;2;Sales Executive;3;Married;53921;6-10 LPA;33701;1;Y;No;13;3;4;80;1;9;2;2;9;8;0;0;0
+VK4400;31;26-35;Yes;Travel-Frequently;534;Administration;20;3;Life Sciences;1;587;1;Male;3;3;Healthcare Representative;3;Married;88922;10+ LPA;55576;3;Y;No;12;3;1;80;0;12;2;3;1;0;0;0;1
+VK3110;31;26-35;No;TravelRarely;106;Finance;2;3;Human Resources;1;424;1;Male;2;2;Human Resources;1;Married;88545;10+ LPA;55341;3;Y;No;12;3;4;80;0;9;1;3;2;2;1;0;0
+VK10240;56;55+;No;TravelRarely;1255;Operations;1;2;Life Sciences;1;1441;1;Female;3;1;Research Scientist;1;Married;12046;0-3 LPA;7529;2;Y;No;22;4;4;80;1;5;3;4;3;2;1;0;0
+VK13550;56;55+;Yes;TravelRarely;1162;Operations;24;2;Life Sciences;1;1907;1;Male;3;1;Laboratory Technician;4;Single;97999;10+ LPA;61249;1;Y;No;16;3;4;80;0;5;3;3;4;2;1;0;1
+VK13390;30;26-35;Yes;TravelRarely;945;Sales;9;3;Medical;1;1876;2;Male;3;1;Sales Representative;4;Single;57958;6-10 LPA;36224;1;Y;No;13;3;3;80;0;1;3;2;1;0;0;0;1
+VK10530;30;26-35;No;Non-Travel;990;Administration;7;3;Technical Degree;1;1482;3;Male;3;1;Research Scientist;3;Single;35584;3-6 LPA;2224;1;Y;No;13;3;2;80;2;1;2;2;1;0;0;0;0
+VK6030;30;26-35;No;TravelRarely;946;Administration;2;3;Medical;1;833;3;Female;2;2;Manufacturing Director;4;Single;33635;3-6 LPA;21022;5;Y;Yes;24;4;2;80;0;12;4;2;0;0;0;0;0
+VK5020;30;26-35;No;Travel-Frequently;160;Administration;3;3;Medical;1;680;3;Female;3;1;Research Scientist;3;Single;37212;3-6 LPA;23258;1;Y;No;20;4;3;80;1;1;2;3;1;0;0;0;0
+VK9530;31;26-35;Yes;Travel-Frequently;1060;Sales;1;3;Life Sciences;1;1331;4;Female;3;1;Sales Representative;2;Single;54006;6-10 LPA;33754;1;Y;Yes;11;3;1;80;0;3;2;4;3;2;2;0;1
+VK1900;51;46-55;No;TravelRarely;313;Operations;3;3;Medical;1;258;4;Female;3;4;Healthcare Representative;2;Single;5425;0-3 LPA;3391;3;Y;No;18;3;3;80;0;21;6;3;7;7;1;0;0
+VK11220;36;36-45;No;TravelRarely;884;Marketing;1;4;Life Sciences;1;1585;2;Female;3;2;Sales Executive;3;Single;63292;6-10 LPA;39558;6;Y;No;13;3;1;80;0;15;5;3;1;0;0;0;0
+VK7620;36;36-45;Yes;TravelRarely;660;Operations;15;3;Other;1;1052;1;Male;3;2;Laboratory Technician;3;Single;51990;6-10 LPA;32494;7;Y;No;14;3;2;80;1;9;3;2;1;0;0;0;1
+VK9260;42;36-45;No;TravelRarely;603;Operations;7;4;Medical;1;1292;2;Female;4;2;Research Scientist;2;Married;6415;0-3 LPA;4009;6;Y;Yes;16;3;4;80;0;18;2;3;1;0;0;0;0
+VK8880;42;36-45;No;Travel-Frequently;458;Operations;26;5;Medical;1;1242;1;Female;3;3;Research Director;1;Married;74698;6-10 LPA;46686;3;Y;Yes;17;3;3;80;0;20;6;3;1;0;0;0;0
+VK8250;42;36-45;No;TravelRarely;188;Operations;29;3;Medical;1;1148;2;Male;1;2;Laboratory Technician;4;Single;9567;0-3 LPA;5979;4;Y;No;19;3;1;80;0;16;3;3;1;0;0;0;0
+VK7420;42;36-45;No;TravelRarely;265;IT;5;2;Marketing;1;1029;4;Male;3;5;Manager;3;Married;43929;3-6 LPA;27456;6;Y;No;13;3;2;80;0;21;3;4;1;0;0;0;0
+VK4420;42;36-45;No;Travel-Frequently;1474;Operations;5;2;Other;1;591;2;Male;3;1;Laboratory Technician;3;Married;80767;6-10 LPA;50479;4;Y;No;17;3;4;80;1;8;4;3;2;2;2;0;0
+VK3530;48;46-55;No;TravelRarely;530;IT;29;1;Medical;1;473;1;Female;3;3;Manager;3;Married;25917;3-6 LPA;16198;3;Y;No;21;4;2;80;1;15;3;1;0;0;0;0;0
+VK3570;42;36-45;No;TravelRarely;1332;Operations;2;4;Other;1;477;1;Male;2;2;Healthcare Representative;4;Single;2342;0-3 LPA;1464;3;Y;No;23;4;2;80;0;14;6;3;1;0;0;0;0
+VK3510;42;36-45;No;TravelRarely;544;Finance;2;1;Technical Degree;1;470;3;Male;3;1;Human Resources;3;Married;9512;0-3 LPA;5945;0;Y;Yes;11;3;3;80;1;4;5;3;3;2;1;0;0
+VK3490;42;36-45;No;TravelRarely;810;Operations;23;5;Life Sciences;1;468;1;Female;3;4;Research Director;4;Single;35387;3-6 LPA;22117;2;Y;No;14;3;2;80;0;16;2;3;1;0;0;0;0
+VK10890;42;36-45;No;TravelRarely;1210;Operations;2;3;Medical;1;1542;3;Male;2;1;Laboratory Technician;2;Married;88388;10+ LPA;55242;4;Y;No;14;3;2;80;1;4;3;3;1;0;0;0;0
+VK6790;48;46-55;No;TravelRarely;1469;Operations;20;4;Medical;1;945;4;Male;3;1;Research Scientist;3;Married;63823;6-10 LPA;39889;4;Y;No;17;3;1;80;2;13;2;2;0;0;0;0;0
+VK9050;48;46-55;No;TravelRarely;715;Operations;1;3;Life Sciences;1;1263;4;Male;2;5;Research Director;4;Single;93374;10+ LPA;58359;6;Y;No;12;3;3;80;0;25;3;4;1;0;0;0;0
+VK14210;41;36-45;No;TravelRarely;642;Operations;1;3;Life Sciences;1;1999;4;Male;3;1;Research Scientist;4;Married;48362;3-6 LPA;30226;3;Y;No;22;4;1;80;1;12;3;3;5;3;1;0;0
+VK8650;41;36-45;Yes;Non-Travel;906;Operations;5;2;Life Sciences;1;1210;1;Male;2;1;Research Scientist;1;Single;92922;10+ LPA;58076;6;Y;No;17;3;1;80;1;5;2;1;1;0;0;0;1
+VK8310;41;36-45;No;TravelRarely;167;Operations;12;4;Life Sciences;1;1158;2;Male;3;1;Laboratory Technician;4;Married;65323;6-10 LPA;40827;3;Y;Yes;11;3;1;80;1;6;4;3;1;0;0;0;0
+VK6680;41;36-45;Yes;TravelRarely;1085;Operations;2;4;Life Sciences;1;927;2;Female;1;1;Laboratory Technician;4;Married;47514;3-6 LPA;29696;4;Y;Yes;13;3;3;80;1;10;1;2;7;7;1;0;1
+VK3760;49;46-55;No;TravelRarely;1261;Operations;7;3;Other;1;499;2;Male;2;3;Healthcare Representative;3;Single;94607;10+ LPA;59129;8;Y;No;24;4;3;80;0;26;2;3;5;2;0;0;0
+VK2430;41;36-45;No;TravelRarely;1411;Operations;19;2;Life Sciences;1;334;3;Male;3;2;Research Scientist;1;Married;80579;6-10 LPA;50362;2;Y;No;16;3;1;80;2;17;2;2;1;0;0;0;0
+VK2160;41;36-45;No;TravelRarely;896;IT;6;3;Life Sciences;1;298;4;Female;3;3;Manager;4;Single;42427;3-6 LPA;26517;3;Y;Yes;18;3;3;80;0;16;3;3;1;0;0;0;0
+VK14280;40;36-45;No;TravelRarely;543;Operations;1;4;Life Sciences;1;2012;1;Male;3;1;Laboratory Technician;4;Married;14918;0-3 LPA;9324;8;Y;No;19;3;3;80;2;8;3;2;1;0;0;0;0
+VK9020;48;46-55;No;TravelRarely;969;Operations;2;2;Technical Degree;1;1258;4;Male;4;1;Laboratory Technician;2;Single;42949;3-6 LPA;26843;5;Y;No;11;3;3;80;0;7;4;2;1;0;0;0;0
+VK12300;40;36-45;No;TravelRarely;369;Operations;8;2;Life Sciences;1;1724;2;Female;3;2;Manufacturing Director;1;Married;93436;10+ LPA;58398;2;Y;Yes;16;3;2;80;1;18;3;3;1;0;0;0;0
+VK12880;42;36-45;No;TravelRarely;1128;Operations;13;3;Medical;1;1803;2;Male;4;2;Healthcare Representative;1;Married;31523;3-6 LPA;19702;5;Y;No;18;3;3;80;2;10;2;2;0;0;0;0;0
+VK13790;42;36-45;No;TravelRarely;419;IT;12;4;Marketing;1;1943;2;Male;3;2;Sales Executive;4;Married;20282;0-3 LPA;12676;3;Y;Yes;12;3;3;80;2;14;4;3;0;0;0;0;0
+VK3480;47;46-55;No;Travel-Frequently;1309;IT;4;1;Medical;1;467;2;Male;3;2;Sales Representative;3;Single;37368;3-6 LPA;23355;3;Y;No;19;3;1;80;0;5;3;3;0;0;0;0;0
+VK9370;45;36-45;No;Travel-Frequently;364;Operations;25;3;Medical;1;1306;2;Female;3;5;Manager;2;Single;57942;6-10 LPA;36214;3;Y;No;22;4;3;80;0;22;4;3;0;0;0;0;0
+VK6040;45;36-45;No;TravelRarely;252;Operations;2;3;Life Sciences;1;834;2;Female;2;1;Research Scientist;3;Single;56318;6-10 LPA;35199;1;Y;No;14;3;4;80;0;1;3;3;1;0;0;0;0
+VK5050;45;36-45;Yes;Travel-Frequently;306;IT;26;4;Life Sciences;1;684;1;Female;3;2;Sales Executive;1;Married;77325;6-10 LPA;48328;2;Y;No;14;3;4;80;2;5;4;3;1;1;0;0;1
+VK5930;47;46-55;No;TravelRarely;202;Operations;2;2;Other;1;820;3;Female;3;4;Manager;4;Married;68526;6-10 LPA;42829;1;Y;Yes;11;3;3;80;1;26;3;2;26;14;3;0;0
+VK11550;47;46-55;No;TravelRarely;1176;Human Resources;26;4;Life Sciences;1;1625;4;Female;3;5;Manager;3;Married;5757;0-3 LPA;3598;3;Y;No;11;3;3;80;1;27;2;3;5;2;1;0;0
+VK12350;47;46-55;No;Non-Travel;543;IT;2;4;Marketing;1;1731;3;Male;3;2;Sales Executive;2;Married;17241;0-3 LPA;10776;7;Y;No;11;3;4;80;1;4;3;1;1;0;0;0;0
+VK0680;45;36-45;No;TravelRarely;1339;Operations;7;3;Life Sciences;1;86;2;Male;3;3;Research Scientist;1;Married;65435;6-10 LPA;40897;2;Y;No;17;3;3;80;1;25;2;3;1;0;0;0;0
+VK10520;44;36-45;No;Travel-Frequently;383;IT;1;5;Marketing;1;1481;1;Female;3;2;Sales Executive;3;Married;20029;0-3 LPA;12518;7;Y;No;12;3;3;80;1;11;4;2;1;0;0;0;0
+VK13260;42;36-45;No;TravelRarely;1142;Operations;8;3;Life Sciences;1;1860;4;Male;3;1;Laboratory Technician;3;Single;87740;10+ LPA;54838;4;Y;No;13;3;4;80;0;8;3;3;0;0;0;0;0
+VK8630;44;36-45;No;Non-Travel;111;Operations;17;3;Life Sciences;1;1206;4;Male;1;1;Research Scientist;3;Single;11789;0-3 LPA;7368;2;Y;No;13;3;4;80;0;6;3;3;0;0;0;0;0
+VK13220;47;46-55;No;TravelRarely;207;Operations;9;4;Life Sciences;1;1856;2;Female;3;1;Laboratory Technician;3;Single;71480;6-10 LPA;44675;4;Y;No;12;3;3;80;0;7;2;3;2;2;2;0;0
+VK12630;43;36-45;Yes;Travel-Frequently;807;Operations;17;3;Technical Degree;1;1767;3;Male;2;1;Research Scientist;3;Married;12302;0-3 LPA;7689;9;Y;Yes;16;3;4;80;1;6;4;3;1;0;0;0;1
+VK7760;43;36-45;No;TravelRarely;415;IT;25;3;Medical;1;1076;3;Male;2;3;Sales Executive;4;Married;20096;0-3 LPA;1256;5;Y;No;13;3;3;80;1;18;5;3;1;0;0;0;0
+VK6620;43;36-45;No;TravelRarely;177;Operations;8;3;Life Sciences;1;920;1;Female;3;2;Manufacturing Director;2;Married;10184;0-3 LPA;6365;4;Y;No;21;4;3;80;1;4;2;4;1;0;0;0;0
+VK6100;43;36-45;No;TravelRarely;589;Operations;14;2;Life Sciences;1;843;2;Male;3;4;Research Director;1;Married;88062;10+ LPA;55039;6;Y;No;24;4;3;80;1;22;3;3;4;1;1;0;0
+VK0510;48;46-55;Yes;TravelRarely;626;Operations;1;2;Life Sciences;1;64;1;Male;2;3;Laboratory Technician;3;Single;53853;6-10 LPA;33658;9;Y;Yes;13;3;4;80;0;23;2;3;1;0;0;0;1
+VK4900;43;36-45;No;TravelRarely;782;Operations;6;4;Other;1;661;2;Male;2;4;Research Director;4;Married;74340;6-10 LPA;46462;4;Y;Yes;14;3;3;80;1;21;3;2;1;0;0;0;0
+VK3340;43;36-45;No;TravelRarely;1001;Operations;7;3;Life Sciences;1;451;3;Female;3;3;Healthcare Representative;1;Married;30287;3-6 LPA;18929;8;Y;No;16;3;1;80;1;10;1;2;1;0;0;0;0
+VK3310;43;36-45;No;Travel-Frequently;559;Operations;10;4;Life Sciences;1;448;3;Female;2;2;Laboratory Technician;3;Single;76046;6-10 LPA;47529;1;Y;No;11;3;2;80;1;9;3;4;9;7;0;0;0
+VK2870;44;36-45;Yes;Travel-Frequently;920;Operations;24;3;Life Sciences;1;392;4;Male;3;1;Laboratory Technician;3;Single;57819;6-10 LPA;36137;3;Y;Yes;22;4;4;80;1;19;0;1;1;0;0;0;1
+VK10840;40;36-45;Yes;TravelRarely;676;Operations;9;4;Life Sciences;1;1534;4;Male;3;1;Laboratory Technician;1;Single;35529;3-6 LPA;22206;3;Y;No;14;3;2;80;0;15;3;1;5;4;1;0;1
+VK9000;49;46-55;No;TravelRarely;1098;Operations;4;2;Medical;1;1256;1;Male;2;5;Manager;3;Married;49302;3-6 LPA;30814;2;Y;No;13;3;3;80;1;23;2;4;1;0;0;0;0
+VK11960;49;46-55;No;TravelRarely;809;Operations;1;3;Life Sciences;1;1677;3;Male;3;4;Manager;3;Single;56168;6-10 LPA;35105;4;Y;No;14;3;1;80;0;23;2;3;8;7;0;0;0
+VK5430;38;36-45;No;TravelRarely;168;Operations;1;3;Life Sciences;1;743;3;Female;3;3;Manufacturing Director;3;Single;44088;3-6 LPA;27555;4;Y;Yes;14;3;4;80;0;10;4;4;1;0;0;0;0
+VK4910;38;36-45;No;TravelRarely;362;Operations;1;1;Life Sciences;1;662;3;Female;3;1;Research Scientist;1;Single;71173;6-10 LPA;44483;3;Y;No;17;3;4;80;0;8;3;2;0;0;0;0;0
+VK4720;38;36-45;No;TravelRarely;1495;Operations;10;3;Medical;1;634;3;Female;3;2;Healthcare Representative;3;Married;43318;3-6 LPA;27074;3;Y;No;19;3;3;80;1;18;4;3;1;0;0;0;0
+VK4170;38;36-45;No;Travel-Frequently;1490;Operations;2;2;Life Sciences;1;556;4;Male;3;1;Laboratory Technician;4;Married;98239;10+ LPA;61399;1;Y;Yes;23;4;3;80;1;1;3;3;1;0;0;0;0
+VK2050;38;36-45;Yes;TravelRarely;1180;Operations;29;1;Medical;1;282;2;Male;3;2;Healthcare Representative;1;Married;24386;0-3 LPA;15241;7;Y;Yes;19;3;2;80;0;17;2;3;1;0;0;0;1
+VK1990;38;36-45;No;TravelRarely;1261;Operations;2;4;Life Sciences;1;271;4;Male;3;2;Manufacturing Director;3;Married;7941;0-3 LPA;4963;9;Y;No;14;3;2;80;0;14;3;3;1;0;0;0;0
+VK14620;50;46-55;Yes;TravelRarely;410;IT;28;3;Marketing;1;2055;4;Male;2;3;Sales Executive;1;Married;13175;0-3 LPA;8234;4;Y;Yes;13;3;2;80;1;20;3;3;3;2;2;0;1
+VK7960;37;36-45;No;TravelRarely;309;Marketing;10;4;Life Sciences;1;1105;4;Female;2;2;Sales Executive;4;Married;25285;3-6 LPA;15803;2;Y;Yes;14;3;3;80;3;8;5;3;1;0;0;0;0
+VK7450;37;36-45;Yes;TravelRarely;1141;Operations;11;2;Medical;1;1033;1;Female;1;2;Healthcare Representative;2;Married;43944;3-6 LPA;27465;5;Y;No;15;3;1;80;0;15;2;1;1;0;0;0;1
+VK7480;38;36-45;No;TravelRarely;1035;IT;3;4;Life Sciences;1;1036;2;Male;3;2;Sales Executive;4;Single;74477;6-10 LPA;46548;8;Y;Yes;12;3;3;80;0;19;1;3;1;0;0;0;0
+VK6490;37;36-45;No;Travel-Frequently;1231;Marketing;21;2;Medical;1;900;3;Female;3;1;Sales Representative;4;Married;95074;10+ LPA;59421;5;Y;No;15;3;2;80;1;10;3;3;5;4;0;0;0
+VK5230;37;36-45;No;TravelRarely;1225;Operations;10;2;Life Sciences;1;715;4;Male;4;1;Research Scientist;4;Single;62877;6-10 LPA;39298;3;Y;No;17;3;1;80;0;4;2;3;1;0;0;0;0
+VK4870;37;36-45;No;TravelRarely;558;Marketing;2;3;Marketing;1;656;4;Male;3;2;Sales Executive;3;Married;15489;0-3 LPA;9681;4;Y;Yes;11;3;3;80;1;17;3;2;3;0;1;0;0
+VK0920;51;46-55;No;TravelRarely;632;IT;21;4;Marketing;1;120;3;Male;3;2;Sales Executive;4;Single;87925;10+ LPA;54953;0;Y;Yes;22;4;4;80;0;11;2;1;10;7;1;0;0
+VK1570;51;46-55;No;TravelRarely;1169;Operations;7;4;Medical;1;211;2;Male;2;2;Manufacturing Director;3;Married;7150;0-3 LPA;4469;2;Y;No;17;3;3;80;0;10;2;3;1;0;0;0;0
+VK1050;37;36-45;No;Non-Travel;1040;Operations;2;2;Life Sciences;1;139;3;Male;2;2;Healthcare Representative;4;Single;70172;6-10 LPA;43858;5;Y;No;14;3;4;80;1;17;2;4;1;0;0;0;0
+VK0480;37;36-45;No;TravelRarely;408;Operations;19;2;Life Sciences;1;61;2;Male;3;1;Research Scientist;2;Married;81642;6-10 LPA;51026;4;Y;No;21;4;1;80;0;8;1;3;1;0;0;0;0
+VK0030;37;36-45;Yes;TravelRarely;1373;Operations;2;2;Other;1;4;4;Male;2;1;Laboratory Technician;3;Single;10860;0-3 LPA;6788;6;Y;Yes;15;3;2;80;0;7;3;3;0;0;0;0;1
+VK14540;36;36-45;No;TravelRarely;1120;Marketing;11;4;Marketing;1;2045;2;Female;2;2;Sales Executive;4;Married;19384;0-3 LPA;12115;4;Y;No;13;3;1;80;1;8;2;2;6;3;0;0;0
+VK13160;36;36-45;No;TravelRarely;430;Operations;2;4;Other;1;1847;4;Female;3;2;Research Scientist;2;Married;76880;6-10 LPA;4805;4;Y;Yes;22;4;4;80;1;15;2;3;1;0;0;0;0
+VK6290;37;36-45;No;TravelRarely;342;Marketing;16;4;Marketing;1;868;4;Male;2;2;Sales Executive;3;Married;50922;6-10 LPA;31826;4;Y;No;19;3;4;80;2;9;2;3;1;0;0;0;0
+VK8120;38;36-45;No;TravelRarely;130;IT;2;2;Marketing;1;1125;4;Male;3;3;Sales Executive;2;Single;37586;3-6 LPA;23491;7;Y;No;16;3;3;80;0;10;2;3;1;0;0;0;0
+VK8270;38;36-45;No;TravelRarely;433;Finance;1;3;Human Resources;1;1152;3;Male;4;1;Human Resources;3;Married;13015;0-3 LPA;8134;1;Y;No;13;3;4;80;1;7;2;4;7;6;5;0;0
+VK11520;28;26-35;No;TravelRarely;580;Administration;27;3;Medical;1;1622;2;Female;1;2;Manufacturing Director;1;Single;35754;3-6 LPA;22346;0;Y;No;21;4;2;80;1;6;5;2;5;3;0;0;0
+VK9580;40;36-45;No;Non-Travel;458;Operations;16;2;Life Sciences;1;1340;3;Male;3;1;Research Scientist;3;Single;73274;6-10 LPA;45796;9;Y;No;16;3;2;80;1;6;0;3;4;2;0;0;0
+VK9470;40;36-45;Yes;TravelRarely;299;IT;25;4;Marketing;1;1318;4;Male;2;3;Sales Executive;2;Single;24275;0-3 LPA;15172;2;Y;Yes;12;3;3;80;0;9;2;3;5;4;1;0;1
+VK7430;50;46-55;No;TravelRarely;804;Operations;9;3;Life Sciences;1;1030;1;Male;3;1;Laboratory Technician;4;Married;40986;3-6 LPA;25616;4;Y;No;18;3;2;80;0;8;5;3;1;0;0;0;0
+VK8670;40;36-45;No;Travel-Frequently;1184;IT;2;4;Medical;1;1212;2;Male;3;2;Sales Executive;2;Married;78735;6-10 LPA;49209;5;Y;No;12;3;4;80;3;5;2;3;0;0;0;0;0
+VK8460;40;36-45;No;Travel-Frequently;902;Operations;26;2;Medical;1;1180;3;Female;2;2;Research Scientist;4;Married;74479;6-10 LPA;46549;3;Y;Yes;13;3;4;80;1;16;3;1;1;1;0;0;0
+VK7070;40;36-45;Yes;Non-Travel;1479;IT;24;3;Life Sciences;1;986;2;Female;4;4;Sales Executive;2;Single;27734;3-6 LPA;17334;4;Y;Yes;16;3;4;80;0;22;2;2;1;0;0;0;1
+VK6920;40;36-45;No;Travel-Frequently;1469;Operations;9;4;Medical;1;964;4;Male;3;1;Research Scientist;2;Single;83152;6-10 LPA;5197;8;Y;Yes;14;3;4;80;1;3;2;3;1;1;0;0;0
+VK6850;40;36-45;No;TravelRarely;658;IT;10;4;Marketing;1;954;1;Male;2;3;Sales Executive;2;Married;74794;6-10 LPA;46746;2;Y;No;12;3;2;80;1;11;2;2;1;0;0;0;0
+VK6020;40;36-45;No;Travel-Frequently;720;Operations;16;4;Medical;1;832;1;Male;2;2;Laboratory Technician;3;Single;8561;0-3 LPA;5351;6;Y;No;14;3;4;80;0;10;6;3;1;0;0;0;0
+VK3920;40;36-45;No;TravelRarely;555;Operations;2;3;Medical;1;521;2;Female;2;2;Laboratory Technician;3;Married;96462;10+ LPA;60289;6;Y;No;22;4;2;80;1;20;3;3;1;0;0;0;0
+VK3690;40;36-45;Yes;TravelRarely;575;IT;22;2;Marketing;1;492;3;Male;2;2;Sales Executive;3;Married;2062;0-3 LPA;1289;2;Y;Yes;12;3;1;80;2;8;6;3;6;4;1;0;1
+VK8020;50;46-55;Yes;Travel-Frequently;959;IT;1;4;Other;1;1113;4;Male;3;2;Sales Executive;3;Single;80111;6-10 LPA;50069;3;Y;Yes;14;3;4;80;0;5;4;3;0;0;0;0;1
+VK11270;50;46-55;No;TravelRarely;264;IT;9;3;Marketing;1;1591;3;Male;3;5;Manager;3;Married;88127;10+ LPA;55079;4;Y;Yes;16;3;3;80;1;27;2;3;1;0;0;0;0
+VK11760;39;36-45;No;TravelRarely;492;Operations;12;3;Medical;1;1654;4;Male;3;2;Manufacturing Director;2;Married;9717;0-3 LPA;6073;4;Y;No;21;4;3;80;0;7;3;3;5;4;1;0;0
+VK10330;39;36-45;Yes;Non-Travel;592;Operations;2;3;Life Sciences;1;1458;1;Female;2;1;Laboratory Technician;1;Single;80714;6-10 LPA;50446;2;Y;Yes;23;4;2;80;0;11;2;4;1;0;0;0;1
+VK3280;39;36-45;Yes;TravelRarely;1162;IT;3;2;Medical;1;445;4;Female;3;2;Sales Executive;3;Married;92865;10+ LPA;58041;4;Y;Yes;18;3;1;80;0;12;3;2;1;0;0;0;1
+VK14620;50;46-55;Yes;TravelRarely;410;IT;28;3;Marketing;1;2055;4;Male;2;3;Sales Executive;1;Married;85458;10+ LPA;53411;4;Y;Yes;13;3;2;80;1;20;3;3;3;2;2;0;1
+VK0340;39;36-45;Yes;TravelRarely;895;IT;5;3;Technical Degree;1;42;4;Male;3;2;Sales Representative;4;Married;24061;0-3 LPA;15038;3;Y;No;14;3;3;80;1;19;6;4;1;0;0;0;1
+VK13920;38;36-45;No;TravelRarely;1404;IT;1;3;Life Sciences;1;1961;1;Male;2;1;Sales Representative;1;Single;12314;0-3 LPA;7696;4;Y;No;14;3;1;80;0;20;3;2;1;0;0;0;0
+VK12620;38;36-45;No;TravelRarely;833;Operations;18;3;Medical;1;1766;2;Male;1;2;Healthcare Representative;4;Married;42240;3-6 LPA;264;3;Y;Yes;16;3;3;80;1;15;2;3;1;0;1;0;0
+VK12030;38;36-45;No;TravelRarely;1495;Operations;4;2;Medical;1;1687;4;Female;3;1;Laboratory Technician;3;Married;25071;3-6 LPA;15669;7;Y;No;19;3;4;80;1;7;5;2;0;0;0;0;0
+VK3850;36;36-45;No;TravelRarely;164;Marketing;2;2;Medical;1;513;2;Male;2;3;Sales Executive;3;Married;48605;3-6 LPA;30378;1;Y;No;13;3;2;80;2;10;2;3;10;9;9;0;0
+VK11370;28;26-35;Yes;TravelRarely;329;Administration;24;3;Medical;1;1604;3;Male;3;1;Laboratory Technician;2;Married;73082;6-10 LPA;45676;1;Y;Yes;17;3;3;80;3;1;3;3;1;1;0;0;1
+VK2970;19;18-25;Yes;TravelRarely;230;Administration;3;3;Life Sciences;1;405;3;Male;3;1;Laboratory Technician;3;Single;16795;0-3 LPA;10497;1;Y;No;13;3;3;80;0;0;2;3;0;0;0;0;1
+VK12100;60;55+;No;TravelRarely;370;Operations;1;4;Medical;1;1697;3;Male;1;3;Healthcare Representative;4;Single;87123;10+ LPA;54452;3;Y;No;20;4;3;80;1;19;2;4;1;0;0;0;0
+VK9710;27;26-35;No;TravelRarely;1291;Sales;11;3;Medical;1;1364;3;Female;4;1;Sales Representative;4;Married;67199;6-10 LPA;41999;8;Y;No;14;3;2;80;1;5;4;3;1;0;0;0;0
+VK9750;27;26-35;No;Travel-Frequently;793;Sales;2;1;Life Sciences;1;1371;4;Male;1;2;Sales Executive;4;Single;35766;3-6 LPA;22354;3;Y;No;20;4;2;80;0;8;3;3;6;2;0;0;0
+VK0870;23;18-25;No;TravelRarely;541;Sales;2;1;Technical Degree;1;113;3;Male;3;1;Sales Representative;1;Single;93067;10+ LPA;58167;3;Y;No;13;3;3;80;1;3;3;3;0;0;0;0;0
+VK13400;22;18-25;Yes;TravelRarely;391;Administration;7;1;Life Sciences;1;1878;4;Male;3;1;Research Scientist;2;Single;81077;6-10 LPA;50673;1;Y;Yes;23;4;1;80;0;1;2;3;1;0;0;0;1
+VK12740;22;18-25;Yes;TravelRarely;1294;Administration;8;1;Medical;1;1783;3;Female;3;1;Laboratory Technician;1;Married;18159;0-3 LPA;11349;1;Y;Yes;17;3;3;80;0;1;6;3;1;0;0;0;1
+VK8610;22;18-25;Yes;Travel-Frequently;1256;Administration;3;4;Life Sciences;1;1203;3;Male;2;1;Research Scientist;4;Married;24483;0-3 LPA;15302;0;Y;Yes;11;3;2;80;1;1;5;3;0;0;0;0;1
+VK1100;22;18-25;No;TravelRarely;534;Administration;15;3;Medical;1;144;2;Female;3;1;Laboratory Technician;4;Single;97276;10+ LPA;60798;1;Y;No;15;3;3;80;0;1;5;3;0;0;0;0;0
+VK0180;22;18-25;No;Non-Travel;1123;Administration;16;2;Medical;1;22;4;Male;4;1;Laboratory Technician;4;Single;42606;3-6 LPA;26629;1;Y;Yes;13;3;2;80;2;1;2;2;1;0;0;0;0
+VK13800;27;26-35;Yes;Travel-Frequently;1337;Human Resources;22;3;Human Resources;1;1944;1;Female;2;1;Human Resources;2;Married;66318;6-10 LPA;41449;1;Y;No;12;3;1;80;0;1;2;3;1;0;0;0;1
+VK12720;22;18-25;Yes;TravelRarely;337;Sales;7;1;Marketing;1;1780;2;Male;3;1;Sales Representative;2;Single;70092;6-10 LPA;43808;1;Y;No;13;3;2;80;0;1;3;3;1;0;1;0;1
+VK6710;27;26-35;No;TravelRarely;618;Administration;4;3;Life Sciences;1;933;2;Female;3;1;Research Scientist;3;Single;22959;0-3 LPA;14349;1;Y;No;19;3;3;80;0;1;2;3;1;1;0;0;0
+VK7780;22;18-25;Yes;TravelRarely;1334;Administration;10;3;Life Sciences;1;1079;3;Female;2;1;Laboratory Technician;1;Single;57886;6-10 LPA;36179;1;Y;No;13;3;1;80;0;1;6;2;1;0;1;0;1
+VK3710;22;18-25;Yes;TravelRarely;156;Sales;12;3;Life Sciences;1;494;3;Female;4;1;Sales Representative;2;Single;85654;10+ LPA;53534;1;Y;No;15;3;4;80;0;1;0;3;1;0;0;0;1
+VK2750;22;18-25;No;TravelRarely;996;Administration;3;2;Medical;1;379;4;Male;2;1;Research Scientist;3;Single;3747;0-3 LPA;2342;1;Y;No;17;3;1;80;0;3;4;4;3;2;1;0;0
+VK2650;28;26-35;Yes;TravelRarely;529;Administration;2;4;Life Sciences;1;364;1;Male;3;1;Laboratory Technician;3;Single;1854;0-3 LPA;1159;2;Y;No;11;3;3;80;0;5;5;1;0;0;0;0;1
+VK7320;21;18-25;Yes;TravelRarely;1097;Administration;11;3;Medical;1;1016;4;Female;2;1;Research Scientist;1;Single;86305;10+ LPA;53941;1;Y;Yes;15;3;1;80;0;1;2;3;1;0;0;0;1
+VK6900;21;18-25;Yes;TravelRarely;129;Administration;4;3;Technical Degree;1;960;1;Male;3;1;Laboratory Technician;1;Single;54707;6-10 LPA;34192;1;Y;No;19;3;2;80;0;1;2;3;1;0;0;0;1
+VK7650;28;26-35;No;TravelRarely;1144;Sales;10;1;Medical;1;1056;4;Male;3;1;Sales Representative;2;Married;99506;10+ LPA;62191;1;Y;No;22;4;2;80;0;1;5;3;1;0;0;0;0
+VK4880;21;18-25;No;TravelRarely;959;Administration;1;3;Life Sciences;1;657;4;Female;2;1;Research Scientist;2;Single;68969;6-10 LPA;43106;1;Y;No;13;3;4;80;0;1;0;4;1;0;0;0;0
+VK1030;21;18-25;Yes;Travel-Frequently;871;Administration;6;3;Life Sciences;1;137;4;Female;2;1;Laboratory Technician;4;Single;65925;6-10 LPA;41203;1;Y;Yes;18;3;2;80;0;1;5;3;1;0;1;0;1
+VK8930;19;18-25;Yes;Non-Travel;504;Administration;10;3;Medical;1;1248;1;Female;2;1;Research Scientist;2;Single;60735;6-10 LPA;37959;1;Y;Yes;25;4;2;80;0;1;2;4;1;1;0;0;1
+VK6640;22;18-25;Yes;TravelRarely;1427;Administration;18;1;Other;1;923;4;Female;3;1;Research Scientist;4;Single;68435;6-10 LPA;42772;1;Y;No;19;3;1;80;0;1;3;2;1;0;0;0;1
+VK8540;19;18-25;No;TravelRarely;645;Administration;9;2;Life Sciences;1;1193;3;Male;3;1;Research Scientist;1;Single;1769;0-3 LPA;1106;1;Y;No;25;4;3;80;0;1;4;3;1;1;0;0;0
+VK6160;27;26-35;No;Non-Travel;443;Administration;3;3;Medical;1;850;4;Male;3;1;Research Scientist;4;Married;59053;6-10 LPA;36908;1;Y;No;11;3;3;80;3;0;6;2;0;0;0;0;0
+VK0350;24;18-25;Yes;TravelRarely;813;Administration;1;3;Medical;1;45;2;Male;3;1;Research Scientist;4;Married;38065;3-6 LPA;23791;2;Y;Yes;16;3;1;80;1;6;2;2;2;0;2;0;1
+VK7980;26;26-35;Yes;TravelRarely;1330;Administration;21;3;Medical;1;1107;1;Male;3;1;Laboratory Technician;3;Single;19141;0-3 LPA;11963;1;Y;No;20;4;3;80;1;1;0;2;1;1;0;0;1
+VK4540;26;26-35;Yes;Travel-Frequently;426;Human Resources;17;4;Life Sciences;1;608;2;Female;3;1;Human Resources;3;Single;28266;3-6 LPA;17666;0;Y;Yes;11;3;2;80;1;8;2;2;7;7;1;0;1
+VK4640;26;26-35;Yes;TravelRarely;471;Administration;24;3;Technical Degree;1;622;3;Male;1;1;Laboratory Technician;4;Single;83948;10+ LPA;52467;1;Y;Yes;18;3;2;80;0;1;3;1;1;0;0;0;1
+VK4610;26;26-35;No;TravelRarely;775;Sales;29;2;Medical;1;618;1;Male;3;2;Sales Executive;3;Single;53992;6-10 LPA;33745;5;Y;No;12;3;1;80;2;8;5;3;0;0;0;0;0
+VK11190;26;26-35;No;TravelRarely;474;Administration;3;3;Life Sciences;1;1581;1;Female;3;1;Research Scientist;4;Married;34827;3-6 LPA;21767;1;Y;No;21;4;1;80;0;1;5;3;1;0;0;0;0
+VK10700;28;26-35;No;TravelRarely;1423;Administration;1;3;Life Sciences;1;1506;1;Male;2;1;Research Scientist;3;Single;50811;6-10 LPA;31757;1;Y;No;14;3;4;80;1;1;2;1;1;0;0;0;0
+VK0550;26;26-35;No;TravelRarely;1443;Sales;23;3;Marketing;1;72;3;Female;2;2;Sales Executive;4;Married;80575;6-10 LPA;50359;7;Y;Yes;19;3;3;80;1;5;2;2;2;2;0;0;0
+VK13500;26;26-35;No;TravelRarely;482;Administration;1;2;Life Sciences;1;1893;2;Female;2;1;Research Scientist;3;Married;94426;10+ LPA;59016;1;Y;Yes;13;3;3;80;1;1;3;2;1;0;1;0;0
+VK14650;26;26-35;No;TravelRarely;1167;Sales;5;3;Other;1;2060;4;Female;2;1;Sales Representative;3;Single;65044;6-10 LPA;40652;0;Y;No;18;3;4;80;0;5;2;3;4;2;0;0;0
+VK14390;23;18-25;Yes;Travel-Frequently;638;Sales;9;3;Marketing;1;2023;4;Male;3;1;Sales Representative;1;Married;72211;6-10 LPA;45132;1;Y;No;19;3;1;80;1;1;3;2;1;0;1;0;1
+VK0420;27;26-35;No;TravelRarely;1240;Administration;2;4;Life Sciences;1;54;4;Female;3;1;Laboratory Technician;1;Single;3693;0-3 LPA;2308;1;Y;No;13;3;4;80;1;1;6;3;1;0;0;0;0
+VK6840;25;18-25;Yes;TravelRarely;867;Sales;19;2;Marketing;1;952;3;Male;2;1;Sales Representative;2;Married;13666;0-3 LPA;8541;1;Y;Yes;18;3;3;80;3;1;2;3;1;0;0;0;1
+VK2010;27;26-35;No;Travel-Frequently;472;Administration;1;1;Technical Degree;1;274;3;Male;2;2;Manufacturing Director;1;Married;43941;3-6 LPA;27463;5;Y;No;19;3;3;80;1;6;1;3;2;2;2;0;0
+VK12230;24;18-25;Yes;TravelRarely;240;Human Resources;22;1;Human Resources;1;1714;4;Male;1;1;Human Resources;3;Married;9571;0-3 LPA;5982;1;Y;No;11;3;3;80;1;1;2;3;1;0;0;0;1
+VK10980;24;18-25;No;TravelRarely;350;Administration;21;2;Technical Degree;1;1551;3;Male;2;1;Laboratory Technician;1;Single;64704;6-10 LPA;4044;0;Y;No;14;3;2;80;3;2;3;3;1;1;0;0;0
+VK10620;24;18-25;No;Non-Travel;830;Sales;13;2;Life Sciences;1;1495;4;Female;3;1;Sales Representative;2;Married;13185;0-3 LPA;8241;1;Y;No;13;3;3;80;1;1;2;3;1;0;0;0;0
+VK10610;24;18-25;Yes;Travel-Frequently;381;Administration;9;3;Medical;1;1494;2;Male;3;1;Laboratory Technician;1;Single;87807;10+ LPA;54879;2;Y;Yes;11;3;3;80;0;4;2;2;0;0;0;0;1
+VK8720;24;18-25;Yes;TravelRarely;984;Administration;17;2;Life Sciences;1;1219;4;Female;3;1;Laboratory Technician;2;Married;83798;10+ LPA;52374;1;Y;No;13;3;1;80;1;1;3;1;1;0;0;0;1
+VK5870;24;18-25;No;Non-Travel;1092;Administration;9;3;Life Sciences;1;812;3;Male;2;1;Laboratory Technician;2;Single;90812;10+ LPA;56758;1;Y;No;11;3;3;80;3;1;4;3;1;0;0;0;0
+VK5260;24;18-25;Yes;TravelRarely;693;Sales;3;2;Life Sciences;1;720;1;Female;3;2;Sales Executive;3;Single;56591;6-10 LPA;35369;9;Y;No;14;3;1;80;0;4;3;3;2;2;2;0;1
+VK4770;24;18-25;No;TravelRarely;823;Administration;17;2;Other;1;643;4;Male;2;1;Laboratory Technician;2;Married;2016;0-3 LPA;126;1;Y;No;21;4;4;80;1;1;2;3;1;0;0;0;0
+VK9120;25;18-25;Yes;Travel-Frequently;599;Sales;24;1;Life Sciences;1;1273;3;Male;1;1;Sales Representative;4;Single;27854;3-6 LPA;17409;1;Y;Yes;14;3;4;80;0;1;4;3;1;0;1;0;1
+VK6890;19;18-25;Yes;TravelRarely;419;Sales;21;3;Other;1;959;4;Male;2;1;Sales Representative;2;Single;65820;6-10 LPA;41138;1;Y;Yes;13;3;2;80;0;1;3;4;1;0;0;0;1
+VK5860;23;18-25;Yes;TravelRarely;1243;Administration;6;3;Life Sciences;1;811;3;Male;4;1;Laboratory Technician;1;Married;67557;6-10 LPA;42223;1;Y;Yes;21;4;3;80;2;1;2;3;0;0;0;0;1
+VK13120;19;18-25;No;Non-Travel;1431;Administration;14;3;Medical;1;1839;2;Female;3;1;Research Scientist;3;Single;88498;10+ LPA;55311;1;Y;No;16;3;3;80;0;0;4;1;0;0;0;0;0
+VK9730;19;18-25;No;Non-Travel;1124;Administration;1;3;Life Sciences;1;1368;4;Female;3;1;Laboratory Technician;4;Single;83386;10+ LPA;52116;1;Y;No;15;3;3;80;0;0;5;4;0;0;0;0;0
+VK8430;28;26-35;Yes;TravelRarely;1485;Administration;12;1;Life Sciences;1;1175;3;Female;3;1;Laboratory Technician;4;Married;35698;3-6 LPA;22311;1;Y;Yes;11;3;4;80;0;1;4;2;1;1;0;0;1
+VK1500;19;18-25;No;TravelRarely;1181;Administration;3;1;Medical;1;201;2;Female;3;1;Laboratory Technician;2;Single;61263;6-10 LPA;38289;1;Y;No;14;3;4;80;0;1;3;3;1;0;0;0;0
+VK1280;19;18-25;Yes;TravelRarely;528;Sales;22;1;Marketing;1;167;4;Male;3;1;Sales Representative;3;Single;45131;3-6 LPA;28207;1;Y;Yes;19;3;4;80;0;0;2;2;0;0;0;0;1
+VK1780;19;18-25;Yes;TravelRarely;303;Administration;2;3;Life Sciences;1;243;2;Male;2;1;Laboratory Technician;4;Single;42090;3-6 LPA;26306;1;Y;No;22;4;3;80;0;1;3;2;1;0;1;0;1
+VK4230;19;18-25;Yes;TravelRarely;489;Human Resources;2;2;Technical Degree;1;566;1;Male;2;1;Human Resources;4;Single;68221;6-10 LPA;42638;1;Y;No;12;3;3;80;0;1;3;4;1;0;0;0;1
+VK8290;19;18-25;Yes;Non-Travel;247;Administration;8;1;Medical;1;1156;3;Male;3;1;Laboratory Technician;3;Single;7265;0-3 LPA;4541;1;Y;No;12;3;4;80;0;0;0;3;0;0;0;0;1
+VK1720;19;18-25;Yes;Travel-Frequently;602;Sales;1;1;Technical Degree;1;235;3;Female;1;1;Sales Representative;1;Single;17023;0-3 LPA;10639;0;Y;No;21;4;1;80;0;1;5;4;0;0;0;0;1
+VK11540;19;18-25;Yes;Travel-Frequently;544;Sales;3;2;Medical;1;1624;2;Female;3;1;Sales Representative;4;Single;38194;3-6 LPA;23871;1;Y;Yes;12;3;3;80;0;0;2;4;0;0;0;0;1
+VK10690;28;26-35;Yes;Travel-Frequently;289;Administration;2;2;Medical;1;1504;3;Male;2;1;Laboratory Technician;1;Single;92906;10+ LPA;58066;7;Y;No;11;3;3;80;0;8;2;2;0;0;0;0;1
+VK7280;19;18-25;No;Non-Travel;287;Administration;5;2;Life Sciences;1;1012;2;Male;3;1;Research Scientist;4;Single;55886;6-10 LPA;34929;1;Y;No;15;3;4;80;0;0;2;3;0;0;0;0;0
+VK3020;19;18-25;No;TravelRarely;812;Sales;10;3;Medical;1;411;4;Female;2;1;Sales Representative;3;Single;1860;0-3 LPA;1162;1;Y;No;12;3;1;80;0;0;2;3;0;0;0;0;0
+VK4580;19;18-25;Yes;Travel-Frequently;1306;Sales;5;3;Marketing;1;614;2;Male;3;1;Sales Representative;2;Single;77820;6-10 LPA;48638;1;Y;Yes;14;3;4;80;0;0;3;3;0;0;0;0;1
+VK6210;35;26-35;No;TravelRarely;1343;Operations;27;1;Medical;1;856;3;Female;2;1;Research Scientist;1;Single;27790;3-6 LPA;17369;1;Y;No;11;3;4;80;0;6;3;2;6;5;1;1;0
+VK7300;35;26-35;No;TravelRarely;583;Operations;25;4;Medical;1;1014;3;Female;3;3;Healthcare Representative;3;Single;5748;0-3 LPA;3592;1;Y;Yes;11;3;3;80;1;16;3;2;16;10;10;1;0
+VK14550;45;36-45;No;TravelRarely;374;IT;20;3;Life Sciences;1;2046;4;Female;3;2;Sales Executive;3;Single;56176;6-10 LPA;3511;8;Y;No;15;3;3;80;0;8;3;3;5;3;0;1;0
+VK2280;29;26-35;No;Travel-Frequently;1413;Sales;1;1;Medical;1;312;2;Female;3;3;Sales Executive;4;Married;74656;6-10 LPA;4666;1;Y;No;14;3;4;80;1;11;5;3;11;10;4;1;0
+VK2300;29;26-35;Yes;TravelRarely;896;Administration;18;1;Medical;1;315;3;Male;2;1;Research Scientist;4;Single;40384;3-6 LPA;2524;1;Y;Yes;13;3;3;80;0;4;3;2;4;3;0;1;1
+VK4220;29;26-35;Yes;TravelRarely;408;Administration;25;5;Technical Degree;1;565;3;Female;2;1;Research Scientist;2;Married;78371;6-10 LPA;48982;5;Y;No;16;3;2;80;0;6;2;4;2;2;1;1;1
+VK1320;50;46-55;No;Travel-Frequently;809;IT;12;3;Marketing;1;174;3;Female;3;3;Sales Executive;4;Single;82974;6-10 LPA;51859;4;Y;No;11;3;4;80;0;16;3;3;2;2;2;1;0
+VK5650;45;36-45;No;TravelRarely;954;IT;2;2;Technical Degree;1;783;2;Male;1;2;Sales Representative;3;Single;13999;0-3 LPA;8749;0;Y;No;13;3;1;80;0;9;3;3;8;7;3;1;0
+VK9620;35;26-35;No;Travel-Frequently;482;Operations;4;4;Life Sciences;1;1350;3;Male;3;2;Research Scientist;3;Single;53224;6-10 LPA;33265;1;Y;Yes;11;3;2;80;0;9;3;3;9;6;1;1;0
+VK11420;30;26-35;No;TravelRarely;241;Administration;7;3;Medical;1;1609;2;Male;2;1;Research Scientist;2;Married;52885;6-10 LPA;33053;1;Y;No;12;3;2;80;1;6;3;2;6;4;1;1;0
+VK6570;32;26-35;Yes;TravelRarely;374;Administration;25;4;Life Sciences;1;911;1;Male;3;1;Laboratory Technician;4;Single;94468;10+ LPA;59042;1;Y;Yes;24;4;3;80;0;1;2;1;1;0;0;1;1
+VK3300;47;46-55;No;TravelRarely;1482;Operations;5;5;Life Sciences;1;447;4;Male;3;5;Research Director;3;Married;58761;6-10 LPA;36726;4;Y;No;11;3;2;80;1;21;2;3;3;2;1;1;0
+VK11350;35;26-35;No;TravelRarely;1349;Operations;7;2;Life Sciences;1;1601;3;Male;2;1;Laboratory Technician;4;Married;23700;0-3 LPA;14812;1;Y;No;18;3;4;80;1;1;5;2;1;0;0;1;0
+VK14530;50;46-55;Yes;Travel-Frequently;878;IT;1;4;Life Sciences;1;2044;2;Male;3;2;Sales Executive;3;Single;61535;6-10 LPA;38459;7;Y;No;12;3;4;80;2;12;3;3;6;3;0;1;1
+VK9400;32;26-35;Yes;TravelRarely;1089;Administration;7;2;Life Sciences;1;1309;4;Male;3;2;Laboratory Technician;3;Married;79781;6-10 LPA;49863;1;Y;No;18;3;1;80;1;10;3;3;10;4;1;1;1
+VK0430;26;26-35;Yes;TravelRarely;1357;Administration;25;3;Life Sciences;1;55;1;Male;1;1;Laboratory Technician;3;Single;78373;6-10 LPA;48983;1;Y;No;12;3;3;80;0;1;2;2;1;0;0;1;1
+VK5130;27;26-35;No;TravelRarely;1115;Administration;3;4;Medical;1;700;1;Male;2;1;Research Scientist;4;Single;31080;3-6 LPA;19425;0;Y;No;13;3;4;80;0;5;0;3;4;2;1;1;0
+VK7210;30;26-35;Yes;TravelRarely;138;Administration;22;3;Life Sciences;1;1004;1;Female;3;1;Research Scientist;3;Married;19711;0-3 LPA;12319;4;Y;Yes;11;3;2;80;0;7;2;3;5;2;0;1;1
+VK7560;45;36-45;No;TravelRarely;1234;IT;11;2;Life Sciences;1;1045;4;Female;3;4;Manager;4;Married;76993;6-10 LPA;48121;3;Y;No;13;3;2;80;1;26;4;4;9;3;1;1;0
+VK4590;40;36-45;No;Non-Travel;1094;IT;28;3;Other;1;615;3;Male;1;3;Sales Executive;1;Single;48915;3-6 LPA;30572;3;Y;No;15;3;3;80;1;20;2;3;1;0;0;1;0
+VK14670;39;36-45;No;TravelRarely;613;Operations;6;1;Medical;1;2062;4;Male;2;3;Healthcare Representative;1;Married;56658;6-10 LPA;35411;4;Y;No;15;3;1;80;1;9;5;3;7;7;1;1;0
+VK9350;25;18-25;No;TravelRarely;266;Administration;1;3;Medical;1;1303;4;Female;3;1;Research Scientist;2;Single;65505;6-10 LPA;40941;1;Y;No;18;3;4;80;0;2;3;2;2;2;2;1;0
+VK10950;40;36-45;No;TravelRarely;1342;IT;9;2;Medical;1;1548;1;Male;3;2;Sales Executive;1;Married;76703;6-10 LPA;47939;0;Y;No;12;3;4;80;0;9;5;4;8;4;7;1;0
+VK1090;25;18-25;No;TravelRarely;1280;Administration;7;1;Medical;1;143;4;Male;2;1;Research Scientist;4;Married;41774;3-6 LPA;26109;1;Y;No;11;3;3;80;2;2;2;3;2;2;2;1;0
+VK10810;46;46-55;No;TravelRarely;228;IT;3;3;Life Sciences;1;1527;3;Female;3;4;Manager;2;Married;40224;3-6 LPA;2514;8;Y;No;12;3;4;80;1;23;2;4;13;12;5;1;0
+VK13600;34;26-35;No;TravelRarely;735;Marketing;3;1;Medical;1;1915;4;Female;2;2;Sales Executive;4;Married;73267;6-10 LPA;45792;3;Y;Yes;12;3;3;80;0;9;3;2;4;2;0;1;0
+VK13850;34;26-35;No;TravelRarely;937;Marketing;1;3;Marketing;1;1950;1;Male;3;3;Sales Executive;4;Single;24625;0-3 LPA;15391;1;Y;No;21;4;1;80;0;14;3;2;14;8;2;1;0
+VK13860;34;26-35;No;TravelRarely;1239;Marketing;13;4;Medical;1;1951;4;Male;3;3;Sales Executive;3;Single;83873;10+ LPA;52421;1;Y;No;18;3;3;80;1;9;2;2;8;7;1;1;0
+VK7860;40;36-45;No;TravelRarely;1492;Operations;20;4;Technical Degree;1;1092;1;Male;3;3;Healthcare Representative;4;Married;27069;3-6 LPA;16918;4;Y;No;20;4;4;80;1;14;6;3;11;10;11;1;0
+VK1290;22;18-25;No;TravelRarely;594;Administration;2;1;Technical Degree;1;169;3;Male;3;1;Laboratory Technician;4;Married;81038;6-10 LPA;50649;0;Y;No;14;3;3;80;1;3;2;3;2;1;2;1;0
+VK6190;25;18-25;No;TravelRarely;180;Administration;2;1;Medical;1;854;1;Male;4;1;Research Scientist;1;Single;34159;3-6 LPA;21349;7;Y;No;13;3;3;80;0;6;3;2;4;3;0;1;0
+VK1710;27;26-35;No;TravelRarely;1157;Administration;17;3;Technical Degree;1;233;3;Male;3;1;Research Scientist;2;Married;26939;3-6 LPA;16837;0;Y;Yes;16;3;4;80;1;6;3;2;5;2;1;1;0
+VK0500;35;26-35;No;TravelRarely;1229;Administration;8;1;Life Sciences;1;63;4;Male;4;1;Laboratory Technician;4;Married;51343;6-10 LPA;32089;1;Y;No;19;3;4;80;0;1;2;3;1;0;0;1;0
+VK12460;24;18-25;No;Travel-Frequently;897;Human Resources;10;3;Medical;1;1746;1;Male;3;1;Human Resources;4;Married;52214;6-10 LPA;32634;0;Y;No;14;3;4;80;1;3;2;3;2;2;2;1;0
+VK8960;31;26-35;No;TravelRarely;1332;Administration;11;2;Medical;1;1251;3;Male;3;2;Healthcare Representative;1;Married;57661;6-10 LPA;36038;1;Y;Yes;12;3;4;80;0;6;2;2;6;5;0;1;0
+VK1650;27;26-35;No;Non-Travel;1450;Administration;3;3;Medical;1;224;3;Male;2;1;Research Scientist;3;Single;70163;6-10 LPA;43852;1;Y;Yes;15;3;4;80;1;1;2;2;1;1;0;1;0
+VK1930;35;26-35;Yes;TravelRarely;556;Administration;23;2;Life Sciences;1;261;2;Male;2;2;Manufacturing Director;3;Married;55693;6-10 LPA;34808;3;Y;Yes;13;3;1;80;0;8;1;3;1;0;0;1;1
+VK4300;46;46-55;No;TravelRarely;1009;Operations;2;3;Life Sciences;1;575;1;Male;3;4;Research Director;3;Married;2645;0-3 LPA;1653;6;Y;No;13;3;3;80;0;26;2;1;3;2;0;1;0
+VK8050;48;46-55;No;Non-Travel;1262;Operations;1;4;Medical;1;1116;1;Male;4;4;Manager;4;Single;2759;0-3 LPA;1724;2;Y;No;22;4;3;80;0;27;3;2;5;4;2;1;0
+VK5730;29;26-35;No;TravelRarely;657;Administration;27;3;Medical;1;793;2;Female;3;2;Healthcare Representative;3;Married;73694;6-10 LPA;46059;4;Y;No;12;3;1;80;1;11;3;2;8;7;1;1;0
+VK8860;25;18-25;No;TravelRarely;1356;Sales;10;4;Life Sciences;1;1240;3;Male;3;2;Sales Executive;4;Single;4561;0-3 LPA;2851;0;Y;No;14;3;2;80;0;5;4;3;4;3;1;1;0
+VK4570;31;26-35;No;TravelRarely;688;Sales;7;3;Life Sciences;1;613;3;Male;2;3;Manager;4;Single;14403;0-3 LPA;9002;9;Y;No;21;4;3;80;1;10;3;2;5;4;0;1;0
+VK7350;22;18-25;No;TravelRarely;217;Administration;8;1;Life Sciences;1;1019;2;Male;1;1;Laboratory Technician;1;Married;69148;6-10 LPA;43218;1;Y;No;15;3;1;80;1;4;3;2;4;3;1;1;0
+VK7380;41;36-45;No;TravelRarely;549;Operations;7;2;Medical;1;1025;4;Female;3;2;Manufacturing Director;3;Single;7469;0-3 LPA;4668;6;Y;No;14;3;2;80;0;8;6;3;2;2;2;1;0
+VK14390;23;18-25;Yes;Travel-Frequently;638;Sales;9;3;Marketing;1;2023;4;Male;3;1;Sales Representative;1;Married;72211;6-10 LPA;45132;1;Y;No;19;3;1;80;1;1;3;2;1;0;1;1;1
+VK11180;34;26-35;No;TravelRarely;1351;Administration;1;4;Life Sciences;1;1580;2;Male;3;2;Research Scientist;4;Married;2062;0-3 LPA;1289;9;Y;No;17;3;2;80;1;9;3;2;2;2;2;1;0
+VK2170;30;26-35;Yes;Travel-Frequently;334;Sales;26;4;Marketing;1;299;3;Female;2;2;Sales Executive;1;Single;40790;3-6 LPA;25494;5;Y;No;15;3;3;80;0;9;5;2;6;3;0;1;1
+VK1800;38;36-45;No;TravelRarely;1380;Operations;9;2;Life Sciences;1;245;3;Female;3;1;Laboratory Technician;4;Single;74553;6-10 LPA;46596;1;Y;No;12;3;3;80;0;2;3;3;2;2;2;1;0
+VK3290;33;26-35;No;Travel-Frequently;508;Sales;10;3;Marketing;1;446;2;Male;2;2;Sales Executive;4;Single;61890;6-10 LPA;38681;3;Y;No;14;3;3;80;0;9;6;2;7;7;0;1;0
+VK4980;44;36-45;No;TravelRarely;1315;Operations;3;4;Other;1;671;4;Male;3;5;Manager;4;Married;72324;6-10 LPA;45202;4;Y;Yes;12;3;1;80;1;26;2;4;2;2;0;1;0
+VK14270;32;26-35;No;TravelRarely;267;Administration;29;4;Life Sciences;1;2010;3;Female;2;1;Laboratory Technician;2;Single;66417;6-10 LPA;41511;1;Y;No;13;3;3;80;0;6;3;3;6;2;4;1;0
+VK10120;36;36-45;No;TravelRarely;1174;Marketing;3;4;Marketing;1;1425;1;Female;3;2;Sales Executive;2;Single;2015;0-3 LPA;1259;3;Y;Yes;16;3;4;80;0;15;3;3;5;4;0;1;0
+VK5140;21;18-25;Yes;TravelRarely;1362;Administration;10;1;Medical;1;701;4;Male;3;1;Research Scientist;3;Single;6311;0-3 LPA;3944;1;Y;Yes;11;3;4;80;0;1;5;3;1;0;1;1;1
+VK5530;56;55+;No;TravelRarely;832;Operations;9;3;Medical;1;762;3;Male;3;4;Healthcare Representative;4;Married;54002;6-10 LPA;33751;7;Y;No;11;3;3;80;0;30;1;2;10;7;1;1;0
+VK5990;28;26-35;Yes;TravelRarely;890;Administration;2;4;Medical;1;828;3;Male;3;1;Research Scientist;3;Single;27309;3-6 LPA;17068;6;Y;No;17;3;4;80;0;5;3;2;2;2;2;1;1
+VK11460;36;36-45;No;TravelRarely;559;Operations;12;4;Life Sciences;1;1614;3;Female;3;2;Manufacturing Director;3;Married;5158;0-3 LPA;3224;9;Y;Yes;12;3;2;80;2;7;2;3;3;2;1;1;0
+VK9990;26;26-35;No;TravelRarely;683;Administration;2;1;Medical;1;1407;1;Male;2;1;Research Scientist;4;Single;57044;6-10 LPA;35652;0;Y;No;12;3;4;80;0;5;2;3;4;3;1;1;0
+VK2740;37;36-45;No;TravelRarely;228;Marketing;6;4;Medical;1;378;3;Male;3;2;Sales Executive;4;Married;39765;3-6 LPA;24853;4;Y;No;14;3;2;80;1;7;5;4;5;4;0;1;0
+VK8730;33;26-35;No;Travel-Frequently;1146;Sales;25;3;Medical;1;1220;2;Female;3;2;Sales Executive;3;Married;95297;10+ LPA;59561;1;Y;No;12;3;1;80;1;10;3;2;10;7;0;1;0
+VK8240;29;26-35;No;Travel-Frequently;490;Administration;10;3;Life Sciences;1;1143;4;Female;3;1;Research Scientist;2;Single;7295;0-3 LPA;4559;0;Y;No;14;3;4;80;2;8;2;2;7;5;1;1;0
+VK11300;42;36-45;No;TravelRarely;1059;Operations;9;2;Other;1;1595;4;Male;2;5;Manager;4;Single;42832;3-6 LPA;2677;8;Y;No;22;4;4;80;0;24;2;3;1;0;0;1;0
+VK3900;37;36-45;No;TravelRarely;1305;Operations;10;4;Life Sciences;1;518;3;Male;3;2;Manufacturing Director;2;Single;38744;3-6 LPA;24215;2;Y;Yes;12;3;4;80;0;18;2;2;1;0;0;1;0
+VK2220;33;26-35;No;TravelRarely;147;Administration;4;4;Medical;1;305;3;Female;2;1;Research Scientist;2;Married;31977;3-6 LPA;19986;6;Y;No;21;4;4;80;0;7;3;3;3;2;1;1;0
+VK6810;36;36-45;No;TravelRarely;188;Operations;7;4;Other;1;949;2;Male;3;1;Research Scientist;4;Single;46445;3-6 LPA;29028;2;Y;No;18;3;3;80;0;8;6;3;6;2;0;1;0
+VK7680;37;36-45;No;TravelRarely;124;Operations;3;3;Other;1;1062;4;Female;3;2;Healthcare Representative;2;Single;74963;6-10 LPA;46852;3;Y;No;15;3;1;80;0;8;3;2;4;3;0;1;0
+VK5110;54;46-55;No;TravelRarely;397;Human Resources;19;4;Medical;1;698;3;Male;3;3;Human Resources;2;Married;58384;6-10 LPA;3649;2;Y;No;15;3;3;80;1;16;1;4;9;7;7;1;0
+VK9100;19;18-25;No;TravelRarely;265;Administration;25;3;Life Sciences;1;1269;2;Female;4;1;Research Scientist;4;Single;63955;6-10 LPA;39972;1;Y;Yes;12;3;4;80;0;1;2;3;1;0;0;1;0
+VK6590;44;36-45;No;TravelRarely;661;Operations;9;2;Life Sciences;1;913;2;Male;3;1;Research Scientist;1;Married;10446;0-3 LPA;6529;1;Y;Yes;13;3;4;80;0;8;0;3;8;7;7;1;0
+VK5600;38;36-45;No;TravelRarely;268;Operations;2;5;Medical;1;773;4;Male;3;1;Research Scientist;3;Married;40811;3-6 LPA;25507;6;Y;Yes;13;3;2;80;1;6;0;1;1;0;0;1;0
+VK9110;23;18-25;No;TravelRarely;373;Administration;1;2;Life Sciences;1;1270;4;Male;3;1;Research Scientist;3;Married;78189;6-10 LPA;48868;1;Y;No;22;4;4;80;1;1;2;3;1;0;0;1;0
+VK1360;36;36-45;No;TravelRarely;216;Operations;6;2;Medical;1;178;2;Male;3;2;Manufacturing Director;2;Single;67203;6-10 LPA;42002;6;Y;No;20;4;4;80;2;7;0;3;3;2;0;1;0
+VK5770;27;26-35;No;Travel-Frequently;829;Sales;8;1;Marketing;1;800;3;Male;3;2;Sales Executive;4;Married;56016;6-10 LPA;3501;0;Y;No;19;3;2;80;1;5;3;3;4;2;1;1;0
+VK14590;35;26-35;No;TravelRarely;287;Operations;1;4;Life Sciences;1;2052;3;Female;1;1;Research Scientist;4;Married;20087;0-3 LPA;12554;1;Y;No;12;3;4;80;1;4;5;3;4;3;1;1;0
+VK14260;33;26-35;No;TravelRarely;501;Administration;15;2;Medical;1;2009;2;Female;3;2;Healthcare Representative;4;Married;93920;10+ LPA;587;0;Y;Yes;13;3;1;80;1;10;6;3;9;7;8;1;0
+VK8130;43;36-45;No;Travel-Frequently;1082;Operations;27;3;Life Sciences;1;1126;3;Female;3;3;Manufacturing Director;1;Married;68728;6-10 LPA;42955;8;Y;No;11;3;3;80;1;18;1;3;8;7;0;1;0
+VK3080;38;36-45;No;TravelRarely;849;Operations;25;2;Life Sciences;1;421;1;Female;2;3;Research Director;2;Married;54413;6-10 LPA;34008;3;Y;No;17;3;3;80;1;19;2;3;10;8;0;1;0
+VK10400;34;26-35;Yes;TravelRarely;1107;Finance;9;4;Technical Degree;1;1467;1;Female;3;1;Human Resources;3;Married;90112;10+ LPA;5632;1;Y;No;15;3;4;80;0;2;0;3;2;2;2;2;1
+VK14080;24;18-25;No;TravelRarely;771;Administration;1;2;Life Sciences;1;1981;2;Male;2;2;Healthcare Representative;3;Single;62228;6-10 LPA;38892;1;Y;No;12;3;2;80;0;4;2;2;4;3;1;2;0
+VK7550;33;26-35;No;Non-Travel;1038;Sales;8;1;Life Sciences;1;1044;2;Female;2;1;Sales Representative;4;Single;39494;3-6 LPA;24684;0;Y;No;19;3;4;80;0;3;2;2;2;2;2;2;0
+VK6510;43;36-45;No;Travel-Frequently;422;Operations;1;3;Life Sciences;1;902;4;Female;3;2;Healthcare Representative;4;Married;19574;0-3 LPA;12234;4;Y;No;13;3;2;80;1;12;2;2;5;2;2;2;0
+VK0860;56;55+;No;TravelRarely;1400;Operations;7;3;Life Sciences;1;112;4;Male;1;3;Manufacturing Director;4;Single;88410;10+ LPA;55256;4;Y;No;11;3;1;80;0;37;3;2;6;4;0;2;0
+VK7130;33;26-35;No;TravelRarely;461;Administration;13;1;Life Sciences;1;995;2;Female;3;1;Research Scientist;4;Single;21764;0-3 LPA;13602;3;Y;No;18;3;1;80;0;5;4;3;3;2;0;2;0
+VK12870;40;36-45;No;TravelRarely;616;Operations;2;2;Life Sciences;1;1802;3;Female;3;1;Laboratory Technician;1;Married;72158;6-10 LPA;45099;4;Y;No;17;3;4;80;1;7;5;2;4;3;0;2;0
+VK9390;58;55+;No;TravelRarely;848;Operations;23;4;Life Sciences;1;1308;1;Male;3;1;Research Scientist;3;Single;46420;3-6 LPA;29012;1;Y;No;12;3;4;80;2;2;3;3;2;2;2;2;0
+VK10280;34;26-35;No;TravelRarely;401;Administration;1;3;Life Sciences;1;1447;4;Female;2;1;Laboratory Technician;2;Married;87900;10+ LPA;54938;5;Y;No;17;3;1;80;1;7;2;2;5;4;0;2;0
+VK12020;23;18-25;Yes;TravelRarely;1320;Administration;8;1;Medical;1;1684;4;Male;2;1;Laboratory Technician;3;Single;41757;3-6 LPA;26098;1;Y;Yes;11;3;1;80;0;5;2;3;5;4;1;2;1
+VK3470;41;36-45;No;TravelRarely;483;Operations;6;3;Medical;1;466;4;Male;2;2;Manufacturing Director;2;Single;88886;10+ LPA;55554;6;Y;Yes;15;3;4;80;0;8;3;3;5;4;1;2;0
+VK14560;40;36-45;No;TravelRarely;1322;Operations;2;4;Life Sciences;1;2048;3;Male;2;1;Research Scientist;3;Single;86655;10+ LPA;54159;2;Y;No;14;3;4;80;0;8;2;3;2;2;2;2;0
+VK12310;24;18-25;No;TravelRarely;506;Administration;29;1;Medical;1;1725;2;Male;3;1;Laboratory Technician;1;Single;39044;3-6 LPA;24402;1;Y;No;13;3;2;80;3;6;2;4;6;2;1;2;0
+VK7990;33;26-35;Yes;TravelRarely;1017;Administration;25;3;Medical;1;1108;1;Male;2;1;Research Scientist;2;Single;98532;10+ LPA;61583;4;Y;Yes;20;4;2;80;0;5;0;3;2;2;2;2;1
+VK12140;23;18-25;Yes;TravelRarely;427;Sales;7;3;Life Sciences;1;1702;3;Male;3;1;Sales Representative;4;Single;10692;0-3 LPA;6682;1;Y;Yes;21;4;2;80;1;3;2;3;3;2;0;2;1
+VK8030;33;26-35;No;Travel-Frequently;970;Sales;7;3;Life Sciences;1;1114;4;Female;3;2;Sales Executive;2;Married;93658;10+ LPA;58536;0;Y;No;17;3;3;80;1;4;3;3;3;2;0;2;0
+VK14580;40;36-45;No;TravelRarely;1194;Operations;2;4;Medical;1;2051;3;Female;3;1;Research Scientist;3;Married;28446;3-6 LPA;17779;2;Y;No;14;3;2;80;3;20;2;3;5;3;0;2;0
+VK3190;27;26-35;No;TravelRarely;1220;Administration;5;3;Life Sciences;1;434;3;Female;3;1;Research Scientist;2;Single;19047;0-3 LPA;11904;1;Y;Yes;12;3;2;80;0;4;2;2;4;3;1;2;0
+VK1830;41;36-45;Yes;TravelRarely;1356;IT;20;2;Marketing;1;248;2;Female;3;1;Sales Representative;2;Single;17389;0-3 LPA;10868;1;Y;Yes;22;4;4;80;0;4;5;2;4;3;0;2;1
+VK9180;34;26-35;No;TravelRarely;131;Sales;2;3;Marketing;1;1281;3;Female;3;2;Sales Executive;1;Single;60163;6-10 LPA;37602;0;Y;Yes;12;3;4;80;0;4;3;3;3;2;0;2;0
+VK7910;33;26-35;No;TravelRarely;654;Administration;5;3;Life Sciences;1;1099;4;Male;2;3;Healthcare Representative;4;Single;4373;0-3 LPA;2733;4;Y;No;15;3;3;80;1;9;2;3;3;2;1;2;0
+VK9220;28;26-35;No;Travel-Frequently;791;Administration;1;4;Medical;1;1286;4;Male;3;1;Laboratory Technician;3;Single;23671;0-3 LPA;14794;0;Y;Yes;11;3;3;80;0;5;2;2;4;2;0;2;0
+VK8230;34;26-35;No;Travel-Frequently;1003;Administration;2;2;Life Sciences;1;1140;4;Male;3;2;Manufacturing Director;3;Single;25466;3-6 LPA;15916;2;Y;No;11;3;4;80;0;5;3;2;3;2;0;2;0
+VK9910;33;26-35;No;Travel-Frequently;1111;Sales;5;1;Life Sciences;1;1395;2;Male;3;2;Sales Executive;4;Married;16305;0-3 LPA;10191;6;Y;No;13;3;1;80;0;8;2;4;5;4;1;2;0
+VK1940;43;36-45;No;Non-Travel;1344;Operations;7;3;Medical;1;262;4;Male;4;1;Research Scientist;4;Single;85056;10+ LPA;5316;4;Y;No;14;3;4;80;3;7;3;4;5;4;2;2;0
+VK1310;43;36-45;No;Travel-Frequently;957;Operations;28;3;Medical;1;171;2;Female;4;1;Research Scientist;3;Single;83985;10+ LPA;52491;4;Y;No;12;3;4;80;0;18;2;3;3;2;1;2;0
+VK4890;42;36-45;No;TravelRarely;622;Operations;2;4;Life Sciences;1;659;3;Female;3;2;Healthcare Representative;4;Married;27614;3-6 LPA;17259;1;Y;No;13;3;2;80;2;10;4;3;10;2;2;2;0
+VK4410;34;26-35;Yes;Travel-Frequently;988;Human Resources;23;3;Human Resources;1;590;2;Female;3;3;Human Resources;1;Single;37208;3-6 LPA;23255;9;Y;Yes;15;3;3;80;3;11;2;3;3;2;0;2;1
+VK5480;42;36-45;Yes;Travel-Frequently;933;Operations;19;3;Medical;1;752;3;Male;4;1;Research Scientist;3;Single;37258;3-6 LPA;23286;6;Y;Yes;12;3;4;80;0;7;2;3;2;2;2;2;1
+VK3940;34;26-35;No;Non-Travel;1381;Sales;4;4;Marketing;1;523;3;Female;3;2;Sales Executive;3;Married;33479;3-6 LPA;20924;9;Y;No;15;3;1;80;1;6;3;3;3;2;1;2;0
+VK14200;42;36-45;No;TravelRarely;557;Operations;18;4;Life Sciences;1;1998;4;Male;3;2;Research Scientist;1;Married;1077;0-3 LPA;673;6;Y;Yes;17;3;3;80;1;9;3;2;4;3;1;2;0
+VK5980;42;36-45;No;TravelRarely;932;Operations;1;2;Life Sciences;1;827;4;Female;2;2;Manufacturing Director;4;Married;43078;3-6 LPA;26924;9;Y;Yes;13;3;4;80;1;8;4;3;4;3;0;2;0
+VK6330;42;36-45;No;Travel-Frequently;1271;Operations;2;1;Medical;1;875;2;Male;3;1;Research Scientist;4;Single;97573;10+ LPA;60983;5;Y;Yes;14;3;4;80;0;8;2;3;2;1;2;2;0
+VK0970;24;18-25;No;TravelRarely;1353;Sales;3;2;Other;1;128;1;Female;3;2;Sales Executive;3;Married;93093;10+ LPA;58183;0;Y;No;21;4;1;80;1;4;2;2;3;2;0;2;0
+VK1140;24;18-25;No;TravelRarely;1127;Administration;18;1;Life Sciences;1;150;2;Male;3;1;Laboratory Technician;3;Married;33606;3-6 LPA;21004;0;Y;No;12;3;3;80;1;6;2;3;5;3;1;2;0
+VK1820;34;26-35;No;TravelRarely;629;Administration;27;2;Medical;1;247;4;Female;3;1;Research Scientist;2;Single;66510;6-10 LPA;41569;2;Y;No;15;3;4;80;0;9;3;3;3;2;1;2;0
+VK1600;34;26-35;No;Travel-Frequently;303;Sales;2;4;Marketing;1;216;3;Female;3;1;Sales Representative;3;Married;71640;6-10 LPA;44775;6;Y;No;18;3;4;80;1;6;3;3;4;3;1;2;0
+VK4800;24;18-25;Yes;Travel-Frequently;1287;Administration;7;3;Life Sciences;1;647;1;Female;3;1;Laboratory Technician;3;Married;90789;10+ LPA;56743;1;Y;Yes;16;3;4;80;1;6;4;3;6;3;1;2;1
+VK0140;34;26-35;No;TravelRarely;1346;Administration;19;2;Medical;1;18;2;Male;3;1;Laboratory Technician;4;Single;45425;3-6 LPA;28391;0;Y;No;11;3;3;80;1;3;2;3;2;2;1;2;0
+VK9300;28;26-35;No;Travel-Frequently;193;Administration;2;3;Life Sciences;1;1296;4;Male;2;1;Laboratory Technician;4;Married;26184;3-6 LPA;16365;1;Y;Yes;12;3;2;80;1;2;2;3;2;2;2;2;0
+VK12390;23;18-25;No;TravelRarely;160;Administration;4;1;Medical;1;1735;3;Female;3;1;Laboratory Technician;2;Single;46758;3-6 LPA;29224;1;Y;No;13;3;3;80;0;3;3;1;3;2;1;2;0
+VK9340;28;26-35;No;TravelRarely;640;Administration;1;3;Technical Degree;1;1301;4;Male;3;1;Research Scientist;1;Single;94384;10+ LPA;5899;2;Y;No;11;3;2;80;0;5;2;2;3;2;1;2;0
+VK3890;42;36-45;No;TravelRarely;201;Operations;1;4;Life Sciences;1;517;2;Female;3;1;Laboratory Technician;1;Married;64076;6-10 LPA;40048;3;Y;No;16;3;2;80;1;8;5;3;5;2;1;2;0
+VK5490;43;36-45;No;Travel-Frequently;775;IT;15;3;Life Sciences;1;754;4;Male;2;2;Sales Executive;4;Married;72520;6-10 LPA;45325;3;Y;No;18;3;3;80;1;7;5;3;2;2;2;2;0
+VK10670;33;26-35;No;TravelRarely;1099;Administration;4;4;Medical;1;1502;1;Female;2;1;Laboratory Technician;2;Married;77797;6-10 LPA;48623;8;Y;No;11;3;4;80;0;8;5;3;5;4;0;2;0
+VK10920;33;26-35;No;TravelRarely;575;Administration;25;3;Life Sciences;1;1545;4;Male;2;2;Manufacturing Director;2;Single;58458;6-10 LPA;36536;1;Y;No;13;3;4;80;0;5;2;3;5;3;0;2;0
+VK11970;41;36-45;No;TravelRarely;1206;IT;23;2;Life Sciences;1;1678;4;Male;3;3;Sales Executive;3;Single;68584;6-10 LPA;42865;3;Y;Yes;16;3;4;80;0;21;2;3;2;0;0;2;0
+VK3970;43;36-45;No;TravelRarely;1473;Operations;8;4;Other;1;526;3;Female;3;2;Healthcare Representative;3;Married;12954;0-3 LPA;8096;4;Y;Yes;14;3;4;80;0;8;3;3;5;2;0;2;0
+VK12290;41;36-45;No;Non-Travel;552;Human Resources;4;3;Human Resources;1;1722;3;Male;1;2;Human Resources;2;Married;43533;3-6 LPA;27208;6;Y;No;19;3;2;80;1;10;4;3;3;2;1;2;0
+VK12950;41;36-45;No;TravelRarely;447;Operations;5;3;Life Sciences;1;1814;2;Male;4;2;Healthcare Representative;2;Single;2917;0-3 LPA;1823;3;Y;No;12;3;1;80;0;11;3;1;3;2;1;2;0
+VK6140;34;26-35;No;TravelRarely;829;Finance;3;2;Human Resources;1;847;3;Male;3;1;Human Resources;4;Married;40954;3-6 LPA;25596;0;Y;No;19;3;3;80;1;4;1;1;3;2;0;2;0
+VK5840;34;26-35;No;TravelRarely;1111;Sales;8;2;Life Sciences;1;808;3;Female;3;2;Sales Executive;1;Married;51517;6-10 LPA;32198;5;Y;No;17;3;2;80;1;6;1;3;3;2;1;2;0
+VK1980;42;36-45;No;Non-Travel;926;Operations;21;2;Medical;1;270;3;Female;3;2;Manufacturing Director;3;Single;83180;6-10 LPA;51988;2;Y;No;16;3;2;80;1;11;5;3;5;3;0;2;0
+VK11060;33;26-35;No;TravelRarely;1242;Sales;8;4;Life Sciences;1;1560;1;Male;3;2;Sales Executive;1;Married;4267;0-3 LPA;2667;2;Y;No;13;3;4;80;1;8;6;1;2;2;2;2;0
+VK3960;43;36-45;No;Travel-Frequently;313;Operations;21;3;Medical;1;525;4;Male;3;1;Laboratory Technician;4;Married;40711;3-6 LPA;25444;7;Y;No;20;4;1;80;1;8;1;3;3;2;1;2;0
+VK8420;24;18-25;No;TravelRarely;477;Administration;24;3;Medical;1;1173;4;Male;3;1;Laboratory Technician;2;Single;75065;6-10 LPA;46916;8;Y;No;22;4;4;80;0;6;2;3;4;3;1;2;0
+VK11990;33;26-35;No;Non-Travel;530;Sales;16;3;Life Sciences;1;1681;3;Female;3;2;Sales Executive;4;Single;90588;10+ LPA;56617;1;Y;Yes;25;4;3;80;1;7;2;3;6;5;1;2;0
+VK7250;24;18-25;No;TravelRarely;1206;Administration;17;1;Medical;1;1009;4;Female;2;2;Manufacturing Director;3;Single;25300;3-6 LPA;15812;1;Y;No;15;3;2;80;2;5;6;3;4;2;3;2;0
+VK3090;58;55+;No;Non-Travel;390;Operations;1;4;Life Sciences;1;422;4;Male;1;2;Healthcare Representative;3;Single;68298;6-10 LPA;42686;2;Y;Yes;13;3;4;80;1;12;2;3;5;3;1;2;0
+VK4960;27;26-35;Yes;TravelRarely;1420;Sales;2;1;Marketing;1;667;3;Male;3;1;Sales Representative;1;Single;24776;0-3 LPA;15485;0;Y;No;11;3;2;80;1;5;3;3;4;3;0;2;1
+VK12080;55;46-55;No;TravelRarely;1441;Operations;22;3;Technical Degree;1;1694;1;Male;2;1;Research Scientist;2;Married;62120;6-10 LPA;38825;5;Y;No;12;3;4;80;1;8;1;3;4;2;1;2;0
+VK11320;34;26-35;No;Travel-Frequently;653;Administration;10;4;Technical Degree;1;1597;4;Male;2;2;Healthcare Representative;3;Married;85076;10+ LPA;53172;1;Y;No;14;3;2;80;1;8;3;2;8;2;7;2;0
+VK13080;28;26-35;No;TravelRarely;1217;Administration;1;3;Medical;1;1834;3;Female;3;1;Research Scientist;1;Married;12411;0-3 LPA;7757;1;Y;No;25;4;3;80;1;3;3;3;3;2;1;2;0
+VK0200;38;36-45;No;TravelRarely;371;Operations;2;3;Life Sciences;1;24;4;Male;3;1;Research Scientist;4;Single;82317;6-10 LPA;51448;5;Y;Yes;11;3;3;80;0;6;3;3;3;2;1;2;0
+VK13240;28;26-35;No;Non-Travel;280;Human Resources;1;2;Life Sciences;1;1858;3;Male;3;1;Human Resources;4;Single;3911;0-3 LPA;2444;1;Y;No;15;3;2;80;1;3;2;3;3;2;2;2;0
+VK4190;26;26-35;No;TravelRarely;1349;Administration;23;3;Life Sciences;1;560;1;Female;3;1;Research Scientist;4;Single;80309;6-10 LPA;50193;1;Y;No;22;4;2;80;2;3;3;1;3;2;0;2;0
+VK2330;59;55+;No;TravelRarely;818;Human Resources;6;2;Medical;1;321;2;Male;3;1;Human Resources;3;Married;1060;0-3 LPA;662;8;Y;No;17;3;4;80;0;7;2;2;2;2;2;2;0
+VK2880;38;36-45;No;TravelRarely;688;Operations;23;4;Life Sciences;1;393;4;Male;3;2;Healthcare Representative;4;Married;95456;10+ LPA;5966;9;Y;No;14;3;2;80;1;10;2;3;2;2;1;2;0
+VK1730;36;36-45;No;Travel-Frequently;1480;Operations;3;2;Medical;1;238;4;Male;3;1;Laboratory Technician;2;Single;30703;3-6 LPA;19189;4;Y;No;12;3;3;80;0;13;3;2;8;7;7;2;0
+VK12250;26;26-35;No;TravelRarely;390;Administration;17;4;Medical;1;1718;4;Male;1;1;Laboratory Technician;3;Married;63623;6-10 LPA;39764;1;Y;No;15;3;3;80;3;3;3;4;3;2;0;2;0
+VK2890;26;26-35;Yes;TravelRarely;1449;Administration;16;4;Medical;1;394;1;Male;3;1;Laboratory Technician;2;Single;25538;3-6 LPA;15961;2;Y;Yes;13;3;4;80;1;5;2;3;3;2;0;2;1
+VK6060;38;36-45;No;Travel-Frequently;471;Operations;12;3;Life Sciences;1;837;1;Male;2;2;Healthcare Representative;1;Single;86392;10+ LPA;53995;2;Y;No;15;3;3;80;1;13;3;2;4;3;1;2;0
+VK13100;26;26-35;No;TravelRarely;572;Sales;10;3;Medical;1;1836;3;Male;3;2;Sales Executive;4;Single;76450;6-10 LPA;47781;1;Y;No;13;3;1;80;0;5;4;3;5;3;1;2;0
+VK6430;38;36-45;No;TravelRarely;395;IT;9;3;Marketing;1;893;2;Male;2;1;Sales Representative;2;Married;88369;10+ LPA;55231;0;Y;No;19;3;4;80;1;3;3;3;2;2;1;2;0
+VK14570;35;26-35;No;Travel-Frequently;1199;Operations;18;4;Life Sciences;1;2049;3;Male;3;2;Healthcare Representative;3;Married;69866;6-10 LPA;43666;1;Y;Yes;14;3;4;80;2;10;2;4;10;2;0;2;0
+VK7230;38;36-45;No;Travel-Frequently;1391;Operations;10;1;Medical;1;1006;3;Male;3;1;Research Scientist;3;Married;93705;10+ LPA;58566;0;Y;No;17;3;2;80;1;3;0;2;2;1;0;2;0
+VK7660;38;36-45;No;Travel-Frequently;1186;Operations;3;4;Other;1;1060;3;Male;3;1;Research Scientist;3;Married;15388;0-3 LPA;9618;3;Y;No;16;3;1;80;1;8;2;3;2;2;2;2;0
+VK14230;35;26-35;No;TravelRarely;1490;Operations;11;4;Medical;1;2003;4;Male;3;1;Laboratory Technician;3;Married;39413;3-6 LPA;24633;7;Y;Yes;11;3;3;80;1;5;3;3;2;2;2;2;0
+VK13460;35;26-35;No;TravelRarely;219;Operations;16;2;Other;1;1886;4;Female;2;2;Manufacturing Director;2;Married;72726;6-10 LPA;45454;0;Y;Yes;11;3;4;80;0;4;2;3;3;2;0;2;0
+VK11080;38;36-45;No;Travel-Frequently;888;Human Resources;10;4;Human Resources;1;1563;3;Male;3;2;Human Resources;3;Married;18144;0-3 LPA;1134;3;Y;No;11;3;3;80;0;10;2;3;6;3;1;2;0
+VK11210;38;36-45;No;TravelRarely;437;IT;16;3;Life Sciences;1;1583;2;Female;3;2;Sales Executive;2;Single;72774;6-10 LPA;45484;2;Y;No;12;3;2;80;0;8;5;4;3;2;1;2;0
+VK3780;36;36-45;No;TravelRarely;329;Operations;2;3;Life Sciences;1;501;4;Female;3;1;Research Scientist;3;Married;21159;0-3 LPA;13224;4;Y;No;13;3;2;80;1;6;3;3;2;2;2;2;0
+VK9130;26;26-35;No;TravelRarely;583;Administration;4;2;Life Sciences;1;1275;3;Male;3;1;Research Scientist;4;Single;72910;6-10 LPA;45569;1;Y;Yes;20;4;2;80;0;8;2;2;8;5;2;2;0
+VK5120;36;36-45;No;TravelRarely;913;Operations;9;2;Medical;1;699;2;Male;2;2;Manufacturing Director;2;Single;79752;6-10 LPA;49845;2;Y;Yes;11;3;3;80;1;13;2;3;3;2;0;2;0
+VK11590;37;36-45;No;TravelRarely;671;Operations;19;3;Life Sciences;1;1631;3;Male;3;2;Manufacturing Director;3;Married;16254;0-3 LPA;10159;3;Y;No;17;3;1;80;3;9;2;2;4;3;0;2;0
+VK14660;36;36-45;No;Travel-Frequently;884;Operations;23;2;Medical;1;2061;3;Male;4;2;Laboratory Technician;4;Married;99142;10+ LPA;61964;4;Y;No;17;3;3;80;1;17;3;3;5;2;0;2;0
+VK7630;26;26-35;Yes;Travel-Frequently;342;Administration;2;3;Life Sciences;1;1053;1;Male;3;1;Research Scientist;1;Married;51015;6-10 LPA;31884;6;Y;Yes;14;3;2;80;1;6;2;3;3;2;1;2;1
+VK7490;26;26-35;Yes;Non-Travel;265;Sales;29;2;Medical;1;1037;2;Male;1;2;Sales Executive;1;Single;51636;6-10 LPA;32273;8;Y;No;18;3;4;80;0;7;6;3;2;2;2;2;1
+VK12370;36;36-45;Yes;TravelRarely;1456;Marketing;13;5;Marketing;1;1733;2;Male;2;2;Sales Executive;1;Single;21384;0-3 LPA;13365;5;Y;Yes;13;3;2;80;3;16;3;3;2;2;2;2;1
+VK0790;37;36-45;No;TravelRarely;397;Operations;7;4;Medical;1;102;1;Male;3;3;Research Director;3;Single;24574;0-3 LPA;15359;4;Y;No;13;3;1;80;0;16;3;4;5;2;0;2;0
+VK12000;36;36-45;No;TravelRarely;1351;Operations;26;4;Life Sciences;1;1682;1;Male;3;2;Healthcare Representative;3;Married;87704;10+ LPA;54815;6;Y;No;14;3;2;80;2;10;2;2;3;2;0;2;0
+VK1010;37;36-45;Yes;TravelRarely;807;Finance;6;4;Human Resources;1;133;3;Male;3;1;Human Resources;1;Married;24524;0-3 LPA;15328;4;Y;Yes;22;4;4;80;0;7;3;3;3;2;0;2;1
+VK11830;36;36-45;No;Non-Travel;894;Operations;1;4;Medical;1;1662;4;Female;2;2;Manufacturing Director;3;Married;7970;0-3 LPA;4981;0;Y;No;15;3;3;80;0;4;6;3;3;2;1;2;0
+VK11740;36;36-45;No;TravelRarely;711;Operations;5;4;Life Sciences;1;1651;2;Female;3;3;Healthcare Representative;1;Married;63680;6-10 LPA;398;4;Y;No;12;3;3;80;2;9;6;3;3;2;0;2;0
+VK11620;38;36-45;No;TravelRarely;397;Operations;2;2;Medical;1;1638;4;Female;2;3;Manufacturing Director;3;Married;7090;0-3 LPA;4431;3;Y;Yes;19;3;4;80;1;10;6;4;5;4;0;2;0
+VK11290;36;36-45;No;Travel-Frequently;1302;Operations;6;4;Life Sciences;1;1594;1;Male;4;2;Laboratory Technician;1;Married;24833;0-3 LPA;15521;3;Y;Yes;13;3;4;80;1;9;3;3;3;2;0;2;0
+VK11030;36;36-45;No;TravelRarely;1157;Marketing;2;4;Life Sciences;1;1556;3;Male;3;1;Sales Representative;4;Single;9415;0-3 LPA;5884;3;Y;Yes;21;4;4;80;0;7;3;2;3;2;1;2;0
+VK10200;36;36-45;No;TravelRarely;329;Marketing;16;4;Marketing;1;1436;3;Female;2;2;Sales Executive;1;Married;28712;3-6 LPA;17945;4;Y;No;13;3;1;80;2;11;3;2;3;2;0;2;0
+VK2760;37;36-45;No;Non-Travel;728;Operations;1;4;Medical;1;380;1;Female;3;3;Research Director;4;Single;35816;3-6 LPA;22385;2;Y;Yes;18;3;1;80;2;15;2;3;5;2;0;2;0
+VK2950;37;36-45;No;Travel-Frequently;889;Operations;9;3;Medical;1;403;2;Male;3;1;Research Scientist;4;Married;54932;6-10 LPA;34332;1;Y;Yes;12;3;3;80;3;4;3;2;4;2;1;2;0
+VK4650;37;36-45;No;TravelRarely;799;Operations;1;3;Technical Degree;1;623;2;Female;3;3;Manufacturing Director;4;Single;93193;10+ LPA;58246;4;Y;No;17;3;4;80;0;12;3;4;6;5;1;2;0
+VK5740;26;26-35;Yes;TravelRarely;1146;Sales;8;3;Technical Degree;1;796;4;Male;2;2;Sales Executive;1;Single;1206;0-3 LPA;754;6;Y;No;17;3;3;80;0;6;2;2;4;3;1;2;1
+VK5060;26;26-35;No;TravelRarely;991;Administration;6;3;Life Sciences;1;686;3;Female;3;1;Laboratory Technician;4;Married;7910;0-3 LPA;4944;1;Y;Yes;13;3;3;80;1;3;2;3;3;2;0;2;0
+VK10570;28;26-35;Yes;Travel-Frequently;1496;Sales;1;3;Technical Degree;1;1486;1;Male;3;1;Sales Representative;3;Married;16708;0-3 LPA;10442;3;Y;No;15;3;4;80;1;5;3;4;3;2;1;2;1
+VK10020;37;36-45;No;TravelRarely;1462;Operations;11;3;Medical;1;1411;1;Female;3;1;Laboratory Technician;3;Single;54871;6-10 LPA;34294;4;Y;No;18;3;1;80;0;8;6;3;3;2;0;2;0
+VK5370;60;55+;No;TravelRarely;1179;Sales;16;4;Marketing;1;732;1;Male;3;2;Sales Executive;1;Single;29145;3-6 LPA;18216;8;Y;No;14;3;4;80;0;10;1;3;2;2;2;2;0
+VK11680;35;26-35;Yes;TravelRarely;763;Marketing;15;2;Medical;1;1645;1;Male;1;2;Sales Executive;4;Single;94396;10+ LPA;58998;6;Y;Yes;14;3;4;80;2;7;2;2;2;2;2;2;1
+VK13700;28;26-35;Yes;TravelRarely;1475;Sales;13;2;Marketing;1;1933;4;Female;3;2;Sales Executive;3;Single;9680;0-3 LPA;605;3;Y;Yes;11;3;4;80;0;6;0;3;2;0;2;2;1
+VK14140;25;18-25;No;TravelRarely;977;Administration;2;1;Other;1;1992;4;Male;3;1;Laboratory Technician;3;Single;90135;10+ LPA;56334;6;Y;Yes;19;3;3;80;1;7;2;2;2;2;0;2;0
+VK5970;35;26-35;No;TravelRarely;1258;Operations;1;4;Life Sciences;1;826;4;Female;4;1;Research Scientist;3;Single;35578;3-6 LPA;22236;3;Y;No;13;3;3;80;0;7;0;3;2;2;2;2;0
+VK5810;35;26-35;No;TravelRarely;384;Marketing;8;4;Life Sciences;1;805;1;Female;3;1;Sales Representative;4;Married;20870;0-3 LPA;13044;1;Y;No;16;3;2;80;1;3;1;2;3;2;0;2;0
+VK0050;27;26-35;No;TravelRarely;591;Administration;2;1;Medical;1;7;1;Male;3;1;Laboratory Technician;2;Married;50080;6-10 LPA;313;9;Y;No;12;3;4;80;1;6;3;3;2;2;2;2;0
+VK4840;35;26-35;No;TravelRarely;538;Operations;25;2;Other;1;652;1;Male;2;2;Laboratory Technician;4;Single;2324;0-3 LPA;1452;4;Y;No;14;3;4;80;0;9;3;3;3;2;0;2;0
+VK3360;40;36-45;No;TravelRarely;1124;IT;1;2;Medical;1;453;2;Male;1;2;Sales Executive;4;Married;11267;0-3 LPA;7042;2;Y;Yes;22;4;3;80;3;6;2;2;4;3;0;2;0
+VK1620;27;26-35;No;Non-Travel;691;Administration;9;3;Medical;1;218;4;Male;3;1;Research Scientist;2;Single;96259;10+ LPA;60162;6;Y;No;18;3;4;80;1;6;1;1;2;2;2;2;0
+VK2770;35;26-35;No;TravelRarely;1315;Operations;22;3;Life Sciences;1;381;2;Female;4;3;Manager;2;Single;14807;0-3 LPA;9254;7;Y;No;18;3;2;80;1;10;6;2;7;7;6;2;0
+VK1970;35;26-35;No;Travel-Frequently;138;Operations;2;3;Medical;1;269;2;Female;3;2;Laboratory Technician;2;Single;27962;3-6 LPA;17476;5;Y;No;11;3;4;80;0;10;5;3;6;2;1;2;0
+VK3380;29;26-35;No;TravelRarely;738;Administration;9;5;Other;1;455;2;Male;2;1;Laboratory Technician;4;Single;17646;0-3 LPA;11029;0;Y;No;17;3;3;80;0;4;2;3;3;2;2;2;0
+VK13670;39;36-45;No;Non-Travel;1251;IT;21;4;Life Sciences;1;1929;1;Female;1;2;Sales Executive;3;Married;17748;0-3 LPA;11092;6;Y;No;19;3;3;80;1;10;1;3;3;2;1;2;0
+VK0690;35;26-35;No;Travel-Frequently;664;Administration;1;3;Medical;1;88;2;Male;3;1;Research Scientist;1;Married;89858;10+ LPA;56161;4;Y;No;13;3;4;80;1;5;2;2;3;2;1;2;0
+VK0380;35;26-35;No;TravelRarely;890;Marketing;2;3;Marketing;1;49;4;Female;3;1;Sales Representative;4;Married;22677;0-3 LPA;14173;1;Y;No;13;3;1;80;0;2;3;3;2;2;2;2;0
+VK14700;34;26-35;No;TravelRarely;628;Administration;8;3;Medical;1;2068;2;Male;4;2;Laboratory Technician;3;Married;45261;3-6 LPA;28288;2;Y;No;12;3;1;80;0;6;3;4;4;3;1;2;0
+VK14700;34;26-35;No;TravelRarely;628;Administration;8;3;Medical;1;2068;2;Male;4;2;Laboratory Technician;3;Married;78052;6-10 LPA;48782;2;Y;No;12;3;1;80;0;6;3;4;4;3;1;2;0
+VK5180;25;18-25;No;TravelRarely;810;Sales;8;3;Life Sciences;1;707;4;Male;4;2;Sales Executive;2;Married;88538;10+ LPA;55336;0;Y;No;22;4;3;80;1;4;4;3;3;2;1;2;0
+VK13110;58;55+;No;Travel-Frequently;1216;Operations;15;4;Life Sciences;1;1837;1;Male;3;4;Research Director;3;Married;33921;3-6 LPA;21201;2;Y;Yes;14;3;2;80;0;23;3;3;2;2;2;2;0
+VK12710;34;26-35;No;TravelRarely;511;Marketing;3;2;Life Sciences;1;1779;4;Female;1;2;Sales Executive;4;Single;24714;0-3 LPA;15446;5;Y;No;12;3;1;80;0;6;3;3;2;2;2;2;0
+VK10460;40;36-45;No;TravelRarely;896;Operations;2;3;Medical;1;1474;3;Male;3;1;Research Scientist;3;Married;49447;3-6 LPA;30904;2;Y;No;14;3;3;80;1;8;3;4;3;1;1;2;0
+VK12530;34;26-35;No;TravelRarely;181;Administration;2;4;Medical;1;1755;4;Male;4;1;Research Scientist;4;Married;89461;10+ LPA;55913;0;Y;Yes;14;3;1;80;3;6;3;3;5;0;1;2;0
+VK10990;40;36-45;No;Non-Travel;1142;Operations;8;2;Life Sciences;1;1552;4;Male;3;2;Healthcare Representative;4;Single;18260;0-3 LPA;11412;3;Y;Yes;18;3;3;80;0;8;2;3;2;2;2;2;0
+VK0580;35;26-35;No;TravelRarely;1142;Administration;23;4;Medical;1;75;3;Female;3;1;Laboratory Technician;1;Married;94105;10+ LPA;58816;3;Y;Yes;15;3;3;80;1;4;3;3;2;2;2;2;0
+VK11330;40;36-45;No;TravelRarely;118;IT;14;2;Life Sciences;1;1598;4;Female;3;2;Sales Executive;1;Married;4812;0-3 LPA;3008;1;Y;No;15;3;3;80;1;5;2;3;5;4;1;2;0
+VK13360;39;36-45;No;TravelRarely;835;Operations;19;4;Other;1;1871;4;Male;3;2;Research Scientist;4;Married;45247;3-6 LPA;28279;8;Y;No;14;3;2;80;3;7;2;3;2;2;2;2;0
+VK12850;39;36-45;No;TravelRarely;1253;Operations;10;1;Medical;1;1800;3;Male;3;3;Research Director;3;Single;74686;6-10 LPA;46679;7;Y;No;21;4;3;80;0;9;3;3;4;3;2;2;0
+VK14120;25;18-25;No;TravelRarely;309;Human Resources;2;3;Human Resources;1;1987;3;Female;3;1;Human Resources;2;Married;53256;6-10 LPA;33285;4;Y;No;14;3;3;80;0;6;3;3;2;0;1;2;0
+VK14010;38;36-45;No;Travel-Frequently;1444;Human Resources;1;4;Other;1;1972;4;Male;3;1;Human Resources;2;Married;24954;0-3 LPA;15596;0;Y;Yes;11;3;2;80;1;7;2;3;6;2;1;2;0
+VK11090;35;26-35;No;TravelRarely;992;Operations;1;3;Medical;1;1564;4;Male;2;1;Laboratory Technician;1;Single;34591;3-6 LPA;21619;1;Y;No;19;3;2;80;0;3;3;3;3;0;1;2;0
+VK11010;35;26-35;No;TravelRarely;1402;Marketing;28;4;Life Sciences;1;1554;2;Female;2;1;Sales Representative;3;Married;24960;0-3 LPA;156;0;Y;No;23;4;1;80;2;6;5;3;5;3;4;2;0
+VK2410;39;36-45;No;TravelRarely;1431;Operations;1;4;Medical;1;332;3;Female;3;1;Laboratory Technician;3;Married;40749;3-6 LPA;25468;7;Y;No;14;3;3;80;3;7;1;3;3;2;1;2;0
+VK10220;25;18-25;Yes;TravelRarely;383;Sales;9;2;Life Sciences;1;1439;1;Male;2;1;Sales Representative;1;Married;31535;3-6 LPA;19709;3;Y;No;12;3;1;80;0;6;2;3;3;2;2;2;1
+VK10030;35;26-35;No;Travel-Frequently;200;Operations;18;2;Life Sciences;1;1412;3;Male;3;3;Manufacturing Director;4;Single;62629;6-10 LPA;39143;2;Y;No;11;3;3;80;0;10;2;3;2;2;2;2;0
+VK9820;35;26-35;Yes;Travel-Frequently;662;Marketing;18;4;Marketing;1;1380;4;Female;3;2;Sales Executive;3;Married;81219;6-10 LPA;50762;0;Y;Yes;18;3;3;80;1;5;0;2;4;2;3;2;1
+VK1060;59;55+;No;Non-Travel;1420;Human Resources;2;4;Human Resources;1;140;3;Female;2;5;Manager;4;Married;55912;6-10 LPA;34945;9;Y;No;21;4;4;80;1;30;3;3;3;2;2;2;0
+VK12930;39;36-45;No;Travel-Frequently;766;IT;20;3;Life Sciences;1;1812;3;Male;3;2;Sales Executive;4;Single;68661;6-10 LPA;42913;2;Y;No;18;3;4;80;1;7;6;3;2;1;2;2;0
+VK9250;35;26-35;No;TravelRarely;735;Operations;6;1;Life Sciences;1;1291;3;Male;3;1;Research Scientist;3;Married;43918;3-6 LPA;27449;0;Y;Yes;14;3;4;80;0;4;3;3;3;2;2;2;0
+VK8490;35;26-35;No;Travel-Frequently;636;Operations;4;4;Other;1;1185;4;Male;2;1;Laboratory Technician;4;Married;14116;0-3 LPA;8822;1;Y;No;13;3;2;80;1;2;2;4;2;2;2;2;0
+VK6700;39;36-45;Yes;TravelRarely;1122;Operations;6;3;Medical;1;932;4;Male;3;1;Laboratory Technician;1;Married;6240;0-3 LPA;39;7;Y;Yes;21;4;4;80;0;8;2;1;2;2;2;2;1
+VK9380;39;36-45;No;TravelRarely;412;Operations;13;4;Medical;1;1307;3;Female;2;4;Manager;2;Married;5432;0-3 LPA;3395;6;Y;Yes;13;3;4;80;2;21;4;3;19;9;15;2;0
+VK8210;35;26-35;No;Travel-Frequently;1182;Marketing;11;2;Marketing;1;1137;4;Male;3;2;Sales Executive;4;Single;4709;0-3 LPA;2943;1;Y;No;11;3;4;80;1;5;3;3;5;2;0;2;0
+VK7410;35;26-35;No;TravelRarely;802;Operations;10;3;Other;1;1028;2;Male;3;1;Laboratory Technician;4;Single;87769;10+ LPA;54856;1;Y;No;20;4;1;80;1;3;4;2;3;2;1;2;0
+VK7260;35;26-35;Yes;TravelRarely;622;Operations;14;4;Other;1;1010;3;Male;2;1;Laboratory Technician;2;Single;87188;10+ LPA;54492;1;Y;Yes;24;4;4;80;1;5;2;1;4;2;0;2;1
+VK9940;25;18-25;No;TravelRarely;1372;Sales;18;1;Life Sciences;1;1399;1;Male;4;2;Sales Executive;3;Married;23662;0-3 LPA;14789;2;Y;No;11;3;2;80;0;6;3;2;3;2;1;2;0
+VK10800;39;36-45;No;TravelRarely;1089;Operations;6;3;Life Sciences;1;1525;2;Female;3;3;Manufacturing Director;2;Single;51428;6-10 LPA;32142;4;Y;No;18;3;4;80;0;9;3;3;2;0;2;2;0
+VK9660;25;18-25;No;TravelRarely;882;Administration;19;1;Medical;1;1358;4;Male;3;1;Laboratory Technician;4;Married;53251;6-10 LPA;33282;3;Y;No;11;3;3;80;3;7;6;2;3;2;1;2;0
+VK10040;25;18-25;No;TravelRarely;949;Administration;1;3;Technical Degree;1;1415;1;Male;3;1;Laboratory Technician;4;Married;9392;0-3 LPA;587;4;Y;No;11;3;2;80;1;7;2;2;3;2;0;2;0
+VK6740;33;26-35;No;TravelRarely;1198;Administration;1;4;Other;1;939;3;Male;2;1;Research Scientist;1;Single;70449;6-10 LPA;44031;3;Y;Yes;11;3;2;80;0;6;1;3;3;2;0;2;0
+VK7160;33;26-35;No;Travel-Frequently;827;Administration;1;4;Other;1;998;3;Female;4;2;Healthcare Representative;2;Married;87027;10+ LPA;54392;1;Y;Yes;13;3;1;80;1;6;2;3;6;5;1;2;0
+VK4830;31;26-35;Yes;TravelRarely;1365;Sales;13;4;Medical;1;650;2;Male;3;2;Sales Executive;1;Single;33097;3-6 LPA;20686;2;Y;No;17;3;3;80;0;9;2;1;3;1;1;2;1
+VK3130;31;26-35;No;TravelRarely;192;Administration;2;4;Life Sciences;1;426;3;Male;3;1;Research Scientist;4;Single;90912;10+ LPA;5682;0;Y;Yes;18;3;2;80;1;3;2;1;2;2;2;2;0
+VK8160;22;18-25;No;TravelRarely;984;Administration;1;1;Technical Degree;1;1131;4;Female;2;1;Research Scientist;2;Single;67803;6-10 LPA;42377;1;Y;Yes;11;3;3;80;0;2;6;4;2;2;2;2;0
+VK10450;49;46-55;No;TravelRarely;1495;Operations;5;4;Technical Degree;1;1473;1;Male;3;2;Healthcare Representative;3;Married;7645;0-3 LPA;4778;2;Y;No;14;3;2;80;1;20;0;2;3;2;1;2;0
+VK2930;31;26-35;No;Travel-Frequently;444;Sales;5;3;Marketing;1;399;4;Female;3;1;Sales Representative;2;Single;11647;0-3 LPA;7279;1;Y;No;11;3;3;80;1;2;5;2;2;2;2;2;0
+VK10720;49;46-55;No;TravelRarely;271;Operations;3;2;Medical;1;1509;3;Female;2;2;Laboratory Technician;1;Married;27737;3-6 LPA;17336;4;Y;No;25;4;1;80;1;10;3;3;3;2;1;2;0
+VK11770;49;46-55;No;TravelRarely;301;Operations;22;4;Other;1;1655;1;Female;3;4;Research Director;2;Married;39565;3-6 LPA;24728;3;Y;No;16;3;2;80;2;27;2;3;4;2;1;2;0
+VK2460;31;26-35;No;Travel-Frequently;1327;Administration;3;4;Medical;1;337;2;Male;3;3;Research Director;3;Single;50689;6-10 LPA;31681;9;Y;No;12;3;1;80;1;9;3;3;2;2;2;2;0
+VK11930;49;46-55;No;TravelRarely;464;Operations;16;3;Medical;1;1674;4;Female;3;1;Laboratory Technician;1;Married;66155;6-10 LPA;41347;4;Y;Yes;16;3;2;80;1;17;2;2;2;2;2;2;0
+VK1810;31;26-35;No;TravelRarely;140;Administration;12;1;Medical;1;246;3;Female;3;1;Research Scientist;4;Married;6801;0-3 LPA;4251;8;Y;Yes;23;4;3;80;1;7;0;3;4;2;0;2;0
+VK1330;31;26-35;Yes;TravelRarely;542;Sales;20;3;Life Sciences;1;175;2;Female;1;2;Sales Executive;3;Married;55748;6-10 LPA;34842;3;Y;Yes;11;3;3;80;1;4;2;3;2;2;2;2;1
+VK0520;28;26-35;Yes;TravelRarely;1434;Administration;5;4;Technical Degree;1;65;3;Male;3;1;Laboratory Technician;3;Single;94264;10+ LPA;58915;1;Y;Yes;13;3;3;80;0;2;3;2;2;2;2;2;1
+VK0370;50;46-55;Yes;TravelRarely;869;IT;3;2;Marketing;1;47;1;Male;2;1;Sales Representative;3;Married;79623;6-10 LPA;49764;1;Y;Yes;14;3;3;80;0;3;2;3;3;2;0;2;1
+VK1840;50;46-55;No;TravelRarely;328;Operations;1;3;Medical;1;249;3;Male;2;1;Laboratory Technician;3;Married;86382;10+ LPA;53989;2;Y;No;15;3;4;80;1;5;2;2;3;2;0;2;0
+VK12970;30;26-35;No;TravelRarely;1092;Administration;10;3;Medical;1;1816;1;Female;3;3;Manufacturing Director;3;Single;36777;3-6 LPA;22986;9;Y;No;14;3;2;80;0;9;3;3;7;7;0;2;0
+VK5400;50;46-55;No;TravelRarely;316;IT;8;4;Marketing;1;738;4;Male;3;1;Sales Representative;2;Married;57373;6-10 LPA;35858;7;Y;No;15;3;4;80;1;4;2;3;2;2;2;2;0
+VK12470;30;26-35;Yes;Travel-Frequently;600;Human Resources;8;3;Human Resources;1;1747;3;Female;2;1;Human Resources;4;Single;5014;0-3 LPA;3134;6;Y;No;11;3;3;80;1;6;0;2;4;2;1;2;1
+VK4970;22;18-25;No;TravelRarely;1343;Sales;22;1;Technical Degree;1;669;3;Male;3;1;Sales Representative;3;Single;36773;3-6 LPA;22983;1;Y;No;11;3;3;80;0;3;2;3;3;2;1;2;0
+VK8680;50;46-55;No;Travel-Frequently;1421;Operations;2;3;Medical;1;1215;4;Female;3;4;Manager;1;Married;65929;6-10 LPA;41206;2;Y;No;22;4;3;80;1;32;3;3;2;2;2;2;0
+VK1630;28;26-35;No;TravelRarely;440;Administration;21;3;Medical;1;221;3;Male;3;1;Research Scientist;4;Married;95209;10+ LPA;59506;1;Y;No;11;3;3;80;1;5;2;1;5;2;0;2;0
+VK10500;30;26-35;No;TravelRarely;1358;Sales;16;1;Life Sciences;1;1479;4;Male;3;2;Sales Executive;3;Married;27641;3-6 LPA;17276;8;Y;No;15;3;3;80;2;4;2;2;2;1;2;2;0
+VK10140;30;26-35;No;TravelRarely;855;Sales;7;4;Marketing;1;1428;4;Female;3;2;Sales Executive;1;Single;86314;10+ LPA;53946;7;Y;No;14;3;2;80;2;8;3;3;3;2;0;2;0
+VK6400;49;46-55;No;TravelRarely;1418;Operations;1;3;Technical Degree;1;887;3;Female;3;1;Research Scientist;1;Married;34536;3-6 LPA;21585;2;Y;No;16;3;2;80;1;7;2;3;4;2;0;2;0
+VK9160;22;18-25;Yes;Travel-Frequently;251;Administration;10;2;Life Sciences;1;1279;1;Female;2;1;Laboratory Technician;3;Single;32551;3-6 LPA;20344;1;Y;No;20;4;3;80;0;2;2;1;2;2;2;2;1
+VK3700;31;26-35;No;TravelRarely;408;Administration;9;4;Life Sciences;1;493;3;Male;2;1;Research Scientist;2;Single;7655;0-3 LPA;4784;0;Y;Yes;16;3;4;80;0;3;5;3;2;2;2;2;0
+VK2910;49;46-55;No;Travel-Frequently;636;Operations;10;4;Life Sciences;1;396;3;Female;3;5;Research Director;1;Single;91397;10+ LPA;57123;9;Y;Yes;11;3;4;80;0;22;4;3;3;2;1;2;0
+VK3840;22;18-25;No;TravelRarely;253;Administration;11;3;Medical;1;511;1;Female;3;1;Research Scientist;2;Married;9792;0-3 LPA;612;1;Y;No;13;3;4;80;1;2;1;3;2;1;1;2;0
+VK10370;31;26-35;Yes;Travel-Frequently;523;Administration;2;3;Life Sciences;1;1464;2;Male;3;1;Laboratory Technician;4;Married;88142;10+ LPA;55089;6;Y;Yes;13;3;3;80;1;7;2;1;2;2;2;2;1
+VK10360;31;26-35;No;TravelRarely;1398;Finance;8;2;Medical;1;1461;4;Female;4;1;Human Resources;2;Single;49747;3-6 LPA;31092;9;Y;No;18;3;4;80;0;8;3;3;3;2;0;2;0
+VK11950;47;46-55;No;TravelRarely;1225;IT;2;4;Life Sciences;1;1676;2;Female;4;4;Manager;2;Married;20097;0-3 LPA;12561;6;Y;No;14;3;3;80;3;29;2;3;3;2;1;2;0
+VK1610;22;18-25;No;TravelRarely;1256;Administration;19;1;Medical;1;217;3;Male;3;1;Research Scientist;4;Married;88313;10+ LPA;55196;1;Y;No;24;4;1;80;2;2;6;3;2;2;2;2;0
+VK13680;27;26-35;No;TravelRarely;1354;Administration;2;4;Technical Degree;1;1931;2;Male;3;1;Research Scientist;2;Married;53733;6-10 LPA;33583;1;Y;No;11;3;3;80;1;6;3;2;5;3;1;2;0
+VK5560;29;26-35;No;TravelRarely;1090;Sales;10;3;Marketing;1;766;4;Male;3;1;Sales Representative;2;Single;62434;6-10 LPA;39021;1;Y;No;14;3;4;80;2;2;2;3;2;2;2;2;0
+VK9530;31;26-35;Yes;Travel-Frequently;1060;Sales;1;3;Life Sciences;1;1331;4;Female;3;1;Sales Representative;2;Single;54006;6-10 LPA;33754;1;Y;Yes;11;3;1;80;0;3;2;4;3;2;2;2;1
+VK4930;48;46-55;No;TravelRarely;1236;Operations;1;4;Life Sciences;1;664;4;Female;2;4;Manager;1;Married;22566;0-3 LPA;14104;7;Y;No;11;3;1;80;1;21;3;1;3;2;0;2;0
+VK5210;48;46-55;No;TravelRarely;817;IT;2;1;Marketing;1;712;2;Male;4;2;Sales Executive;2;Married;76452;6-10 LPA;47782;3;Y;No;12;3;4;80;0;12;3;3;2;2;2;2;0
+VK9460;50;46-55;No;TravelRarely;1322;Operations;28;3;Life Sciences;1;1317;4;Female;3;4;Research Director;1;Married;74506;6-10 LPA;46566;4;Y;Yes;11;3;2;80;0;25;2;3;3;2;1;2;0
+VK8320;31;26-35;Yes;Travel-Frequently;874;Administration;15;3;Medical;1;1160;3;Male;3;1;Laboratory Technician;3;Married;97825;10+ LPA;61141;1;Y;No;12;3;3;80;1;2;5;2;2;2;2;2;1
+VK14370;22;18-25;No;TravelRarely;501;Sales;5;1;Medical;1;2021;3;Male;3;1;Sales Representative;1;Single;4890;0-3 LPA;3056;1;Y;Yes;11;3;4;80;0;2;6;3;2;2;1;2;0
+VK7100;31;26-35;Yes;Non-Travel;335;Administration;9;2;Medical;1;991;3;Male;2;1;Research Scientist;1;Single;51300;6-10 LPA;32062;0;Y;Yes;22;4;1;80;0;4;0;3;3;2;1;2;1
+VK7360;48;46-55;No;TravelRarely;277;Operations;6;3;Life Sciences;1;1022;1;Male;2;2;Healthcare Representative;3;Single;21806;0-3 LPA;13629;2;Y;No;13;3;4;80;0;19;0;3;2;2;2;2;0
+VK6760;31;26-35;No;TravelRarely;154;Sales;7;4;Life Sciences;1;941;2;Male;2;1;Sales Representative;3;Married;94848;10+ LPA;5928;3;Y;No;15;3;2;80;0;13;2;4;7;7;5;2;0
+VK6450;31;26-35;No;TravelRarely;1222;Administration;11;4;Life Sciences;1;895;4;Male;3;1;Research Scientist;4;Married;11966;0-3 LPA;7479;3;Y;Yes;19;3;2;80;1;8;2;3;6;4;0;2;0
+VK11340;43;36-45;No;TravelRarely;990;Operations;27;3;Technical Degree;1;1599;4;Male;4;1;Laboratory Technician;2;Married;37455;3-6 LPA;23409;5;Y;No;12;3;3;80;1;8;0;3;6;4;0;2;0
+VK11530;22;18-25;No;TravelRarely;546;Administration;5;1;Medical;1;1623;3;Male;3;1;Research Scientist;4;Single;12394;0-3 LPA;7746;1;Y;No;18;3;3;80;0;3;2;3;2;2;2;2;0
+VK10390;48;46-55;No;TravelRarely;1221;IT;7;3;Marketing;1;1466;3;Male;3;2;Sales Executive;1;Married;25442;3-6 LPA;15901;4;Y;No;11;3;1;80;3;15;3;3;2;2;2;2;0
+VK11670;48;46-55;No;Travel-Frequently;365;Operations;4;5;Medical;1;1644;3;Male;2;4;Manager;4;Married;94501;10+ LPA;59063;2;Y;No;25;4;2;80;1;23;3;3;2;2;2;2;0
+VK4000;31;26-35;No;TravelRarely;329;Administration;1;2;Life Sciences;1;530;4;Male;2;1;Laboratory Technician;1;Married;77429;6-10 LPA;48393;1;Y;No;12;3;3;80;1;4;3;3;4;2;3;2;0
+VK8190;31;26-35;No;Travel-Frequently;793;Sales;20;3;Life Sciences;1;1135;3;Male;4;1;Sales Representative;4;Married;56609;6-10 LPA;35381;0;Y;No;12;3;1;80;1;3;4;3;2;2;2;2;0
+VK6460;29;26-35;Yes;TravelRarely;341;Sales;1;3;Medical;1;896;2;Female;2;1;Sales Representative;3;Single;43642;3-6 LPA;27276;6;Y;Yes;19;3;3;80;3;5;3;3;3;2;0;2;1
+VK3580;22;18-25;Yes;Travel-Frequently;756;Sales;1;1;Technical Degree;1;478;1;Female;2;1;Sales Representative;2;Single;60150;6-10 LPA;37594;1;Y;Yes;11;3;3;80;0;3;3;3;3;2;1;2;1
+VK8520;56;55+;No;TravelRarely;718;Operations;4;4;Technical Degree;1;1191;4;Female;3;5;Manager;1;Married;73355;6-10 LPA;45847;4;Y;No;13;3;4;80;1;28;2;3;5;2;4;2;0
+VK12040;53;46-55;No;TravelRarely;1395;Operations;24;4;Medical;1;1689;2;Male;4;3;Healthcare Representative;4;Married;56961;6-10 LPA;35601;3;Y;No;15;3;3;80;0;11;2;3;4;3;1;2;0
+VK12690;53;46-55;No;Non-Travel;661;Operations;1;4;Medical;1;1775;1;Female;2;4;Manufacturing Director;3;Married;77908;6-10 LPA;48692;4;Y;Yes;20;4;4;80;3;27;2;2;3;2;0;2;0
+VK6600;28;26-35;No;TravelRarely;821;Sales;5;4;Medical;1;916;1;Male;3;2;Sales Executive;4;Single;71467;6-10 LPA;44667;1;Y;No;14;3;2;80;0;4;3;3;4;2;0;2;0
+VK13970;53;46-55;Yes;TravelRarely;1168;IT;24;4;Life Sciences;1;1968;1;Male;3;3;Sales Executive;1;Single;75532;6-10 LPA;47208;6;Y;Yes;13;3;2;80;0;15;2;2;2;2;2;2;1
+VK14430;29;26-35;Yes;TravelRarely;1092;Administration;1;4;Medical;1;2027;1;Male;3;1;Research Scientist;4;Married;45064;3-6 LPA;28165;9;Y;Yes;14;3;2;80;3;4;3;4;2;2;2;2;1
+VK13880;29;26-35;No;TravelRarely;136;Administration;1;3;Life Sciences;1;1954;1;Male;3;2;Healthcare Representative;1;Married;71271;6-10 LPA;44544;0;Y;No;12;3;1;80;1;6;5;2;5;3;0;2;0
+VK6690;28;26-35;No;TravelRarely;995;Administration;9;3;Medical;1;930;3;Female;3;1;Research Scientist;3;Single;53662;6-10 LPA;33539;5;Y;No;18;3;2;80;1;6;2;3;2;2;2;2;0
+VK13440;29;26-35;No;TravelRarely;592;Administration;7;3;Life Sciences;1;1883;4;Male;3;1;Laboratory Technician;1;Single;47214;3-6 LPA;29509;3;Y;No;14;3;2;80;0;11;2;3;3;2;1;2;0
+VK3930;54;46-55;No;TravelRarely;821;Operations;5;2;Medical;1;522;1;Male;3;5;Research Director;1;Married;93201;10+ LPA;58251;4;Y;No;11;3;3;80;1;24;4;2;4;2;1;2;0
+VK8260;29;26-35;No;TravelRarely;718;Administration;8;1;Medical;1;1150;2;Male;2;2;Manufacturing Director;4;Married;60040;6-10 LPA;37525;1;Y;Yes;15;3;3;80;1;10;2;2;10;7;1;2;0
+VK7020;53;46-55;No;TravelRarely;1376;IT;2;2;Medical;1;981;3;Male;3;4;Manager;3;Married;61774;6-10 LPA;38609;6;Y;No;13;3;3;80;1;22;3;4;17;13;15;2;0
+VK7940;28;26-35;No;TravelRarely;895;Administration;15;2;Life Sciences;1;1102;1;Male;3;1;Laboratory Technician;3;Single;38157;3-6 LPA;23848;1;Y;No;16;3;4;80;1;4;5;2;4;2;2;2;0
+VK12500;29;26-35;Yes;TravelRarely;428;Sales;9;3;Marketing;1;1752;2;Female;1;1;Sales Representative;2;Single;91272;10+ LPA;57045;1;Y;No;13;3;3;80;0;2;3;3;2;2;2;2;1
+VK12200;29;26-35;No;TravelRarely;1082;Administration;9;4;Medical;1;1709;4;Female;3;1;Laboratory Technician;3;Married;95179;10+ LPA;59487;9;Y;No;17;3;3;80;1;9;2;3;5;3;1;2;0
+VK0660;55;46-55;No;TravelRarely;836;Operations;8;3;Medical;1;84;4;Female;3;4;Manager;3;Married;52226;6-10 LPA;32641;2;Y;Yes;14;3;3;80;3;21;2;3;5;0;0;2;0
+VK3800;55;46-55;No;TravelRarely;1311;Operations;2;3;Life Sciences;1;505;3;Female;3;4;Manager;4;Single;97523;10+ LPA;60952;2;Y;Yes;13;3;3;80;0;30;2;3;5;4;1;2;0
+VK1760;56;55+;No;TravelRarely;713;Operations;8;3;Life Sciences;1;241;3;Female;3;1;Research Scientist;1;Married;54276;6-10 LPA;33922;4;Y;Yes;18;3;3;80;1;19;3;3;2;2;2;2;0
+VK7750;55;46-55;No;Non-Travel;444;Operations;2;1;Medical;1;1074;3;Male;2;4;Manager;1;Single;60052;6-10 LPA;37532;7;Y;No;15;3;2;80;0;31;3;4;9;7;6;2;0
+VK10730;29;26-35;No;Travel-Frequently;410;Administration;2;1;Life Sciences;1;1513;4;Female;3;1;Laboratory Technician;2;Married;3200;0-3 LPA;20;0;Y;No;13;3;3;80;3;4;3;3;3;2;0;2;0
+VK7880;55;46-55;No;Travel-Frequently;1091;Operations;2;1;Life Sciences;1;1096;4;Male;3;3;Manufacturing Director;2;Married;12664;0-3 LPA;7915;3;Y;No;18;3;2;80;1;23;4;3;3;2;1;2;0
+VK8940;29;26-35;No;TravelRarely;1010;Administration;1;3;Life Sciences;1;1249;1;Female;3;1;Research Scientist;4;Single;33711;3-6 LPA;21069;1;Y;No;15;3;1;80;3;3;5;3;3;2;1;2;0
+VK10660;55;46-55;No;TravelRarely;1229;Operations;4;4;Life Sciences;1;1501;4;Male;3;2;Healthcare Representative;3;Married;87145;10+ LPA;54466;0;Y;Yes;16;3;2;80;0;4;2;3;3;2;1;2;0
+VK12510;29;26-35;No;Travel-Frequently;461;Administration;1;3;Life Sciences;1;1753;4;Male;4;2;Healthcare Representative;3;Single;39467;3-6 LPA;24667;8;Y;Yes;12;3;4;80;0;10;5;4;3;2;0;2;0
+VK10680;47;46-55;No;TravelRarely;571;IT;14;3;Medical;1;1503;3;Female;3;2;Sales Executive;3;Married;95270;10+ LPA;59544;3;Y;Yes;17;3;3;80;1;11;4;2;5;4;1;2;0
+VK6470;53;46-55;No;TravelRarely;868;IT;8;3;Marketing;1;897;1;Male;3;4;Sales Executive;4;Married;79344;6-10 LPA;4959;5;Y;No;14;3;3;80;1;28;3;3;2;0;2;2;0
+VK6630;21;18-25;Yes;TravelRarely;500;Sales;2;3;Medical;1;922;3;Female;2;1;Sales Representative;3;Single;84104;10+ LPA;52565;1;Y;No;13;3;4;80;0;2;3;2;2;2;0;2;1
+VK11980;21;18-25;No;TravelRarely;727;Sales;9;1;Life Sciences;1;1680;4;Male;3;1;Sales Representative;1;Single;85478;10+ LPA;53424;1;Y;No;11;3;1;80;0;2;3;3;2;2;0;2;0
+VK7830;30;26-35;No;TravelRarely;1176;Administration;20;3;Other;1;1084;3;Male;3;2;Manufacturing Director;1;Married;1301;0-3 LPA;813;0;Y;No;15;3;3;80;1;7;1;2;6;2;0;2;0
+VK7330;30;26-35;Yes;Travel-Frequently;109;Administration;5;3;Medical;1;1017;2;Female;3;1;Laboratory Technician;2;Single;97752;10+ LPA;61095;0;Y;No;17;3;1;80;0;4;3;3;3;2;1;2;1
+VK11790;21;18-25;No;TravelRarely;1141;Sales;2;3;Medical;1;1657;3;Female;3;1;Sales Representative;3;Single;26658;3-6 LPA;16661;1;Y;No;19;3;1;80;0;2;3;3;2;2;2;2;0
+VK8770;21;18-25;No;TravelRarely;654;Sales;21;3;Marketing;1;1226;3;Male;4;1;Sales Representative;4;Single;94016;10+ LPA;5876;1;Y;No;17;3;4;80;0;2;2;3;2;1;2;2;0
+VK6980;29;26-35;No;Travel-Frequently;1404;Sales;20;3;Technical Degree;1;974;3;Female;3;1;Sales Representative;4;Married;52407;6-10 LPA;32754;1;Y;No;15;3;2;80;1;3;5;3;3;1;0;2;0
+VK5820;30;26-35;No;TravelRarely;921;Administration;1;3;Life Sciences;1;806;4;Male;1;1;Laboratory Technician;3;Married;48202;3-6 LPA;30126;3;Y;No;21;4;3;80;2;7;2;3;2;2;0;2;0
+VK8570;21;18-25;No;TravelRarely;805;Administration;3;3;Life Sciences;1;1198;1;Male;2;1;Laboratory Technician;3;Single;72932;6-10 LPA;45582;1;Y;No;12;3;1;80;0;2;2;2;2;2;1;2;0
+VK3000;51;46-55;No;TravelRarely;1302;Operations;2;3;Medical;1;408;4;Male;1;2;Manufacturing Director;2;Married;61500;6-10 LPA;38438;5;Y;No;18;3;4;80;1;13;3;3;4;1;1;2;0
+VK2900;28;26-35;No;TravelRarely;1117;Administration;8;2;Life Sciences;1;395;4;Female;3;1;Research Scientist;4;Single;39623;3-6 LPA;24764;1;Y;No;21;4;4;80;0;5;3;3;5;3;0;2;0
+VK5570;53;46-55;No;TravelRarely;346;Operations;6;3;Life Sciences;1;769;4;Male;3;2;Laboratory Technician;4;Single;28856;3-6 LPA;18035;2;Y;No;17;3;4;80;0;19;4;3;2;2;2;2;0
+VK4380;30;26-35;No;TravelRarely;413;Sales;7;1;Marketing;1;585;4;Male;3;1;Sales Representative;2;Single;44484;3-6 LPA;27802;0;Y;No;14;3;1;80;0;4;3;3;3;2;1;2;0
+VK12760;51;46-55;No;TravelRarely;942;Operations;3;3;Technical Degree;1;1786;1;Female;3;3;Manager;3;Married;43880;3-6 LPA;27425;2;Y;No;11;3;4;80;0;15;2;3;2;2;2;2;0
+VK4110;30;26-35;No;TravelRarely;317;Administration;2;3;Life Sciences;1;548;3;Female;1;2;Manufacturing Director;4;Single;57835;6-10 LPA;36147;2;Y;No;20;4;3;80;0;11;2;3;5;4;0;2;0
+VK2310;52;46-55;No;TravelRarely;1323;Operations;2;3;Life Sciences;1;316;3;Female;2;1;Laboratory Technician;4;Single;88955;10+ LPA;55597;7;Y;No;15;3;2;80;0;6;3;2;2;2;2;2;0
+VK7770;21;18-25;Yes;Travel-Frequently;769;Sales;9;3;Marketing;1;1077;4;Female;3;1;Sales Representative;4;Single;29693;3-6 LPA;18558;1;Y;Yes;14;3;2;80;0;2;3;3;2;2;0;2;1
+VK3240;28;26-35;Yes;TravelRarely;1157;Administration;2;4;Medical;1;440;1;Male;1;1;Research Scientist;4;Married;56680;6-10 LPA;35425;5;Y;Yes;13;3;4;80;0;5;4;2;3;2;2;2;1
+VK3550;30;26-35;No;Non-Travel;641;Sales;25;2;Technical Degree;1;475;4;Female;3;2;Sales Executive;3;Married;94179;10+ LPA;58862;7;Y;Yes;12;3;2;80;1;4;2;4;2;2;2;2;0
+VK3390;30;26-35;No;TravelRarely;570;Sales;5;3;Marketing;1;456;4;Female;2;2;Sales Executive;3;Single;95660;10+ LPA;59788;1;Y;No;13;3;3;80;3;10;2;3;10;9;1;2;0
+VK5710;52;46-55;No;Non-Travel;715;Operations;19;4;Medical;1;791;4;Male;3;1;Research Scientist;4;Married;79757;6-10 LPA;49848;0;Y;No;18;3;1;80;1;5;3;3;4;3;1;2;0
+VK8280;28;26-35;No;Travel-Frequently;773;Administration;6;3;Life Sciences;1;1154;3;Male;2;1;Research Scientist;3;Single;90045;10+ LPA;56278;1;Y;Yes;14;3;4;80;1;3;2;3;3;1;0;2;0
+VK9950;52;46-55;No;Travel-Frequently;322;Operations;28;2;Medical;1;1401;4;Female;4;4;Manufacturing Director;3;Married;46648;3-6 LPA;29155;2;Y;Yes;11;3;2;80;1;24;3;2;5;3;0;2;0
+VK9880;51;46-55;No;Travel-Frequently;541;IT;2;3;Marketing;1;1391;2;Male;3;3;Sales Executive;2;Married;9705;0-3 LPA;6066;2;Y;No;11;3;2;80;0;14;5;3;4;2;3;2;0
+VK11920;31;26-35;No;TravelRarely;1112;Sales;5;4;Life Sciences;1;1673;1;Female;3;2;Sales Executive;4;Married;67412;6-10 LPA;42132;1;Y;No;11;3;1;80;2;10;2;3;10;0;0;2;0
+VK14410;36;36-45;No;Travel-Frequently;688;Operations;4;2;Life Sciences;1;2025;4;Female;3;2;Manufacturing Director;2;Single;30189;3-6 LPA;18868;7;Y;No;13;3;2;80;3;18;3;3;4;2;0;2;0
+VK10210;47;46-55;No;TravelRarely;465;Operations;1;3;Technical Degree;1;1438;1;Male;3;1;Research Scientist;4;Married;47240;3-6 LPA;29525;7;Y;No;12;3;3;80;1;17;2;2;6;5;1;2;0
+VK11660;44;36-45;No;Travel-Frequently;602;Human Resources;1;5;Human Resources;1;1642;1;Male;3;2;Human Resources;4;Married;47197;3-6 LPA;29498;4;Y;Yes;11;3;3;80;0;14;3;3;10;7;0;2;0
+VK12010;44;36-45;No;TravelRarely;528;Human Resources;1;3;Life Sciences;1;1683;3;Female;3;1;Human Resources;4;Married;56180;6-10 LPA;35112;4;Y;Yes;18;3;1;80;3;8;2;3;2;2;2;2;0
+VK11400;32;26-35;No;TravelRarely;634;Administration;5;4;Other;1;1607;2;Female;4;1;Research Scientist;4;Married;95758;10+ LPA;59849;3;Y;No;17;3;4;80;2;6;3;3;3;2;0;2;0
+VK11140;32;26-35;No;Non-Travel;1200;Administration;1;4;Technical Degree;1;1574;4;Male;3;2;Research Scientist;1;Married;36247;3-6 LPA;22654;4;Y;No;14;3;2;80;1;9;3;2;6;5;1;2;0
+VK13530;44;36-45;No;TravelRarely;170;Operations;1;4;Life Sciences;1;1903;2;Male;4;2;Healthcare Representative;1;Married;72907;6-10 LPA;45567;2;Y;No;15;3;4;80;1;10;5;3;2;0;2;2;0
+VK3500;29;26-35;No;Non-Travel;746;Sales;2;3;Life Sciences;1;469;4;Male;3;2;Sales Executive;3;Married;97601;10+ LPA;61001;1;Y;No;14;3;1;80;1;4;3;2;4;3;0;2;0
+VK14360;44;36-45;No;TravelRarely;1037;Operations;1;3;Medical;1;2020;2;Male;3;1;Research Scientist;4;Single;72895;6-10 LPA;45559;6;Y;Yes;12;3;3;80;0;6;2;3;4;3;1;2;0
+VK9920;32;26-35;No;TravelRarely;499;Sales;2;1;Marketing;1;1396;3;Male;3;2;Sales Executive;2;Married;61403;6-10 LPA;38377;0;Y;Yes;13;3;1;80;3;4;3;2;3;2;1;2;0
+VK5510;23;18-25;No;TravelRarely;650;Administration;9;1;Medical;1;758;2;Male;3;1;Laboratory Technician;1;Married;90475;10+ LPA;56547;1;Y;No;14;3;4;80;1;5;2;4;4;3;0;2;0
+VK8810;32;26-35;No;Travel-Frequently;116;Administration;13;3;Other;1;1234;3;Female;2;1;Laboratory Technician;2;Married;79832;6-10 LPA;49895;1;Y;No;20;4;3;80;1;2;2;3;2;2;2;2;0
+VK3720;29;26-35;No;TravelRarely;1283;Administration;23;3;Life Sciences;1;495;4;Male;3;1;Research Scientist;4;Single;91735;10+ LPA;57334;9;Y;No;16;3;4;80;0;6;4;3;3;2;1;2;0
+VK3460;23;18-25;No;TravelRarely;1309;Administration;26;1;Life Sciences;1;465;3;Male;3;1;Research Scientist;4;Single;68121;6-10 LPA;42576;1;Y;No;12;3;3;80;2;4;2;2;4;2;0;2;0
+VK6830;32;26-35;No;Non-Travel;1184;Administration;1;3;Life Sciences;1;951;3;Female;2;1;Laboratory Technician;2;Married;62389;6-10 LPA;38993;6;Y;No;20;4;3;80;0;5;3;3;3;0;0;2;0
+VK6380;32;26-35;No;Non-Travel;300;Administration;1;3;Life Sciences;1;882;4;Male;3;1;Laboratory Technician;4;Single;73789;6-10 LPA;46118;0;Y;No;12;3;2;80;1;4;2;3;3;0;0;2;0
+VK14240;22;18-25;No;TravelRarely;581;Administration;1;2;Life Sciences;1;2007;4;Male;3;1;Research Scientist;3;Single;36920;3-6 LPA;23075;0;Y;No;12;3;4;80;0;4;2;4;3;2;1;2;0
+VK4550;29;26-35;No;TravelRarely;232;Administration;19;3;Technical Degree;1;611;4;Male;3;2;Manufacturing Director;4;Single;3049;0-3 LPA;1906;4;Y;No;12;3;2;80;2;8;2;4;3;2;1;2;0
+VK6260;45;36-45;No;TravelRarely;930;IT;9;3;Marketing;1;864;4;Male;3;3;Sales Executive;1;Married;1814;0-3 LPA;1134;4;Y;Yes;12;3;3;80;1;18;2;3;5;4;0;2;0
+VK7140;45;36-45;No;TravelRarely;974;Operations;1;4;Medical;1;996;4;Female;3;1;Laboratory Technician;4;Married;91474;10+ LPA;57171;3;Y;No;14;3;4;80;2;8;2;3;5;3;0;2;0
+VK4700;32;26-35;Yes;Non-Travel;1474;Sales;11;4;Other;1;631;4;Male;4;2;Sales Executive;3;Married;10662;0-3 LPA;6664;8;Y;No;12;3;4;80;0;6;2;3;4;2;1;2;1
+VK10630;44;36-45;No;Travel-Frequently;1193;Operations;2;1;Medical;1;1496;2;Male;3;3;Manufacturing Director;3;Single;60201;6-10 LPA;37626;5;Y;Yes;18;3;2;80;0;16;2;2;2;2;2;2;0
+VK12420;32;26-35;No;TravelRarely;371;Sales;19;3;Life Sciences;1;1739;4;Male;1;3;Sales Executive;3;Married;27646;3-6 LPA;17279;3;Y;No;13;3;3;80;1;10;2;1;4;3;0;2;0
+VK5660;23;18-25;No;TravelRarely;310;Administration;10;1;Medical;1;784;1;Male;4;1;Research Scientist;3;Single;20457;0-3 LPA;12786;1;Y;No;18;3;4;80;0;2;3;3;2;2;0;2;0
+VK8340;27;26-35;No;TravelRarely;199;Administration;6;3;Life Sciences;1;1162;4;Male;2;1;Research Scientist;3;Married;98504;10+ LPA;61565;1;Y;No;13;3;3;80;1;4;0;3;4;2;2;2;0
+VK11280;23;18-25;No;TravelRarely;977;Administration;10;3;Technical Degree;1;1592;4;Male;4;1;Research Scientist;3;Married;53995;6-10 LPA;33747;2;Y;No;16;3;4;80;1;4;2;3;2;2;2;2;0
+VK5920;33;26-35;Yes;TravelRarely;118;Sales;16;3;Marketing;1;819;1;Female;3;2;Sales Executive;1;Single;94610;10+ LPA;59131;5;Y;No;15;3;3;80;0;6;3;3;3;2;0;2;1
+VK12940;43;36-45;No;Non-Travel;343;Operations;9;3;Life Sciences;1;1813;1;Male;3;1;Research Scientist;3;Single;42157;3-6 LPA;26348;4;Y;No;13;3;3;80;0;7;2;2;3;2;1;2;0
+VK10830;23;18-25;No;TravelRarely;507;Administration;20;1;Life Sciences;1;1533;1;Male;3;2;Laboratory Technician;3;Single;79953;6-10 LPA;49971;0;Y;No;14;3;2;80;0;5;2;3;4;3;1;2;0
+VK5000;33;26-35;No;TravelRarely;1216;Sales;8;4;Marketing;1;677;3;Male;3;2;Sales Executive;3;Single;12938;0-3 LPA;8086;0;Y;No;12;3;4;80;0;6;3;3;5;0;1;2;0
+VK1000;44;36-45;No;Non-Travel;489;Operations;23;3;Medical;1;132;2;Male;3;2;Laboratory Technician;2;Married;88487;10+ LPA;55304;4;Y;No;12;3;3;80;1;17;3;4;3;2;1;2;0
+VK4940;44;36-45;No;TravelRarely;1112;Human Resources;1;4;Life Sciences;1;665;1;Female;2;2;Human Resources;3;Single;81910;6-10 LPA;51194;4;Y;No;11;3;2;80;0;10;1;4;2;2;0;2;0
+VK2470;33;26-35;No;TravelRarely;832;Administration;5;4;Life Sciences;1;338;3;Female;2;1;Research Scientist;4;Married;92007;10+ LPA;57504;1;Y;No;13;3;3;80;1;2;2;2;2;2;0;2;0
+VK6320;44;36-45;No;TravelRarely;986;Operations;8;4;Life Sciences;1;874;1;Male;4;1;Laboratory Technician;4;Married;26053;3-6 LPA;16283;2;Y;Yes;24;4;3;80;1;10;2;2;3;2;0;2;0
+VK8550;45;36-45;No;TravelRarely;1457;Operations;7;3;Medical;1;1195;1;Female;3;1;Research Scientist;3;Married;18368;0-3 LPA;1148;4;Y;Yes;19;3;3;80;1;7;2;2;3;2;0;2;0
+VK1770;33;26-35;No;TravelRarely;134;Administration;2;3;Life Sciences;1;242;3;Male;3;1;Research Scientist;4;Single;52991;6-10 LPA;33119;0;Y;No;14;3;1;80;0;4;2;4;3;1;0;2;0
+VK13840;36;36-45;No;Non-Travel;1351;Operations;9;4;Life Sciences;1;1949;1;Male;4;1;Laboratory Technician;2;Married;41943;3-6 LPA;26214;1;Y;No;22;4;2;80;0;5;3;3;5;4;0;2;0
+VK9540;44;36-45;Yes;TravelRarely;935;Operations;3;3;Life Sciences;1;1333;1;Male;3;1;Laboratory Technician;1;Married;83870;10+ LPA;52419;4;Y;No;12;3;3;80;0;10;4;4;3;2;1;2;1
+VK7180;27;26-35;No;TravelRarely;1134;Administration;16;4;Technical Degree;1;1001;3;Female;3;1;Laboratory Technician;2;Married;6530;0-3 LPA;4081;9;Y;No;14;3;2;80;1;4;2;3;2;2;2;2;0
+VK7400;27;26-35;No;TravelRarely;1055;Administration;2;4;Life Sciences;1;1027;1;Female;3;2;Manufacturing Director;4;Married;95856;10+ LPA;5991;0;Y;No;18;3;2;80;1;4;2;3;3;2;2;2;0
+VK14500;32;26-35;No;TravelRarely;529;Administration;2;3;Technical Degree;1;2038;4;Male;3;1;Research Scientist;1;Single;61160;6-10 LPA;38225;1;Y;No;14;3;4;80;0;4;4;3;4;2;1;2;0
+VK14290;32;26-35;No;TravelRarely;234;Sales;1;4;Medical;1;2013;2;Male;2;1;Sales Representative;2;Married;24289;0-3 LPA;15181;0;Y;No;14;3;2;80;1;3;2;3;2;2;2;2;0
+VK7870;27;26-35;No;Non-Travel;1277;Administration;8;5;Life Sciences;1;1094;1;Male;1;1;Laboratory Technician;3;Married;4748;0-3 LPA;2968;1;Y;No;19;3;4;80;3;3;4;3;3;2;1;2;0
+VK13890;32;26-35;No;Non-Travel;1146;Administration;15;4;Medical;1;1955;3;Female;3;2;Healthcare Representative;4;Single;69385;6-10 LPA;43366;5;Y;No;18;3;2;80;1;9;6;3;5;1;1;2;0
+VK13270;32;26-35;Yes;TravelRarely;414;Sales;2;4;Marketing;1;1862;3;Male;2;2;Sales Executive;2;Single;99116;10+ LPA;61948;7;Y;Yes;12;3;3;80;0;7;3;2;2;2;2;2;1
+VK8580;44;36-45;Yes;TravelRarely;1097;Operations;10;4;Life Sciences;1;1200;3;Male;3;1;Research Scientist;3;Single;52356;6-10 LPA;32723;1;Y;Yes;11;3;3;80;0;6;4;3;6;4;0;2;1
+VK10380;45;36-45;No;TravelRarely;1448;Operations;29;3;Technical Degree;1;1465;2;Male;3;3;Manufacturing Director;4;Married;28306;3-6 LPA;17691;4;Y;Yes;18;3;4;80;2;10;4;4;3;1;1;2;0
+VK5170;23;18-25;No;TravelRarely;885;Administration;4;3;Medical;1;705;1;Male;4;1;Research Scientist;1;Married;70479;6-10 LPA;44049;2;Y;No;16;3;1;80;1;5;3;4;3;2;0;2;0
+VK5080;29;26-35;No;TravelRarely;1176;Sales;3;2;Medical;1;690;2;Female;3;2;Sales Executive;3;Married;32616;3-6 LPA;20385;1;Y;No;14;3;1;80;1;6;5;2;6;0;1;2;0
+VK11710;27;26-35;No;Travel-Frequently;591;Administration;2;3;Medical;1;1648;4;Male;3;1;Research Scientist;4;Single;55384;6-10 LPA;34615;2;Y;No;13;3;3;80;0;6;0;2;4;2;1;2;0
+VK6310;22;18-25;No;TravelRarely;1230;Administration;1;2;Life Sciences;1;872;4;Male;2;2;Manufacturing Director;4;Married;77552;6-10 LPA;4847;6;Y;No;22;4;1;80;2;4;2;1;2;2;2;2;0
+VK13610;31;26-35;No;TravelRarely;471;Administration;4;3;Medical;1;1916;1;Female;4;1;Laboratory Technician;3;Single;18019;0-3 LPA;11262;8;Y;No;12;3;2;80;1;4;0;2;2;2;2;2;0
+VK4660;46;46-55;No;Travel-Frequently;1034;Operations;18;1;Medical;1;624;1;Female;3;3;Healthcare Representative;3;Married;20256;0-3 LPA;1266;5;Y;No;11;3;4;80;0;28;3;2;2;2;1;2;0
+VK6670;22;18-25;Yes;TravelRarely;617;Administration;3;1;Life Sciences;1;926;2;Female;3;2;Manufacturing Director;3;Married;24897;0-3 LPA;15561;0;Y;Yes;19;3;1;80;1;4;3;4;3;2;0;2;1
+VK0800;46;46-55;No;TravelRarely;945;Human Resources;5;2;Medical;1;103;2;Male;3;2;Human Resources;2;Married;69904;6-10 LPA;4369;8;Y;Yes;22;4;4;80;1;16;2;3;4;2;0;2;0
+VK4990;22;18-25;No;TravelRarely;604;Administration;6;1;Medical;1;675;1;Male;3;1;Research Scientist;3;Married;44001;3-6 LPA;27501;0;Y;No;20;4;4;80;0;3;3;3;2;2;2;2;0
+VK13420;31;26-35;No;TravelRarely;311;Administration;20;3;Life Sciences;1;1881;2;Male;3;2;Laboratory Technician;3;Single;74523;6-10 LPA;46577;1;Y;No;11;3;1;80;1;10;2;3;10;8;0;2;0
+VK13180;27;26-35;No;Travel-Frequently;1297;Administration;5;2;Life Sciences;1;1850;4;Female;3;1;Laboratory Technician;4;Single;47576;3-6 LPA;29735;0;Y;Yes;14;3;3;80;0;6;3;2;5;4;0;2;0
+VK13070;31;26-35;No;Travel-Frequently;1125;Sales;7;4;Marketing;1;1833;1;Female;3;3;Sales Executive;1;Married;40734;3-6 LPA;25459;2;Y;No;14;3;4;80;2;9;3;3;3;2;2;2;0
+VK11700;27;26-35;No;TravelRarely;486;Administration;8;3;Medical;1;1647;2;Female;4;1;Research Scientist;3;Married;69840;6-10 LPA;4365;7;Y;No;17;3;1;80;0;5;0;3;3;2;0;2;0
+VK2390;32;26-35;No;TravelRarely;1401;Sales;4;2;Life Sciences;1;330;3;Female;3;1;Sales Representative;2;Married;8805;0-3 LPA;5503;2;Y;No;11;3;1;80;1;6;5;3;4;3;1;2;0
+VK4440;22;18-25;Yes;Travel-Frequently;1368;Administration;4;1;Technical Degree;1;593;3;Male;2;1;Laboratory Technician;3;Single;74969;6-10 LPA;46856;5;Y;No;16;3;3;80;0;4;3;3;2;2;1;2;1
+VK4340;46;46-55;No;TravelRarely;1125;IT;10;3;Marketing;1;580;3;Female;2;3;Sales Executive;4;Married;48523;3-6 LPA;30327;2;Y;Yes;19;3;3;80;1;15;3;3;3;2;1;2;0
+VK6660;47;46-55;No;TravelRarely;1454;IT;2;4;Life Sciences;1;925;4;Female;2;1;Sales Representative;4;Single;46765;3-6 LPA;29228;1;Y;Yes;18;3;1;80;0;3;3;2;3;2;1;2;0
+VK2420;32;26-35;No;Non-Travel;976;Sales;26;4;Marketing;1;333;3;Male;3;2;Sales Executive;4;Married;21056;0-3 LPA;1316;0;Y;No;18;3;1;80;0;4;2;3;3;2;2;2;0
+VK7710;46;46-55;No;TravelRarely;430;Operations;1;4;Medical;1;1069;4;Male;3;5;Research Director;4;Married;38430;3-6 LPA;24019;9;Y;No;17;3;4;80;2;23;0;3;2;2;2;2;0
+VK12860;46;46-55;No;Non-Travel;849;IT;26;2;Life Sciences;1;1801;2;Male;2;2;Sales Executive;2;Single;64731;6-10 LPA;40457;8;Y;No;15;3;3;80;0;6;3;3;2;2;2;2;0
+VK12780;46;46-55;No;TravelRarely;734;Operations;2;4;Medical;1;1789;3;Male;3;5;Research Director;4;Married;26150;3-6 LPA;16344;7;Y;Yes;17;3;3;80;1;24;3;3;2;1;2;2;0
+VK14180;31;26-35;No;TravelRarely;1154;Sales;2;2;Life Sciences;1;1996;1;Male;3;1;Sales Representative;3;Married;80634;6-10 LPA;50396;0;Y;No;19;3;3;80;1;3;1;3;2;2;1;2;0
+VK12480;31;26-35;No;TravelRarely;1003;Sales;5;3;Technical Degree;1;1749;1;Male;3;2;Sales Executive;3;Married;33093;3-6 LPA;20683;1;Y;No;19;3;3;80;1;6;3;3;5;2;0;2;0
+VK2400;32;26-35;Yes;TravelRarely;515;Administration;1;3;Life Sciences;1;331;4;Male;2;1;Laboratory Technician;3;Single;6237;0-3 LPA;3898;0;Y;Yes;14;3;4;80;0;4;2;1;3;2;1;2;1
+VK5780;37;36-45;No;TravelRarely;571;Operations;10;1;Life Sciences;1;802;4;Female;3;1;Research Scientist;1;Married;44125;3-6 LPA;27578;0;Y;Yes;13;3;2;80;2;6;3;2;5;3;4;3;0
+VK13000;40;36-45;No;TravelRarely;1194;Operations;1;3;Life Sciences;1;1822;3;Female;3;2;Healthcare Representative;4;Married;73303;6-10 LPA;45814;4;Y;No;17;3;4;80;1;12;3;3;5;3;0;3;0
+VK12120;37;36-45;No;Travel-Frequently;1278;Marketing;1;4;Medical;1;1700;3;Male;1;2;Sales Executive;4;Single;2252;0-3 LPA;1408;1;Y;No;14;3;3;80;2;6;2;2;6;3;1;3;0
+VK0960;54;46-55;No;TravelRarely;1217;Operations;2;4;Technical Degree;1;126;1;Female;3;3;Research Director;3;Married;82994;6-10 LPA;51871;9;Y;No;12;3;1;80;1;16;5;1;4;3;0;3;0
+VK5540;40;36-45;No;TravelRarely;804;Operations;2;1;Medical;1;763;4;Female;2;1;Research Scientist;4;Single;4596;0-3 LPA;2872;0;Y;Yes;20;4;4;80;0;5;2;2;4;2;2;3;0
+VK8330;37;36-45;No;TravelRarely;367;Operations;25;2;Medical;1;1161;3;Female;2;2;Healthcare Representative;4;Married;38626;3-6 LPA;24141;7;Y;No;13;3;3;80;2;9;2;3;6;2;1;3;0
+VK10230;37;36-45;No;Non-Travel;1413;Operations;5;2;Technical Degree;1;1440;3;Male;4;1;Laboratory Technician;3;Single;20198;0-3 LPA;12624;0;Y;No;14;3;1;80;0;7;2;1;6;5;1;3;0
+VK10430;44;36-45;No;Non-Travel;981;Operations;5;3;Life Sciences;1;1471;3;Male;2;1;Laboratory Technician;3;Single;3336;0-3 LPA;2085;3;Y;No;14;3;4;80;0;7;5;3;5;2;0;3;0
+VK1080;25;18-25;Yes;TravelRarely;240;Sales;5;3;Marketing;1;142;3;Male;2;2;Sales Executive;3;Single;49984;3-6 LPA;3124;1;Y;Yes;11;3;4;80;0;6;1;3;6;4;0;3;1
+VK9900;37;36-45;No;TravelRarely;1439;Operations;4;1;Life Sciences;1;1394;3;Male;3;1;Research Scientist;3;Married;89464;10+ LPA;55915;7;Y;Yes;15;3;4;80;0;8;2;3;6;4;1;3;0
+VK7440;59;55+;No;TravelRarely;715;Operations;2;3;Life Sciences;1;1032;3;Female;2;4;Manufacturing Director;4;Single;75666;6-10 LPA;47291;3;Y;Yes;13;3;1;80;0;30;4;3;5;3;4;3;0
+VK0210;24;18-25;No;Non-Travel;673;Administration;11;2;Other;1;26;1;Female;4;2;Manufacturing Director;3;Single;66697;6-10 LPA;41686;0;Y;No;18;3;4;80;1;5;5;2;4;2;1;3;0
+VK12440;45;36-45;No;TravelRarely;176;Human Resources;4;3;Life Sciences;1;1744;3;Female;1;3;Human Resources;3;Married;1126;0-3 LPA;704;4;Y;No;21;4;3;80;2;9;2;4;5;0;0;3;0
+VK6390;25;18-25;No;TravelRarely;583;Sales;4;1;Marketing;1;885;3;Male;2;2;Sales Executive;1;Married;62858;6-10 LPA;39286;1;Y;No;12;3;1;80;0;5;1;4;5;2;0;3;0
+VK11720;40;36-45;Yes;TravelRarely;1329;Operations;7;3;Life Sciences;1;1649;1;Male;3;1;Laboratory Technician;1;Single;28285;3-6 LPA;17678;3;Y;Yes;14;3;2;80;0;10;3;1;4;2;0;3;1
+VK7700;26;26-35;No;Travel-Frequently;921;Administration;1;1;Medical;1;1068;1;Female;2;1;Research Scientist;3;Single;55268;6-10 LPA;34542;1;Y;No;13;3;3;80;2;5;5;3;5;3;1;3;0
+VK14660;36;36-45;No;Travel-Frequently;884;Operations;23;2;Medical;1;2061;3;Male;4;2;Laboratory Technician;4;Married;61100;6-10 LPA;38188;4;Y;No;17;3;3;80;1;17;3;3;5;2;0;3;0
+VK3980;25;18-25;No;TravelRarely;891;Sales;4;2;Life Sciences;1;527;2;Female;2;2;Sales Executive;4;Single;3695;0-3 LPA;2309;1;Y;Yes;11;3;2;80;0;5;3;3;5;4;1;3;0
+VK9680;40;36-45;No;TravelRarely;329;Operations;1;4;Life Sciences;1;1361;2;Male;3;1;Laboratory Technician;2;Married;61004;6-10 LPA;38128;3;Y;No;22;4;3;80;1;7;3;3;4;2;0;3;0
+VK1230;56;55+;Yes;TravelRarely;441;Operations;14;4;Life Sciences;1;161;2;Female;3;1;Research Scientist;2;Married;79617;6-10 LPA;49761;9;Y;Yes;18;3;1;80;3;7;2;3;5;4;4;3;1
+VK0320;44;36-45;No;TravelRarely;1459;Operations;10;4;Other;1;40;4;Male;3;2;Healthcare Representative;4;Married;25519;3-6 LPA;15949;2;Y;Yes;13;3;4;80;0;9;5;4;4;2;1;3;0
+VK6090;55;46-55;Yes;TravelRarely;436;IT;2;1;Medical;1;842;3;Male;3;2;Sales Executive;4;Single;75182;6-10 LPA;46989;4;Y;No;16;3;3;80;0;12;3;2;9;7;7;3;1
+VK0530;44;36-45;No;TravelRarely;1488;IT;1;5;Marketing;1;68;2;Female;3;2;Sales Executive;1;Married;97809;10+ LPA;61131;5;Y;Yes;21;4;3;80;1;9;2;2;4;3;1;3;0
+VK3330;54;46-55;No;Travel-Frequently;928;Operations;20;4;Life Sciences;1;450;4;Female;3;2;Research Scientist;3;Single;62268;6-10 LPA;38918;3;Y;No;12;3;4;80;0;20;4;2;4;3;0;3;0
+VK7340;26;26-35;No;TravelRarely;1066;Administration;2;2;Medical;1;1018;4;Male;4;2;Manufacturing Director;4;Married;24419;0-3 LPA;15262;1;Y;No;12;3;2;80;0;8;2;3;8;7;1;3;0
+VK13980;54;46-55;No;TravelRarely;155;Operations;9;2;Life Sciences;1;1969;1;Female;3;2;Research Scientist;3;Married;17725;0-3 LPA;11078;3;Y;No;11;3;3;80;2;9;6;2;4;3;2;3;0
+VK6180;44;36-45;No;TravelRarely;625;Operations;4;3;Medical;1;852;4;Male;3;2;Healthcare Representative;2;Single;60379;6-10 LPA;37737;9;Y;No;12;3;4;80;0;10;2;2;5;2;2;3;0
+VK1160;37;36-45;No;TravelRarely;1189;Marketing;3;3;Life Sciences;1;152;3;Male;3;3;Sales Executive;4;Single;11916;0-3 LPA;7447;2;Y;No;12;3;1;80;0;12;3;3;5;3;1;3;0
+VK6350;25;18-25;No;TravelRarely;141;Sales;3;1;Other;1;879;3;Male;3;2;Sales Executive;1;Married;14986;0-3 LPA;9366;1;Y;Yes;18;3;4;80;0;5;3;3;5;3;0;3;0
+VK12770;37;36-45;No;TravelRarely;589;Marketing;9;2;Marketing;1;1787;2;Male;2;2;Sales Executive;2;Married;40764;3-6 LPA;25478;1;Y;No;14;3;1;80;2;5;2;3;5;2;0;3;0
+VK3650;37;36-45;No;TravelRarely;921;Operations;10;3;Medical;1;486;3;Female;3;1;Laboratory Technician;1;Married;22949;0-3 LPA;14343;6;Y;No;20;4;2;80;1;17;3;3;5;4;0;3;0
+VK11650;40;36-45;No;TravelRarely;448;Operations;16;3;Life Sciences;1;1641;3;Female;3;3;Manufacturing Director;4;Single;59656;6-10 LPA;37285;6;Y;Yes;15;3;4;80;0;18;2;2;4;2;3;3;0
+VK4730;37;36-45;No;TravelRarely;446;Operations;1;4;Life Sciences;1;635;2;Female;3;2;Manufacturing Director;2;Married;8239;0-3 LPA;5149;6;Y;No;12;3;2;80;1;8;2;2;6;5;4;3;0
+VK5670;47;46-55;Yes;Travel-Frequently;719;IT;27;2;Life Sciences;1;785;2;Female;4;2;Sales Executive;3;Single;80026;6-10 LPA;50016;4;Y;Yes;12;3;4;80;0;8;2;3;5;4;1;3;1
+VK10470;44;36-45;No;TravelRarely;1467;Operations;20;3;Life Sciences;1;1475;4;Male;3;1;Research Scientist;2;Single;68779;6-10 LPA;42987;1;Y;No;13;3;3;80;0;6;3;2;5;2;1;3;0
+VK3880;40;36-45;No;TravelRarely;759;IT;2;2;Marketing;1;516;4;Female;3;2;Sales Executive;2;Married;51448;6-10 LPA;32155;7;Y;No;12;3;3;80;2;8;5;3;5;4;1;3;0
+VK2810;53;46-55;No;TravelRarely;1070;Operations;3;4;Medical;1;386;3;Male;3;4;Research Director;3;Married;52920;6-10 LPA;33075;3;Y;Yes;16;3;4;80;3;21;5;2;5;3;1;3;0
+VK10070;49;46-55;Yes;Travel-Frequently;1475;Operations;28;2;Life Sciences;1;1420;1;Male;2;2;Laboratory Technician;1;Single;29865;3-6 LPA;18666;3;Y;No;20;4;1;80;0;20;2;3;4;3;1;3;1
+VK1750;45;36-45;No;TravelRarely;1268;IT;4;2;Life Sciences;1;240;3;Female;3;2;Sales Executive;1;Married;15382;0-3 LPA;9614;4;Y;Yes;11;3;1;80;1;9;3;4;5;4;0;3;0
+VK13090;38;36-45;No;TravelRarely;723;IT;2;4;Marketing;1;1835;2;Female;1;2;Sales Representative;4;Married;70724;6-10 LPA;44202;2;Y;Yes;20;4;1;80;2;20;4;2;4;2;0;3;0
+VK11690;24;18-25;No;Travel-Frequently;567;Administration;2;1;Technical Degree;1;1646;1;Female;3;1;Research Scientist;4;Single;87779;10+ LPA;54862;1;Y;Yes;13;3;3;80;0;6;2;3;6;3;1;3;0
+VK13770;38;36-45;No;TravelRarely;1206;Operations;9;2;Life Sciences;1;1940;2;Male;3;1;Research Scientist;4;Married;29732;3-6 LPA;18582;2;Y;No;19;3;4;80;2;10;0;4;5;2;0;3;0
+VK9890;41;36-45;No;Travel-Frequently;1200;Operations;22;3;Life Sciences;1;1392;4;Female;3;2;Research Scientist;4;Single;46587;3-6 LPA;29117;3;Y;Yes;14;3;1;80;2;12;4;2;6;2;3;3;0
+VK10290;41;36-45;No;TravelRarely;1283;Operations;5;5;Medical;1;1448;2;Male;4;1;Research Scientist;3;Married;37976;3-6 LPA;23735;2;Y;Yes;12;3;1;80;0;7;5;2;4;2;0;3;0
+VK7150;50;46-55;No;TravelRarely;1126;Operations;1;2;Medical;1;997;4;Male;3;4;Research Director;4;Married;69836;6-10 LPA;43648;9;Y;No;22;4;3;80;1;32;1;2;5;4;1;3;0
+VK0880;51;46-55;No;TravelRarely;432;Operations;9;4;Life Sciences;1;116;4;Male;3;1;Laboratory Technician;4;Married;55771;6-10 LPA;34857;3;Y;No;23;4;2;80;2;10;4;3;4;2;0;3;0
+VK5890;50;46-55;No;TravelRarely;691;Operations;2;3;Medical;1;815;3;Male;3;4;Research Director;3;Married;32480;3-6 LPA;203;5;Y;No;16;3;4;80;0;30;3;3;4;3;0;3;0
+VK13630;45;36-45;No;Travel-Frequently;1297;Operations;1;4;Medical;1;1922;2;Male;3;2;Healthcare Representative;3;Single;66310;6-10 LPA;41444;4;Y;No;12;3;3;80;0;12;3;3;4;2;0;3;0
+VK5290;50;46-55;Yes;Travel-Frequently;562;IT;8;2;Technical Degree;1;723;2;Male;3;2;Sales Executive;3;Married;75055;6-10 LPA;46909;3;Y;Yes;14;3;1;80;1;18;4;3;4;3;1;3;1
+VK3270;39;36-45;No;Travel-Frequently;672;Operations;7;2;Medical;1;444;3;Male;2;5;Manager;4;Married;52745;6-10 LPA;32966;1;Y;No;15;3;1;80;1;21;2;3;21;9;13;3;0
+VK11380;22;18-25;No;Non-Travel;457;Administration;26;2;Other;1;1605;2;Female;2;1;Research Scientist;3;Married;49555;3-6 LPA;30972;1;Y;Yes;14;3;2;80;0;4;2;2;4;2;1;3;0
+VK3680;50;46-55;No;TravelRarely;1046;Operations;10;3;Technical Degree;1;491;4;Male;2;3;Healthcare Representative;4;Single;56106;6-10 LPA;35066;6;Y;No;15;3;4;80;0;20;2;3;4;3;1;3;0
+VK13780;49;46-55;No;Travel-Frequently;1064;Operations;2;1;Life Sciences;1;1941;2;Male;3;5;Research Director;4;Married;13342;0-3 LPA;8339;3;Y;No;15;3;4;80;0;28;3;3;5;4;4;3;0
+VK8170;39;36-45;No;Non-Travel;439;Operations;9;3;Life Sciences;1;1132;3;Male;3;2;Laboratory Technician;2;Single;53796;6-10 LPA;33622;9;Y;No;15;3;3;80;0;9;2;2;5;4;0;3;0
+VK10930;45;36-45;No;TravelRarely;950;Operations;28;3;Technical Degree;1;1546;4;Male;3;1;Research Scientist;4;Married;86451;10+ LPA;54032;4;Y;No;20;4;4;80;1;8;3;3;5;4;0;3;0
+VK10260;24;18-25;No;TravelRarely;1476;Sales;4;1;Medical;1;1445;4;Female;3;2;Sales Executive;3;Married;10268;0-3 LPA;6418;1;Y;Yes;12;3;3;80;2;5;3;3;5;4;0;3;0
+VK11940;38;36-45;No;Travel-Frequently;148;Operations;2;3;Medical;1;1675;4;Female;2;1;Laboratory Technician;2;Single;23415;0-3 LPA;14634;1;Y;No;22;4;2;80;0;4;3;3;4;3;3;3;0
+VK8850;40;36-45;No;TravelRarely;107;IT;10;3;Technical Degree;1;1239;2;Female;2;2;Sales Executive;2;Married;82264;6-10 LPA;51415;7;Y;No;12;3;2;80;1;7;2;4;5;1;1;3;0
+VK1370;51;46-55;Yes;Travel-Frequently;1150;Operations;8;4;Life Sciences;1;179;1;Male;1;3;Manufacturing Director;4;Single;48057;3-6 LPA;30036;2;Y;No;15;3;4;80;0;18;2;3;4;2;0;3;1
+VK1850;53;46-55;No;TravelRarely;1084;Operations;13;2;Medical;1;250;4;Female;4;2;Manufacturing Director;1;Married;38599;3-6 LPA;24124;1;Y;No;11;3;3;80;2;5;3;3;4;2;1;3;0
+VK12360;46;46-55;No;TravelRarely;1277;IT;2;3;Life Sciences;1;1732;3;Male;3;3;Sales Executive;4;Married;41738;3-6 LPA;26086;4;Y;Yes;12;3;2;80;1;13;5;2;10;6;0;3;0
+VK7730;56;55+;No;Travel-Frequently;1240;Operations;9;3;Medical;1;1071;1;Female;3;1;Research Scientist;3;Married;90599;10+ LPA;56624;2;Y;No;19;3;2;80;1;18;4;3;5;4;0;3;0
+VK9410;39;36-45;Yes;TravelRarely;360;Operations;23;3;Medical;1;1310;3;Male;3;1;Research Scientist;1;Single;96257;10+ LPA;60161;0;Y;No;13;3;1;80;0;6;2;3;5;2;0;3;1
+VK10320;46;46-55;Yes;TravelRarely;377;IT;9;3;Marketing;1;1457;1;Male;3;3;Sales Executive;4;Married;58545;6-10 LPA;36591;4;Y;No;11;3;1;80;1;28;1;4;7;7;4;3;1
+VK8700;46;46-55;No;TravelRarely;1450;Operations;15;2;Life Sciences;1;1217;4;Male;3;5;Research Director;2;Married;12694;0-3 LPA;7934;5;Y;No;11;3;1;80;1;25;2;3;4;2;0;3;0
+VK13210;42;36-45;No;Non-Travel;355;Operations;10;4;Technical Degree;1;1854;3;Male;3;1;Research Scientist;3;Married;89861;10+ LPA;56163;3;Y;No;22;4;2;80;2;10;1;2;6;3;3;3;0
+VK3810;24;18-25;No;TravelRarely;1371;Sales;10;4;Marketing;1;507;4;Female;3;2;Sales Executive;3;Single;12534;0-3 LPA;7834;1;Y;Yes;12;3;4;80;1;5;2;4;5;2;0;3;0
+VK12800;44;36-45;Yes;Travel-Frequently;429;Operations;1;2;Medical;1;1792;3;Male;3;1;Research Scientist;2;Single;30486;3-6 LPA;19054;1;Y;Yes;12;3;3;80;3;6;2;2;5;3;2;3;1
+VK2850;26;26-35;No;Travel-Frequently;496;Administration;11;2;Medical;1;390;1;Male;3;2;Healthcare Representative;1;Married;11965;0-3 LPA;7478;1;Y;Yes;13;3;3;80;1;5;3;3;5;3;3;3;0
+VK8790;42;36-45;No;Non-Travel;179;Human Resources;2;5;Medical;1;1231;4;Male;4;2;Human Resources;1;Married;85555;10+ LPA;53472;7;Y;No;16;3;1;80;1;10;3;4;4;3;0;3;0
+VK9720;51;46-55;No;TravelRarely;1405;Operations;11;2;Technical Degree;1;1367;4;Female;2;4;Manufacturing Director;2;Single;32419;3-6 LPA;20262;3;Y;No;16;3;2;80;0;29;1;2;5;2;0;3;0
+VK7040;38;36-45;No;Non-Travel;152;IT;10;3;Technical Degree;1;983;3;Female;3;2;Sales Executive;4;Single;56123;6-10 LPA;35077;1;Y;Yes;13;3;2;80;0;6;1;3;5;3;1;3;0
+VK6730;42;36-45;No;TravelRarely;462;IT;14;2;Medical;1;936;3;Female;2;2;Sales Executive;3;Single;1235;0-3 LPA;772;7;Y;No;17;3;1;80;0;10;6;3;5;4;0;3;0
+VK14380;39;36-45;No;Non-Travel;105;Operations;9;3;Life Sciences;1;2022;4;Male;3;5;Manager;4;Single;6122;0-3 LPA;3826;2;Y;No;13;3;3;80;0;21;3;2;6;0;1;3;0
+VK6440;42;36-45;No;TravelRarely;1265;Operations;3;3;Life Sciences;1;894;3;Female;4;2;Laboratory Technician;4;Married;13219;0-3 LPA;8262;2;Y;Yes;13;3;2;80;1;17;1;2;5;3;1;3;0
+VK1260;26;26-35;No;TravelRarely;841;Administration;6;3;Other;1;164;3;Female;2;1;Research Scientist;2;Married;97354;10+ LPA;60846;1;Y;No;19;3;3;80;0;5;3;2;5;4;4;3;0
+VK8220;49;46-55;No;TravelRarely;174;IT;8;4;Technical Degree;1;1138;4;Male;2;4;Sales Executive;2;Married;39258;3-6 LPA;24536;6;Y;No;17;3;2;80;1;22;3;3;9;8;2;3;0
+VK9830;38;36-45;No;Travel-Frequently;693;Operations;7;3;Life Sciences;1;1382;4;Male;4;1;Research Scientist;3;Single;7254;0-3 LPA;4534;1;Y;No;11;3;4;80;3;4;2;3;4;2;0;3;0
+VK5350;53;46-55;No;TravelRarely;970;Operations;7;3;Life Sciences;1;730;3;Male;4;4;Research Director;3;Married;36954;3-6 LPA;23096;3;Y;No;19;3;3;80;0;32;3;3;5;1;1;3;0
+VK8500;43;36-45;Yes;TravelRarely;1372;IT;9;3;Marketing;1;1188;1;Female;1;2;Sales Executive;3;Single;35016;3-6 LPA;21885;8;Y;No;13;3;2;80;0;7;2;2;4;3;1;3;1
+VK10710;28;26-35;No;Travel-Frequently;467;Sales;7;3;Life Sciences;1;1507;3;Male;3;2;Sales Executive;1;Single;3811;0-3 LPA;2382;0;Y;No;14;3;4;80;0;5;5;3;4;2;1;3;0
+VK6270;32;26-35;No;TravelRarely;638;Administration;8;2;Medical;1;865;3;Female;4;2;Research Scientist;3;Married;14284;0-3 LPA;8928;5;Y;No;12;3;3;80;1;9;3;2;5;3;1;3;0
+VK14680;27;26-35;No;TravelRarely;155;Administration;4;3;Life Sciences;1;2064;2;Male;4;2;Manufacturing Director;2;Married;68172;6-10 LPA;42608;1;Y;Yes;20;4;2;80;1;6;0;3;6;2;0;3;0
+VK4310;35;26-35;No;TravelRarely;144;Operations;22;3;Life Sciences;1;577;4;Male;1;1;Laboratory Technician;3;Single;92792;10+ LPA;57995;0;Y;No;15;3;3;80;0;6;2;3;5;4;4;3;0
+VK0400;33;26-35;No;Travel-Frequently;1141;Sales;1;3;Life Sciences;1;52;3;Female;4;2;Sales Executive;1;Married;17364;0-3 LPA;10852;2;Y;No;19;3;1;80;2;10;3;3;5;3;1;3;0
+VK4820;34;26-35;No;TravelRarely;254;Administration;1;2;Life Sciences;1;649;2;Male;2;1;Research Scientist;4;Married;72180;6-10 LPA;45112;1;Y;Yes;13;3;4;80;1;6;3;3;6;5;1;3;0
+VK0540;35;26-35;No;Non-Travel;1097;Administration;11;2;Medical;1;70;3;Male;2;3;Healthcare Representative;1;Married;40081;3-6 LPA;25051;2;Y;Yes;13;3;3;80;1;10;3;3;4;0;2;3;0
+VK6930;32;26-35;No;TravelRarely;498;Administration;3;4;Medical;1;966;3;Female;3;2;Manufacturing Director;1;Married;10435;0-3 LPA;6522;1;Y;No;12;3;3;80;1;8;2;4;8;7;6;3;0
+VK0110;35;26-35;No;TravelRarely;809;Administration;16;3;Medical;1;14;1;Male;4;1;Laboratory Technician;2;Married;2542;0-3 LPA;1589;0;Y;No;13;3;3;80;1;6;5;3;5;4;0;3;0
+VK14680;27;26-35;No;TravelRarely;155;Administration;4;3;Life Sciences;1;2064;2;Male;4;2;Manufacturing Director;2;Married;24664;0-3 LPA;15415;1;Y;Yes;20;4;2;80;1;6;0;3;6;2;0;3;0
+VK5500;34;26-35;No;TravelRarely;970;Administration;8;2;Medical;1;757;2;Female;3;2;Healthcare Representative;3;Single;56069;6-10 LPA;35043;3;Y;No;11;3;4;80;0;10;2;3;5;1;4;3;0
+VK1920;27;26-35;No;TravelRarely;894;Administration;9;3;Medical;1;260;4;Female;3;1;Research Scientist;2;Single;49925;3-6 LPA;31203;1;Y;No;16;3;4;80;0;7;2;2;7;7;0;3;0
+VK7270;31;26-35;No;Travel-Frequently;853;Administration;1;1;Life Sciences;1;1011;3;Female;3;2;Manufacturing Director;1;Married;23677;0-3 LPA;14798;1;Y;No;12;3;3;80;1;4;1;3;4;3;0;3;0
+VK4860;27;26-35;No;TravelRarely;798;Administration;6;4;Medical;1;655;1;Female;2;1;Research Scientist;3;Single;45262;3-6 LPA;28289;0;Y;No;12;3;3;80;2;6;5;2;5;3;0;3;0
+VK2610;32;26-35;No;Travel-Frequently;1311;Administration;7;3;Life Sciences;1;359;2;Male;4;1;Laboratory Technician;2;Married;46543;3-6 LPA;29089;1;Y;No;20;4;3;80;0;5;3;1;5;1;0;3;0
+VK6340;36;36-45;No;TravelRarely;1278;Finance;8;3;Life Sciences;1;878;1;Male;2;1;Human Resources;1;Married;28532;3-6 LPA;17832;0;Y;No;21;4;3;80;0;6;3;3;5;4;0;3;0
+VK10480;33;26-35;No;Travel-Frequently;430;Sales;7;3;Medical;1;1477;4;Male;3;2;Sales Executive;1;Married;76353;6-10 LPA;47721;0;Y;No;14;3;1;80;2;5;2;3;4;3;0;3;0
+VK3100;31;26-35;No;TravelRarely;691;Administration;5;4;Technical Degree;1;423;3;Male;3;1;Research Scientist;4;Married;89891;10+ LPA;56182;0;Y;Yes;12;3;3;80;1;6;4;3;5;2;0;3;0
+VK13350;27;26-35;No;Travel-Frequently;1131;Administration;15;3;Life Sciences;1;1870;4;Female;2;1;Research Scientist;1;Married;63003;6-10 LPA;39377;0;Y;No;19;3;4;80;1;8;2;2;7;6;7;3;0
+VK14600;29;26-35;No;TravelRarely;1378;Administration;13;2;Other;1;2053;4;Male;2;2;Laboratory Technician;2;Married;71091;6-10 LPA;44432;4;Y;Yes;13;3;1;80;1;10;2;3;4;3;0;3;0
+VK13760;32;26-35;Yes;Travel-Frequently;238;Administration;5;2;Life Sciences;1;1939;1;Female;4;1;Research Scientist;3;Single;98379;10+ LPA;61487;3;Y;Yes;14;3;1;80;0;8;2;3;4;1;0;3;1
+VK6240;30;26-35;No;Travel-Frequently;1012;Administration;5;4;Life Sciences;1;861;2;Male;2;1;Research Scientist;4;Single;64208;6-10 LPA;4013;9;Y;No;12;3;2;80;1;10;3;2;5;4;0;3;0
+VK6420;32;26-35;No;Travel-Frequently;379;Sales;5;2;Life Sciences;1;889;2;Male;3;2;Sales Executive;2;Married;85664;10+ LPA;5354;1;Y;No;14;3;4;80;1;10;3;3;10;8;5;3;0
+VK10820;35;26-35;No;TravelRarely;1029;Operations;16;3;Life Sciences;1;1529;4;Female;2;3;Healthcare Representative;2;Single;29016;3-6 LPA;18135;1;Y;No;19;3;4;80;0;11;3;1;11;8;3;3;0
+VK8660;30;26-35;No;TravelRarely;1329;Sales;29;4;Life Sciences;1;1211;3;Male;3;2;Sales Executive;1;Single;67235;6-10 LPA;42022;8;Y;No;19;3;3;80;3;8;3;3;4;3;0;3;0
+VK13030;35;26-35;No;TravelRarely;185;Operations;23;4;Medical;1;1826;2;Male;1;1;Laboratory Technician;3;Married;14843;0-3 LPA;9277;0;Y;No;16;3;2;80;1;6;2;4;5;4;0;3;0
+VK6230;32;26-35;No;TravelRarely;117;Sales;13;4;Life Sciences;1;859;2;Male;3;2;Sales Executive;4;Single;70042;6-10 LPA;43776;2;Y;No;11;3;3;80;1;8;3;2;5;2;0;3;0
+VK10650;30;26-35;No;TravelRarely;330;Finance;1;3;Life Sciences;1;1499;3;Male;3;1;Human Resources;3;Single;33745;3-6 LPA;21091;0;Y;No;21;4;1;80;1;6;3;4;5;3;1;3;0
+VK0850;34;26-35;No;TravelRarely;1153;Administration;1;2;Medical;1;110;1;Male;3;2;Manufacturing Director;2;Married;48295;3-6 LPA;30184;1;Y;No;15;3;3;80;0;5;2;3;5;2;1;3;0
+VK9030;27;26-35;No;TravelRarely;1167;Administration;4;2;Life Sciences;1;1259;1;Male;3;1;Research Scientist;3;Single;14545;0-3 LPA;9091;1;Y;No;11;3;2;80;3;5;2;3;5;3;0;3;0
+VK11100;30;26-35;No;TravelRarely;1288;Sales;29;4;Technical Degree;1;1568;3;Male;3;3;Sales Executive;2;Married;67105;6-10 LPA;41941;3;Y;No;12;3;2;80;1;9;3;3;4;2;1;3;0
+VK12270;32;26-35;No;Travel-Frequently;585;Administration;10;3;Life Sciences;1;1720;1;Male;3;1;Research Scientist;3;Married;57573;6-10 LPA;35983;6;Y;No;13;3;1;80;1;10;3;2;5;2;1;3;0
+VK0220;36;36-45;Yes;TravelRarely;1218;Marketing;9;4;Life Sciences;1;27;3;Male;2;1;Sales Representative;1;Single;25504;3-6 LPA;1594;7;Y;No;23;4;2;80;0;10;4;3;5;3;0;3;1
+VK0670;36;36-45;No;Travel-Frequently;1195;Operations;11;3;Life Sciences;1;85;2;Male;2;2;Manufacturing Director;2;Single;11975;0-3 LPA;7484;1;Y;No;13;3;3;80;0;6;3;3;6;5;0;3;0
+VK0130;31;26-35;No;TravelRarely;670;Administration;26;1;Life Sciences;1;16;1;Male;3;1;Research Scientist;3;Single;11729;0-3 LPA;7331;1;Y;No;17;3;4;80;1;5;1;2;5;2;4;3;0
+VK0150;28;26-35;Yes;TravelRarely;103;Administration;24;3;Life Sciences;1;19;3;Male;2;1;Laboratory Technician;3;Single;86616;10+ LPA;54135;5;Y;Yes;14;3;2;80;0;6;4;3;4;2;0;3;1
+VK4620;35;26-35;No;TravelRarely;195;Marketing;1;3;Medical;1;620;1;Female;3;2;Sales Executive;3;Single;38080;3-6 LPA;238;1;Y;No;16;3;4;80;0;5;3;3;5;4;0;3;0
+VK5750;34;26-35;No;TravelRarely;182;Administration;1;4;Life Sciences;1;797;2;Female;4;1;Research Scientist;4;Single;47959;3-6 LPA;29974;2;Y;No;16;3;3;80;0;10;2;3;4;2;1;3;0
+VK11260;29;26-35;No;Travel-Frequently;995;Administration;2;1;Life Sciences;1;1590;1;Male;3;2;Healthcare Representative;4;Single;3869;0-3 LPA;2418;1;Y;No;19;3;4;80;1;6;0;4;6;4;1;3;0
+VK11450;31;26-35;No;Travel-Frequently;715;Sales;2;4;Other;1;1613;4;Male;3;2;Sales Executive;1;Single;55021;6-10 LPA;34388;7;Y;No;13;3;4;80;0;10;3;3;5;2;0;3;0
+VK13560;36;36-45;No;TravelRarely;335;Marketing;17;2;Marketing;1;1908;3;Male;2;2;Sales Executive;2;Married;1404;0-3 LPA;878;2;Y;No;16;3;3;80;2;12;1;1;4;2;1;3;0
+VK8350;34;26-35;No;TravelRarely;1400;Sales;9;1;Life Sciences;1;1163;2;Female;3;2;Sales Executive;3;Married;37939;3-6 LPA;23712;1;Y;No;20;4;1;80;0;6;3;2;6;5;1;3;0
+VK7820;26;26-35;No;TravelRarely;192;Administration;1;2;Medical;1;1083;1;Male;2;1;Laboratory Technician;1;Married;88939;10+ LPA;55587;1;Y;No;16;3;1;80;2;6;2;3;5;3;1;3;0
+VK12840;28;26-35;No;TravelRarely;1181;Administration;1;3;Life Sciences;1;1799;3;Male;3;1;Research Scientist;4;Married;96742;10+ LPA;60464;1;Y;No;11;3;3;80;1;5;6;4;5;3;0;3;0
+VK11810;36;36-45;No;TravelRarely;311;Operations;7;3;Life Sciences;1;1659;1;Male;3;1;Laboratory Technician;2;Single;21309;0-3 LPA;13318;2;Y;No;11;3;3;80;0;15;4;3;4;3;1;3;0
+VK10420;28;26-35;No;TravelRarely;866;Sales;5;3;Medical;1;1469;4;Male;3;2;Sales Executive;1;Single;52663;6-10 LPA;32914;0;Y;No;18;3;4;80;0;6;4;3;5;4;1;3;0
+VK13910;28;26-35;Yes;TravelRarely;1404;Administration;17;3;Technical Degree;1;1960;3;Male;2;1;Laboratory Technician;4;Single;84879;10+ LPA;53049;5;Y;No;12;3;1;80;1;6;2;2;4;1;0;3;1
+VK5800;34;26-35;No;TravelRarely;121;Administration;2;4;Medical;1;804;3;Female;2;1;Research Scientist;1;Single;1728;0-3 LPA;108;1;Y;No;11;3;3;80;0;6;3;3;6;5;1;3;0
+VK13830;31;26-35;No;Non-Travel;976;Administration;3;2;Medical;1;1948;3;Male;3;1;Research Scientist;1;Single;84613;10+ LPA;52883;1;Y;Yes;13;3;4;80;1;4;3;4;4;2;2;3;0
+VK6560;33;26-35;No;TravelRarely;1075;Finance;3;2;Human Resources;1;910;4;Male;3;1;Human Resources;2;Single;39304;3-6 LPA;24565;3;Y;Yes;11;3;3;80;1;7;4;4;4;3;0;3;0
+VK10160;34;26-35;No;Travel-Frequently;560;Administration;1;4;Other;1;1431;4;Male;3;1;Research Scientist;1;Single;9335;0-3 LPA;5834;5;Y;No;14;3;3;80;2;10;2;3;4;3;1;3;0
+VK4370;33;26-35;Yes;TravelRarely;587;Administration;10;1;Medical;1;584;1;Male;1;1;Laboratory Technician;4;Single;60275;6-10 LPA;37672;7;Y;No;13;3;1;80;3;8;2;3;4;3;1;3;1
+VK10270;32;26-35;No;TravelRarely;601;Sales;7;5;Marketing;1;1446;4;Male;3;2;Sales Executive;4;Married;30124;3-6 LPA;18828;4;Y;No;12;3;3;80;1;7;3;2;4;3;0;3;0
+VK8690;28;26-35;No;TravelRarely;1179;Administration;19;4;Medical;1;1216;4;Male;2;1;Laboratory Technician;1;Married;81623;6-10 LPA;51014;1;Y;No;12;3;3;80;3;6;2;3;6;5;3;3;0
+VK8300;33;26-35;Yes;TravelRarely;603;Sales;9;4;Marketing;1;1157;1;Female;3;2;Sales Executive;1;Single;28350;3-6 LPA;17719;0;Y;Yes;17;3;1;80;0;6;3;3;5;2;0;3;1
+VK12280;31;26-35;No;TravelRarely;741;Administration;2;4;Life Sciences;1;1721;2;Male;3;1;Laboratory Technician;3;Married;59335;6-10 LPA;37084;1;Y;No;14;3;4;80;1;6;2;4;5;2;0;3;0
+VK8600;29;26-35;No;TravelRarely;942;Administration;15;1;Life Sciences;1;1202;2;Female;1;1;Research Scientist;4;Married;13874;0-3 LPA;8671;0;Y;Yes;18;3;1;80;1;6;2;2;5;4;1;3;0
+VK6580;29;26-35;No;TravelRarely;1086;Administration;7;1;Medical;1;912;1;Female;2;1;Laboratory Technician;4;Single;16151;0-3 LPA;10094;6;Y;No;14;3;3;80;3;8;5;3;4;3;0;3;0
+VK6070;34;26-35;No;Travel-Frequently;702;Administration;16;4;Life Sciences;1;838;3;Female;2;1;Research Scientist;4;Single;67234;6-10 LPA;42021;1;Y;No;16;3;3;80;0;6;3;3;5;2;1;3;0
+VK8360;35;26-35;No;TravelRarely;528;Finance;8;4;Technical Degree;1;1164;3;Male;3;1;Human Resources;3;Single;31355;3-6 LPA;19597;1;Y;No;17;3;2;80;0;6;2;1;5;4;1;4;0
+VK3010;41;36-45;No;TravelRarely;334;IT;2;4;Life Sciences;1;410;4;Male;3;4;Manager;2;Single;29746;3-6 LPA;18591;1;Y;No;19;3;2;80;0;22;2;3;22;10;0;4;0
+VK4750;24;18-25;No;TravelRarely;691;Administration;23;3;Medical;1;639;2;Male;4;1;Research Scientist;4;Married;92387;10+ LPA;57742;1;Y;Yes;11;3;2;80;2;6;3;3;6;5;1;4;0
+VK8470;35;26-35;No;TravelRarely;819;Operations;2;3;Life Sciences;1;1182;3;Male;2;3;Manufacturing Director;2;Single;58799;6-10 LPA;36749;2;Y;No;18;3;2;80;1;15;2;4;7;7;6;4;0
+VK6550;39;36-45;No;TravelRarely;1383;Finance;2;3;Life Sciences;1;909;4;Female;2;2;Human Resources;4;Married;23574;0-3 LPA;14734;8;Y;No;11;3;3;80;2;13;2;3;5;4;0;4;0
+VK7950;34;26-35;No;Travel-Frequently;618;Administration;3;1;Life Sciences;1;1103;1;Male;3;2;Healthcare Representative;4;Single;64932;6-10 LPA;40582;0;Y;No;17;3;3;80;0;7;1;2;6;2;0;4;0
+VK5680;34;26-35;No;TravelRarely;304;Sales;2;3;Other;1;786;4;Male;3;2;Sales Executive;4;Single;42555;3-6 LPA;26597;1;Y;No;22;4;3;80;0;6;5;3;6;5;1;4;0
+VK3320;27;26-35;No;Non-Travel;210;Sales;1;1;Marketing;1;449;3;Male;3;2;Sales Executive;2;Married;76766;6-10 LPA;47979;0;Y;Yes;13;3;4;80;1;6;0;3;5;4;1;4;0
+VK12490;27;26-35;No;TravelRarely;1054;Administration;8;3;Medical;1;1751;3;Female;3;1;Research Scientist;4;Single;52005;6-10 LPA;32503;1;Y;No;11;3;3;80;0;6;5;2;6;2;1;4;0
+VK3210;27;26-35;No;TravelRarely;1377;Sales;2;3;Life Sciences;1;437;4;Male;3;2;Sales Executive;3;Single;27105;3-6 LPA;16941;1;Y;Yes;11;3;1;80;0;5;3;3;5;4;0;4;0
+VK9970;27;26-35;No;TravelRarely;205;Sales;10;3;Marketing;1;1403;4;Female;2;2;Sales Executive;4;Married;74530;6-10 LPA;46581;1;Y;Yes;11;3;4;80;0;6;3;3;6;2;4;4;0
+VK12180;24;18-25;No;TravelRarely;581;Administration;9;3;Medical;1;1707;3;Male;4;1;Research Scientist;3;Married;40099;3-6 LPA;25062;1;Y;No;16;3;4;80;1;5;1;3;5;3;0;4;0
+VK8450;30;26-35;No;TravelRarely;852;Sales;10;3;Marketing;1;1179;3;Male;2;2;Sales Executive;3;Married;46236;3-6 LPA;28898;1;Y;No;18;3;1;80;1;10;3;3;10;3;1;4;0
+VK4150;24;18-25;Yes;TravelRarely;1448;Sales;1;1;Technical Degree;1;554;1;Female;3;1;Sales Representative;2;Single;95663;10+ LPA;59789;1;Y;Yes;16;3;2;80;0;6;4;3;5;3;1;4;1
+VK14490;41;36-45;No;TravelRarely;930;IT;3;3;Life Sciences;1;2037;3;Male;2;2;Sales Executive;2;Married;60383;6-10 LPA;37739;2;Y;No;11;3;3;80;1;14;5;3;5;4;0;4;0
+VK12640;42;36-45;No;TravelRarely;855;Operations;12;3;Medical;1;1768;2;Male;3;1;Laboratory Technician;2;Married;59596;6-10 LPA;37248;8;Y;No;22;4;2;80;3;7;6;2;5;3;0;4;0
+VK2730;28;26-35;No;TravelRarely;1158;Administration;9;3;Medical;1;377;4;Male;3;1;Research Scientist;4;Married;91084;10+ LPA;56928;1;Y;No;23;4;4;80;1;5;3;2;5;2;0;4;0
+VK11240;35;26-35;No;TravelRarely;670;Operations;10;4;Medical;1;1587;1;Female;3;2;Healthcare Representative;3;Single;68641;6-10 LPA;42901;3;Y;Yes;16;3;3;80;0;10;4;3;5;2;0;4;0
+VK8780;46;46-55;No;TravelRarely;150;Operations;2;4;Technical Degree;1;1228;4;Male;3;2;Manufacturing Director;4;Married;57264;6-10 LPA;3579;2;Y;No;11;3;3;80;1;12;3;2;6;3;1;4;0
+VK14100;40;36-45;No;Travel-Frequently;692;Operations;11;3;Technical Degree;1;1985;4;Female;3;2;Laboratory Technician;3;Married;57138;6-10 LPA;35711;1;Y;No;11;3;1;80;1;10;2;4;10;9;9;4;0
+VK5220;27;26-35;No;Travel-Frequently;1410;Sales;3;1;Medical;1;714;4;Female;4;2;Sales Executive;4;Single;67842;6-10 LPA;42401;1;Y;Yes;20;4;2;80;2;6;3;3;6;5;0;4;0
+VK12400;31;26-35;No;Travel-Frequently;163;Administration;24;1;Technical Degree;1;1736;4;Female;3;2;Manufacturing Director;4;Single;57179;6-10 LPA;35737;2;Y;No;20;4;4;80;0;9;3;2;5;4;1;4;0
+VK6410;24;18-25;No;Non-Travel;1269;Administration;4;1;Life Sciences;1;888;1;Male;2;1;Laboratory Technician;4;Married;24247;0-3 LPA;15154;0;Y;No;17;3;4;80;0;6;2;2;5;2;3;4;0
+VK0820;35;26-35;No;TravelRarely;1214;Administration;1;3;Medical;1;105;2;Male;2;1;Research Scientist;3;Single;84460;10+ LPA;52788;1;Y;No;18;3;1;80;0;6;3;3;6;4;0;4;0
+VK4140;42;36-45;No;Travel-Frequently;1368;Operations;28;4;Technical Degree;1;551;4;Female;2;2;Healthcare Representative;4;Married;94070;10+ LPA;58794;0;Y;No;11;3;4;80;3;7;4;4;6;5;0;4;0
+VK4290;47;46-55;No;TravelRarely;983;Operations;2;2;Medical;1;574;1;Female;3;2;Manufacturing Director;4;Married;7783;0-3 LPA;4864;5;Y;No;13;3;3;80;3;20;2;3;5;0;0;4;0
+VK13570;41;36-45;No;TravelRarely;337;IT;8;3;Marketing;1;1909;3;Female;3;2;Sales Executive;2;Married;33254;3-6 LPA;20784;5;Y;No;21;4;3;80;1;14;3;3;5;4;1;4;0
+VK12220;45;36-45;No;Non-Travel;1238;Operations;1;1;Life Sciences;1;1712;3;Male;2;3;Healthcare Representative;3;Married;61279;6-10 LPA;38299;3;Y;No;23;4;4;80;1;25;3;2;23;15;14;4;0
+VK13590;31;26-35;No;TravelRarely;1079;Sales;10;2;Medical;1;1912;3;Female;3;2;Sales Executive;4;Single;95476;10+ LPA;59672;2;Y;Yes;11;3;4;80;1;8;2;3;5;2;1;4;0
+VK11430;45;36-45;No;TravelRarely;1015;Operations;5;5;Medical;1;1611;3;Female;1;2;Laboratory Technician;1;Single;38219;3-6 LPA;23887;1;Y;Yes;14;3;1;80;0;10;3;3;10;7;1;4;0
+VK5640;25;18-25;No;TravelRarely;883;Sales;26;1;Medical;1;781;3;Female;3;2;Sales Executive;4;Single;40504;3-6 LPA;25315;1;Y;No;23;4;2;80;0;6;5;2;6;5;1;4;0
+VK2630;32;26-35;No;TravelRarely;128;Administration;2;1;Technical Degree;1;362;4;Male;2;2;Laboratory Technician;1;Single;57556;6-10 LPA;35972;4;Y;No;13;3;4;80;0;9;5;3;6;2;0;4;0
+VK3790;34;26-35;Yes;Non-Travel;1362;Sales;19;3;Marketing;1;502;1;Male;4;2;Sales Executive;4;Single;8357;0-3 LPA;5223;8;Y;Yes;13;3;2;80;0;9;3;2;5;2;0;4;1
+VK11480;49;46-55;No;TravelRarely;722;Operations;25;4;Life Sciences;1;1617;3;Female;3;1;Laboratory Technician;1;Married;12485;0-3 LPA;7803;1;Y;No;14;3;4;80;1;10;3;2;9;6;1;4;0
+VK2600;31;26-35;Yes;Travel-Frequently;307;Administration;29;2;Medical;1;355;3;Male;2;1;Laboratory Technician;2;Single;51993;6-10 LPA;32496;0;Y;No;11;3;2;80;0;6;2;4;5;4;1;4;1
+VK2250;31;26-35;No;Non-Travel;979;Administration;1;4;Medical;1;308;3;Male;1;2;Manufacturing Director;3;Married;20190;0-3 LPA;12619;0;Y;No;12;3;4;80;1;6;2;3;5;4;1;4;0
+VK3740;27;26-35;No;TravelRarely;1469;Administration;1;2;Medical;1;497;4;Male;3;1;Laboratory Technician;2;Single;22976;0-3 LPA;1436;1;Y;No;11;3;2;80;1;5;2;3;5;2;0;4;0
+VK12670;41;36-45;No;TravelRarely;548;Operations;9;4;Life Sciences;1;1772;3;Male;3;1;Laboratory Technician;1;Married;2828;0-3 LPA;1768;1;Y;No;20;4;2;80;2;5;2;3;5;3;0;4;0
+VK1700;32;26-35;No;TravelRarely;120;Administration;6;5;Life Sciences;1;231;3;Male;3;1;Research Scientist;3;Single;17896;0-3 LPA;11185;3;Y;No;20;4;1;80;0;8;2;3;5;4;1;4;0
+VK1490;41;36-45;No;TravelRarely;933;Operations;9;4;Life Sciences;1;200;3;Male;3;1;Laboratory Technician;1;Married;10111;0-3 LPA;6319;2;Y;No;21;4;4;80;1;7;2;3;5;0;1;4;0
+VK1660;50;46-55;No;TravelRarely;1452;Operations;11;3;Life Sciences;1;226;3;Female;3;5;Manager;2;Single;27399;3-6 LPA;17124;3;Y;No;15;3;2;80;0;21;5;3;5;4;4;4;0
+VK7600;45;36-45;No;TravelRarely;788;Human Resources;24;4;Medical;1;1049;2;Male;3;1;Human Resources;2;Single;76916;6-10 LPA;48072;1;Y;No;16;3;1;80;0;6;3;3;6;3;0;4;0
+VK0980;28;26-35;No;Non-Travel;120;Sales;4;3;Medical;1;129;2;Male;3;2;Sales Executive;3;Married;27736;3-6 LPA;17335;1;Y;No;15;3;2;80;0;5;3;4;5;4;0;4;0
+VK9870;39;36-45;No;TravelRarely;1498;IT;21;4;Life Sciences;1;1390;1;Male;2;2;Sales Executive;4;Married;80104;6-10 LPA;50065;3;Y;Yes;12;3;4;80;2;8;2;4;5;4;1;4;0
+VK12550;49;46-55;No;TravelRarely;1313;IT;11;4;Marketing;1;1757;4;Female;3;2;Sales Executive;4;Single;53487;6-10 LPA;33429;3;Y;No;12;3;3;80;0;8;1;4;5;1;0;4;0
+VK10180;27;26-35;No;TravelRarely;1377;Administration;11;1;Life Sciences;1;1434;2;Male;3;1;Laboratory Technician;1;Married;62087;6-10 LPA;38804;0;Y;No;14;3;2;80;0;6;3;4;5;0;1;4;0
+VK11840;36;36-45;No;TravelRarely;1040;Operations;3;2;Life Sciences;1;1664;4;Male;4;2;Healthcare Representative;1;Single;73474;6-10 LPA;45921;6;Y;No;20;4;1;80;1;13;3;3;5;4;0;4;0
+VK6300;28;26-35;No;TravelRarely;1169;Human Resources;8;2;Medical;1;869;2;Male;2;1;Human Resources;4;Single;64734;6-10 LPA;40459;1;Y;No;13;3;4;80;1;6;6;3;5;1;0;4;0
+VK12980;26;26-35;Yes;TravelRarely;920;Human Resources;20;2;Medical;1;1818;4;Female;3;1;Human Resources;2;Married;82734;6-10 LPA;51709;0;Y;Yes;11;3;3;80;0;6;3;3;5;1;1;4;1
+VK2940;26;26-35;Yes;TravelRarely;950;Sales;4;4;Marketing;1;401;4;Male;2;2;Sales Executive;4;Single;71592;6-10 LPA;44745;1;Y;Yes;12;3;2;80;0;8;0;3;8;7;7;4;1
+VK7590;59;55+;No;TravelRarely;1089;Sales;1;2;Technical Degree;1;1048;2;Male;3;3;Manager;4;Married;84559;10+ LPA;52849;3;Y;Yes;14;3;3;80;1;14;1;1;6;4;0;4;0
+VK14610;29;26-35;No;TravelRarely;468;Administration;28;4;Medical;1;2054;4;Female;2;1;Research Scientist;1;Single;46525;3-6 LPA;29078;1;Y;No;14;3;2;80;0;5;3;1;5;4;0;4;0
+VK14610;29;26-35;No;TravelRarely;468;Administration;28;4;Medical;1;2054;4;Female;2;1;Research Scientist;1;Single;41818;3-6 LPA;26136;1;Y;No;14;3;2;80;0;5;3;1;5;4;0;4;0
+VK1130;54;46-55;No;Non-Travel;142;Human Resources;26;3;Human Resources;1;148;4;Female;4;4;Manager;4;Single;57133;6-10 LPA;35708;2;Y;Yes;12;3;3;80;0;23;3;3;5;3;4;4;0
+VK3830;26;26-35;Yes;Travel-Frequently;575;Administration;3;1;Technical Degree;1;510;3;Male;3;1;Research Scientist;1;Single;9110;0-3 LPA;5694;0;Y;No;22;4;3;80;0;7;2;3;6;4;0;4;1
+VK5760;54;46-55;No;TravelRarely;376;Operations;19;4;Medical;1;799;4;Female;3;2;Manufacturing Director;1;Married;32653;3-6 LPA;20408;9;Y;Yes;11;3;2;80;2;9;4;3;5;3;1;4;0
+VK8910;54;46-55;No;Travel-Frequently;966;Operations;1;4;Life Sciences;1;1245;4;Female;3;3;Manufacturing Director;3;Single;23180;0-3 LPA;14488;7;Y;No;17;3;1;80;1;33;2;1;5;4;1;4;0
+VK14070;54;46-55;No;TravelRarely;157;Operations;10;3;Medical;1;1980;3;Female;3;2;Manufacturing Director;1;Single;62396;6-10 LPA;38998;6;Y;Yes;19;3;4;80;0;9;3;3;5;2;1;4;0
+VK11730;29;26-35;No;TravelRarely;469;Sales;10;3;Medical;1;1650;3;Male;2;2;Sales Executive;3;Single;62135;6-10 LPA;38834;9;Y;No;11;3;3;80;0;8;2;3;5;2;1;4;0
+VK13450;37;36-45;No;TravelRarely;783;Operations;7;4;Medical;1;1885;4;Male;3;2;Research Scientist;1;Married;93234;10+ LPA;58271;5;Y;Yes;22;4;3;80;1;16;2;3;5;3;0;4;0
+VK11900;33;26-35;No;TravelRarely;392;Sales;2;4;Medical;1;1670;4;Male;3;2;Sales Executive;4;Single;83745;10+ LPA;52341;1;Y;No;14;3;3;80;2;6;5;3;6;2;0;4;0
+VK5690;55;46-55;Yes;TravelRarely;725;Operations;2;3;Medical;1;787;4;Male;3;5;Manager;1;Married;48924;3-6 LPA;30577;5;Y;Yes;13;3;4;80;1;24;2;3;5;2;1;4;1
+VK6000;36;36-45;No;TravelRarely;1041;Finance;13;3;Human Resources;1;829;3;Male;3;1;Human Resources;2;Married;98007;10+ LPA;61254;4;Y;No;13;3;2;80;1;8;2;3;5;2;0;4;0
+VK14090;23;18-25;No;TravelRarely;571;Administration;12;2;Other;1;1982;4;Male;3;1;Laboratory Technician;4;Single;73409;6-10 LPA;45881;1;Y;No;13;3;3;80;0;5;6;4;5;2;1;4;0
+VK6750;58;55+;No;TravelRarely;1272;Operations;5;3;Technical Degree;1;940;3;Female;2;3;Healthcare Representative;2;Single;13112;0-3 LPA;8195;2;Y;Yes;13;3;4;80;1;24;3;3;6;0;0;4;0
+VK3410;37;36-45;No;TravelRarely;1192;Operations;5;2;Medical;1;460;4;Male;3;2;Manufacturing Director;4;Married;18100;0-3 LPA;11312;7;Y;No;16;3;3;80;2;8;2;2;6;2;0;4;0
+VK13820;28;26-35;No;Non-Travel;1103;Administration;16;3;Medical;1;1947;3;Male;3;1;Research Scientist;3;Single;85896;10+ LPA;53685;1;Y;No;14;3;3;80;0;5;3;2;5;3;1;4;0
+VK1640;57;55+;No;TravelRarely;334;Operations;24;2;Life Sciences;1;223;3;Male;4;3;Healthcare Representative;4;Married;69247;6-10 LPA;43279;3;Y;Yes;16;3;2;80;1;12;2;1;5;3;1;4;0
+VK5440;44;36-45;No;Non-Travel;381;Operations;24;3;Medical;1;744;1;Male;1;1;Laboratory Technician;3;Single;6408;0-3 LPA;4005;2;Y;No;14;3;3;80;0;9;5;3;5;2;1;4;0
+VK6950;33;26-35;No;TravelRarely;1069;Administration;1;3;Life Sciences;1;969;2;Female;2;2;Healthcare Representative;4;Single;83986;10+ LPA;52491;0;Y;No;14;3;1;80;0;6;3;3;5;0;1;4;0
+VK2790;26;26-35;No;Travel-Frequently;1479;Administration;1;3;Life Sciences;1;384;3;Female;3;2;Manufacturing Director;2;Single;64335;6-10 LPA;40209;1;Y;No;20;4;1;80;1;6;6;1;6;5;1;4;0
+VK14400;36;36-45;No;TravelRarely;557;Marketing;3;3;Medical;1;2024;1;Female;2;3;Sales Executive;4;Married;48926;3-6 LPA;30579;0;Y;No;19;3;3;80;2;10;2;3;9;7;3;4;0
+VK14020;55;46-55;No;TravelRarely;189;Human Resources;26;4;Human Resources;1;1973;3;Male;4;5;Manager;2;Married;12555;0-3 LPA;7847;4;Y;Yes;18;3;1;80;1;35;0;3;10;9;1;4;0
+VK4760;26;26-35;No;TravelRarely;703;Sales;28;2;Marketing;1;641;1;Male;3;2;Sales Executive;2;Married;99806;10+ LPA;62379;1;Y;No;20;4;4;80;2;6;5;4;5;3;1;4;0
+VK13370;55;46-55;No;TravelRarely;836;Operations;2;4;Technical Degree;1;1873;2;Male;2;1;Research Scientist;4;Married;22172;0-3 LPA;13857;8;Y;No;20;4;2;80;1;19;2;4;5;2;0;4;0
+VK8640;33;26-35;No;TravelRarely;147;Finance;2;3;Human Resources;1;1207;2;Male;3;1;Human Resources;3;Married;94008;10+ LPA;58755;1;Y;No;13;3;4;80;1;5;2;3;5;4;1;4;0
+VK2350;33;26-35;Yes;TravelRarely;813;Administration;14;3;Medical;1;325;3;Male;3;1;Laboratory Technician;4;Married;95704;10+ LPA;59815;5;Y;Yes;13;3;3;80;1;8;2;1;5;4;0;4;1
+VK10640;29;26-35;No;TravelRarely;1246;Sales;19;3;Life Sciences;1;1497;3;Male;2;2;Sales Executive;3;Single;83018;6-10 LPA;51886;1;Y;No;14;3;3;80;2;10;3;3;10;7;0;4;0
+VK8200;28;26-35;No;TravelRarely;1451;Administration;2;1;Life Sciences;1;1136;1;Male;2;1;Research Scientist;2;Married;66733;6-10 LPA;41708;0;Y;No;17;3;1;80;0;6;2;1;5;3;0;4;0
+VK6250;53;46-55;No;TravelRarely;661;IT;7;2;Marketing;1;862;1;Female;2;3;Sales Executive;4;Married;3573;0-3 LPA;2233;7;Y;Yes;18;3;4;80;1;35;3;3;5;2;0;4;0
+VK9850;28;26-35;No;TravelRarely;736;Sales;26;3;Life Sciences;1;1387;3;Male;2;2;Sales Executive;1;Married;87202;10+ LPA;54501;1;Y;No;11;3;3;80;1;5;0;3;5;3;0;4;0
+VK9200;59;55+;No;TravelRarely;1429;Operations;18;4;Medical;1;1283;4;Male;3;3;Manufacturing Director;4;Single;14350;0-3 LPA;8969;6;Y;No;12;3;4;80;0;25;6;2;9;7;5;4;0
+VK1680;30;26-35;No;TravelRarely;1339;Sales;5;3;Life Sciences;1;228;2;Female;3;3;Sales Executive;4;Married;50377;6-10 LPA;31486;2;Y;No;12;3;3;80;1;12;2;3;10;9;7;4;0
+VK10010;52;46-55;No;TravelRarely;258;Operations;8;4;Other;1;1409;3;Female;3;1;Laboratory Technician;1;Married;49285;3-6 LPA;30803;9;Y;No;13;3;3;80;0;12;2;1;5;4;0;4;0
+VK13810;35;26-35;No;TravelRarely;682;Marketing;18;4;Medical;1;1945;2;Male;3;2;Sales Executive;1;Married;18640;0-3 LPA;1165;0;Y;No;16;3;4;80;1;6;2;1;5;3;0;4;0
+VK2150;30;26-35;Yes;TravelRarely;1005;Administration;3;3;Technical Degree;1;297;4;Female;3;1;Research Scientist;1;Single;98888;10+ LPA;61805;5;Y;Yes;11;3;3;80;0;8;5;3;5;2;0;4;1
+VK11130;38;36-45;Yes;TravelRarely;903;Operations;2;3;Medical;1;1573;3;Male;3;2;Manufacturing Director;2;Married;25214;3-6 LPA;15759;4;Y;No;11;3;1;80;2;7;2;3;5;2;1;4;1
+VK4090;52;46-55;No;TravelRarely;1490;Operations;4;2;Life Sciences;1;546;4;Female;3;4;Manager;4;Married;77918;6-10 LPA;48699;2;Y;No;13;3;4;80;0;31;2;1;5;2;1;4;0
+VK12160;35;26-35;No;Travel-Frequently;146;Operations;2;4;Medical;1;1704;1;Male;2;1;Research Scientist;4;Single;77539;6-10 LPA;48462;0;Y;Yes;14;3;3;80;0;6;2;4;5;4;1;4;0
+VK4030;30;26-35;No;TravelRarely;1082;Sales;12;3;Technical Degree;1;533;2;Female;3;2;Sales Executive;3;Single;46714;3-6 LPA;29196;0;Y;No;11;3;2;80;0;6;6;3;5;4;4;4;0
+VK5880;52;46-55;No;TravelRarely;1325;Operations;11;4;Life Sciences;1;813;4;Female;3;2;Laboratory Technician;3;Married;2279;0-3 LPA;1424;8;Y;No;20;4;2;80;1;9;3;3;5;2;1;4;0
+VK14340;25;18-25;No;TravelRarely;1382;Sales;8;2;Other;1;2018;1;Female;3;2;Sales Executive;3;Single;36222;3-6 LPA;22639;0;Y;Yes;22;4;2;80;1;6;3;2;5;3;0;4;0
+VK12730;38;36-45;No;TravelRarely;1153;Operations;6;2;Other;1;1782;4;Female;2;1;Laboratory Technician;3;Married;84807;10+ LPA;53004;1;Y;No;11;3;2;80;1;5;3;3;5;4;0;4;0
+VK4200;30;26-35;No;Non-Travel;1400;Administration;3;3;Life Sciences;1;562;3;Male;3;1;Laboratory Technician;4;Married;74744;6-10 LPA;46715;4;Y;No;15;3;3;80;1;9;3;1;5;3;1;4;0
+VK0360;43;36-45;No;TravelRarely;1273;Operations;2;2;Medical;1;46;4;Female;4;1;Research Scientist;3;Married;17984;0-3 LPA;1124;1;Y;No;12;3;4;80;2;6;3;2;5;3;1;4;0
+VK4560;33;26-35;No;TravelRarely;922;Administration;1;5;Medical;1;612;1;Female;4;4;Research Director;3;Single;73369;6-10 LPA;45856;4;Y;No;19;3;3;80;1;10;2;3;6;1;0;5;0
+VK0170;32;26-35;No;TravelRarely;334;Administration;5;2;Life Sciences;1;21;1;Male;4;1;Research Scientist;2;Single;33217;3-6 LPA;20761;0;Y;Yes;12;3;4;80;2;7;5;2;6;2;0;5;0
+VK2180;29;26-35;Yes;TravelRarely;992;Administration;1;3;Technical Degree;1;300;3;Male;3;1;Research Scientist;3;Single;9155;0-3 LPA;5722;0;Y;No;14;3;4;80;0;7;1;2;6;2;1;5;1
+VK5940;36;36-45;No;TravelRarely;676;Operations;1;3;Other;1;823;3;Female;3;2;Manufacturing Director;2;Married;36547;3-6 LPA;22842;0;Y;No;15;3;1;80;1;10;2;3;9;7;0;5;0
+VK6910;31;26-35;No;TravelRarely;616;Administration;12;3;Medical;1;961;4;Female;3;2;Healthcare Representative;4;Married;50726;6-10 LPA;31704;0;Y;Yes;11;3;3;80;2;10;2;1;9;7;8;5;0
+VK12960;41;36-45;No;TravelRarely;796;IT;4;1;Marketing;1;1815;3;Female;3;3;Sales Executive;3;Married;21618;0-3 LPA;13511;0;Y;Yes;13;3;4;80;1;23;3;4;22;14;13;5;0
+VK4510;31;26-35;No;TravelRarely;828;Sales;2;1;Life Sciences;1;604;2;Male;3;2;Sales Executive;4;Single;56766;6-10 LPA;35479;4;Y;Yes;13;3;3;80;0;10;2;4;6;5;0;5;0
+VK0010;41;36-45;Yes;TravelRarely;1102;IT;1;2;Life Sciences;1;1;2;Female;3;2;Sales Executive;4;Single;14046;0-3 LPA;8779;8;Y;Yes;11;3;1;80;0;8;0;1;6;4;0;5;1
+VK5420;36;36-45;No;Non-Travel;427;Operations;8;3;Life Sciences;1;742;1;Female;4;3;Research Director;1;Married;56284;6-10 LPA;35178;9;Y;No;14;3;1;80;1;10;2;3;8;7;0;5;0
+VK7690;40;36-45;No;TravelRarely;300;IT;26;3;Marketing;1;1066;3;Male;3;2;Sales Executive;1;Married;7371;0-3 LPA;4607;1;Y;No;14;3;2;80;1;8;3;2;7;7;7;5;0
+VK11230;29;26-35;No;TravelRarely;1370;Administration;3;1;Medical;1;1586;2;Male;3;1;Laboratory Technician;1;Single;78505;6-10 LPA;49066;1;Y;Yes;18;3;4;80;0;10;3;3;10;9;1;5;0
+VK11020;32;26-35;No;TravelRarely;824;Administration;5;2;Life Sciences;1;1555;4;Female;2;2;Research Scientist;2;Married;44919;3-6 LPA;28074;3;Y;No;12;3;1;80;1;12;2;3;7;1;2;5;0
+VK9450;28;26-35;No;Non-Travel;1476;Administration;1;3;Life Sciences;1;1315;3;Female;1;2;Laboratory Technician;4;Married;43107;3-6 LPA;26942;0;Y;No;11;3;1;80;3;10;6;3;9;8;7;5;0
+VK12570;38;36-45;No;Travel-Frequently;594;Operations;2;2;Medical;1;1760;3;Female;2;1;Laboratory Technician;2;Married;59243;6-10 LPA;37027;4;Y;No;14;3;2;80;1;9;4;2;6;1;0;5;0
+VK2680;25;18-25;No;Non-Travel;675;Administration;5;2;Life Sciences;1;369;2;Male;4;2;Healthcare Representative;1;Single;68563;6-10 LPA;42852;1;Y;No;12;3;4;80;2;6;2;3;6;3;1;5;0
+VK5010;32;26-35;No;TravelRarely;646;Administration;9;4;Life Sciences;1;679;1;Female;3;2;Research Scientist;4;Married;17964;0-3 LPA;11228;1;Y;Yes;12;3;4;80;1;6;2;2;6;4;0;5;0
+VK6130;28;26-35;No;TravelRarely;760;Sales;2;4;Marketing;1;846;2;Female;3;2;Sales Executive;2;Married;88455;10+ LPA;55284;1;Y;Yes;20;4;1;80;0;8;2;3;8;7;7;5;0
+VK9290;44;36-45;Yes;TravelRarely;621;Operations;15;3;Medical;1;1295;1;Female;3;3;Healthcare Representative;4;Married;33154;3-6 LPA;20721;1;Y;No;11;3;4;80;1;10;2;3;10;7;0;5;1
+VK8140;39;36-45;Yes;Travel-Frequently;203;Operations;2;3;Life Sciences;1;1127;1;Male;3;4;Healthcare Representative;4;Single;20262;0-3 LPA;12664;7;Y;No;11;3;4;80;3;21;4;3;18;7;11;5;1
+VK2620;38;36-45;No;Non-Travel;1327;IT;2;2;Life Sciences;1;361;4;Male;2;2;Sales Executive;4;Married;76745;6-10 LPA;47966;3;Y;No;18;3;4;80;1;13;0;3;8;7;7;5;0
+VK8980;59;55+;No;TravelRarely;326;Sales;3;3;Life Sciences;1;1254;3;Female;2;2;Sales Executive;4;Single;56337;6-10 LPA;35211;5;Y;No;17;3;4;80;0;13;2;3;6;1;0;5;0
+VK10100;58;55+;No;TravelRarely;1055;Operations;1;3;Medical;1;1423;4;Female;3;5;Research Director;1;Married;67017;6-10 LPA;41886;3;Y;Yes;21;4;3;80;1;32;3;3;9;8;1;5;0
+VK7220;50;46-55;No;TravelRarely;939;Operations;24;3;Life Sciences;1;1005;4;Male;3;4;Manufacturing Director;3;Married;73258;6-10 LPA;45786;3;Y;Yes;18;3;4;80;1;22;2;3;12;11;1;5;0
+VK5190;38;36-45;No;TravelRarely;243;IT;7;4;Marketing;1;709;4;Female;2;2;Sales Executive;4;Single;71390;6-10 LPA;44619;0;Y;No;20;4;1;80;0;8;2;3;7;7;0;5;0
+VK2200;54;46-55;No;TravelRarely;1147;IT;3;3;Marketing;1;303;4;Female;3;2;Sales Executive;1;Married;98425;10+ LPA;61516;2;Y;No;14;3;4;80;1;16;4;3;6;2;0;5;0
+VK8400;42;36-45;No;TravelRarely;647;IT;4;4;Marketing;1;1171;2;Male;3;2;Sales Executive;1;Single;66441;6-10 LPA;41526;7;Y;No;13;3;4;80;0;9;3;4;6;4;1;5;0
+VK9930;39;36-45;No;Non-Travel;1485;Operations;25;2;Life Sciences;1;1397;3;Male;3;3;Healthcare Representative;3;Married;60399;6-10 LPA;37749;3;Y;No;21;4;2;80;1;13;2;3;6;4;0;5;0
+VK14650;26;26-35;No;TravelRarely;1167;Sales;5;3;Other;1;2060;4;Female;2;1;Sales Representative;3;Single;43557;3-6 LPA;27223;0;Y;No;18;3;4;80;0;5;2;3;4;2;0;5;0
+VK11440;45;36-45;No;Non-Travel;336;IT;26;3;Marketing;1;1612;1;Male;2;2;Sales Executive;1;Married;81879;6-10 LPA;51174;1;Y;No;15;3;1;80;1;10;2;3;10;7;4;5;0
+VK1530;53;46-55;No;TravelRarely;1436;IT;6;2;Marketing;1;205;2;Male;3;2;Sales Representative;3;Married;87143;10+ LPA;54464;2;Y;Yes;20;4;4;80;1;13;3;1;7;7;4;5;0
+VK13870;26;26-35;No;TravelRarely;157;Administration;1;3;Medical;1;1952;3;Male;3;1;Laboratory Technician;1;Single;44585;3-6 LPA;27866;0;Y;No;13;3;4;80;0;8;6;2;7;7;7;6;0
+VK10250;47;46-55;No;TravelRarely;359;Operations;2;4;Medical;1;1443;1;Female;3;4;Research Director;3;Married;38148;3-6 LPA;23842;3;Y;No;19;3;2;80;2;26;2;4;20;17;5;6;0
+VK5360;41;36-45;No;TravelRarely;427;Finance;10;4;Human Resources;1;731;2;Male;2;5;Manager;4;Married;11954;0-3 LPA;7471;3;Y;No;15;3;2;80;3;23;2;2;21;6;12;6;0
+VK11910;32;26-35;No;TravelRarely;977;Administration;2;3;Medical;1;1671;4;Male;3;2;Research Scientist;2;Single;92747;10+ LPA;57967;0;Y;No;13;3;3;80;2;10;4;2;9;5;1;6;0
+VK1120;34;26-35;Yes;Travel-Frequently;658;Administration;7;3;Life Sciences;1;147;1;Male;1;2;Laboratory Technician;3;Single;86999;10+ LPA;54374;1;Y;Yes;24;4;4;80;0;9;3;3;9;7;0;6;1
+VK10850;34;26-35;No;TravelRarely;971;Sales;1;3;Technical Degree;1;1535;4;Male;2;3;Sales Executive;3;Married;61566;6-10 LPA;38479;1;Y;Yes;14;3;4;80;0;10;3;3;10;9;8;6;0
+VK12830;33;26-35;No;TravelRarely;867;Administration;8;4;Life Sciences;1;1798;4;Male;4;1;Research Scientist;1;Married;8543;0-3 LPA;5339;6;Y;No;19;3;2;80;1;14;1;3;10;8;7;6;0
+VK6120;35;26-35;No;TravelRarely;950;Operations;7;3;Other;1;845;3;Male;3;3;Manufacturing Director;3;Single;73124;6-10 LPA;45702;3;Y;No;21;4;2;80;0;17;3;4;8;5;1;6;0
+VK14630;39;36-45;No;TravelRarely;722;IT;24;1;Marketing;1;2056;2;Female;2;4;Sales Executive;4;Married;19030;0-3 LPA;11894;0;Y;No;11;3;1;80;1;21;2;2;20;9;9;6;0
+VK2340;50;46-55;No;TravelRarely;854;IT;1;4;Medical;1;323;4;Female;3;5;Manager;4;Married;82244;6-10 LPA;51402;3;Y;No;11;3;3;80;1;32;3;2;7;0;0;6;0
+VK0060;32;26-35;No;Travel-Frequently;1005;Administration;2;2;Life Sciences;1;8;4;Male;3;1;Laboratory Technician;4;Single;91852;10+ LPA;57408;0;Y;No;13;3;3;80;0;8;2;2;7;7;3;6;0
+VK2800;50;46-55;No;TravelRarely;797;Operations;4;1;Life Sciences;1;385;1;Male;3;5;Research Director;2;Married;77534;6-10 LPA;48459;3;Y;No;14;3;1;80;2;28;4;2;10;4;1;6;0
+VK1270;58;55+;Yes;TravelRarely;147;Operations;23;4;Medical;1;165;4;Female;3;3;Healthcare Representative;4;Married;60129;6-10 LPA;37581;1;Y;No;12;3;4;80;1;40;3;2;40;10;15;6;1
+VK7970;25;18-25;Yes;TravelRarely;1219;Administration;4;1;Technical Degree;1;1106;4;Male;3;1;Laboratory Technician;4;Married;39660;3-6 LPA;24788;1;Y;Yes;15;3;2;80;1;7;3;4;7;7;5;6;1
+VK14630;39;36-45;No;TravelRarely;722;IT;24;1;Marketing;1;2056;2;Female;2;4;Sales Executive;4;Married;85717;10+ LPA;53573;0;Y;No;11;3;1;80;1;21;2;2;20;9;9;6;0
+VK4950;34;26-35;No;TravelRarely;204;Sales;14;3;Technical Degree;1;666;3;Female;3;1;Sales Representative;3;Single;44286;3-6 LPA;27679;1;Y;Yes;18;3;4;80;2;8;3;3;8;2;0;6;0
+VK1520;35;26-35;No;TravelRarely;662;Marketing;1;5;Marketing;1;204;3;Male;3;3;Sales Executive;2;Married;89092;10+ LPA;55683;1;Y;No;13;3;1;80;2;10;3;3;10;8;0;6;0
+VK12260;45;36-45;No;TravelRarely;1005;Operations;28;2;Technical Degree;1;1719;4;Female;2;4;Research Director;2;Single;54028;6-10 LPA;33768;1;Y;No;11;3;3;80;0;21;2;3;21;6;8;6;0
+VK11150;48;46-55;No;TravelRarely;1108;Operations;15;4;Other;1;1576;3;Female;3;1;Research Scientist;1;Married;59066;6-10 LPA;36916;8;Y;No;12;3;4;80;1;10;3;2;8;2;7;6;0
+VK5520;39;36-45;No;TravelRarely;141;Finance;3;3;Human Resources;1;760;3;Female;4;2;Human Resources;2;Married;11488;0-3 LPA;718;9;Y;No;15;3;3;80;1;12;3;1;8;3;3;6;0
+VK11250;39;36-45;No;TravelRarely;1462;IT;6;3;Medical;1;1588;4;Male;4;3;Sales Executive;3;Married;88731;10+ LPA;55457;2;Y;No;11;3;1;80;1;11;3;3;7;6;7;6;0
+VK13250;29;26-35;No;TravelRarely;726;Administration;29;1;Life Sciences;1;1859;4;Male;1;2;Healthcare Representative;3;Single;4987;0-3 LPA;3117;8;Y;No;17;3;4;80;2;11;3;3;7;0;1;6;0
+VK1860;33;26-35;No;TravelRarely;931;Administration;14;3;Medical;1;252;4;Female;3;1;Research Scientist;2;Married;58679;6-10 LPA;36674;1;Y;No;13;3;4;80;1;8;5;3;8;7;1;6;0
+VK9590;34;26-35;No;TravelRarely;943;Administration;9;3;Life Sciences;1;1344;4;Male;3;3;Healthcare Representative;4;Single;65895;6-10 LPA;41184;0;Y;No;11;3;4;80;1;10;0;2;9;7;1;6;0
+VK4790;25;18-25;No;TravelRarely;622;Sales;13;1;Medical;1;645;2;Male;3;1;Sales Representative;3;Married;6258;0-3 LPA;3911;1;Y;No;11;3;3;80;0;7;1;3;7;4;0;6;0
+VK7900;44;36-45;Yes;TravelRarely;1376;Human Resources;1;2;Medical;1;1098;2;Male;2;3;Human Resources;1;Married;99723;10+ LPA;62327;9;Y;No;14;3;4;80;1;24;1;3;20;6;3;6;1
+VK9650;34;26-35;No;TravelRarely;507;Sales;15;2;Medical;1;1356;3;Female;3;2;Sales Executive;1;Single;33307;3-6 LPA;20817;1;Y;No;12;3;4;80;0;10;6;4;10;8;9;6;0
+VK9510;31;26-35;No;Non-Travel;587;Sales;2;4;Life Sciences;1;1324;4;Female;3;3;Sales Executive;3;Single;71313;6-10 LPA;44571;1;Y;Yes;19;3;1;80;1;10;5;2;10;8;9;6;0
+VK2820;42;36-45;No;TravelRarely;635;IT;1;1;Life Sciences;1;387;2;Male;3;2;Sales Executive;3;Married;40809;3-6 LPA;25506;1;Y;No;25;4;3;80;0;20;3;3;20;16;11;6;0
+VK4010;39;36-45;No;Travel-Frequently;1218;Operations;1;1;Life Sciences;1;531;2;Male;3;5;Manager;3;Single;82818;6-10 LPA;51761;1;Y;Yes;14;3;3;80;1;21;3;3;21;8;1;6;0
+VK9980;27;26-35;Yes;TravelRarely;135;Administration;17;4;Life Sciences;1;1405;4;Female;3;1;Research Scientist;3;Single;94557;10+ LPA;59098;1;Y;Yes;13;3;4;80;0;8;2;3;8;2;7;7;1
+VK1790;46;46-55;No;TravelRarely;526;IT;1;2;Marketing;1;244;2;Female;3;3;Sales Executive;1;Married;14718;0-3 LPA;9199;1;Y;No;25;4;3;80;3;24;2;3;24;13;15;7;0
+VK0900;46;46-55;Yes;TravelRarely;669;IT;9;2;Medical;1;118;3;Male;2;3;Sales Executive;4;Single;4797;0-3 LPA;2998;1;Y;No;16;3;4;80;0;9;3;3;9;8;4;7;1
+VK5100;33;26-35;No;Travel-Frequently;1296;Administration;6;3;Life Sciences;1;692;3;Male;3;2;Healthcare Representative;4;Single;36195;3-6 LPA;22622;3;Y;No;23;4;3;80;1;15;2;1;13;11;4;7;0
+VK7570;32;26-35;No;Non-Travel;1109;Administration;29;4;Medical;1;1046;4;Female;3;1;Laboratory Technician;3;Single;55340;6-10 LPA;34588;9;Y;No;12;3;2;80;0;10;2;3;8;7;7;7;0
+VK8920;44;36-45;No;TravelRarely;1117;Operations;2;1;Life Sciences;1;1246;1;Female;4;1;Research Scientist;4;Married;67656;6-10 LPA;42285;1;Y;No;13;3;4;80;1;10;5;3;10;5;7;7;0
+VK4360;33;26-35;Yes;TravelRarely;1277;Administration;15;1;Medical;1;582;2;Male;3;3;Manager;3;Married;19071;0-3 LPA;11919;7;Y;Yes;12;3;4;80;0;15;2;4;7;6;7;7;1
+VK2450;45;36-45;No;TravelRarely;252;Operations;1;3;Other;1;336;3;Male;4;5;Manager;4;Married;21609;0-3 LPA;13506;0;Y;No;11;3;3;80;1;25;2;3;24;0;1;7;0
+VK4530;45;36-45;No;TravelRarely;561;IT;2;3;Other;1;606;4;Male;3;2;Sales Executive;2;Married;15153;0-3 LPA;9471;0;Y;No;19;3;2;80;1;9;3;4;8;7;3;7;0
+VK12150;44;36-45;No;TravelRarely;921;Operations;2;3;Life Sciences;1;1703;3;Female;4;3;Healthcare Representative;4;Married;24710;0-3 LPA;15444;1;Y;Yes;19;3;2;80;1;9;2;3;8;7;6;7;0
+VK5590;32;26-35;No;Travel-Frequently;430;Administration;24;4;Life Sciences;1;772;1;Male;3;2;Laboratory Technician;4;Married;86067;10+ LPA;53792;1;Y;No;15;3;4;80;2;10;2;3;10;8;4;7;0
+VK5320;32;26-35;No;TravelRarely;1018;Administration;3;2;Life Sciences;1;727;3;Female;3;3;Research Director;4;Single;74666;6-10 LPA;46666;3;Y;No;15;3;4;80;0;10;6;3;7;7;7;7;0
+VK12610;32;26-35;No;Non-Travel;953;Administration;5;4;Technical Degree;1;1764;2;Male;3;1;Research Scientist;2;Single;24049;0-3 LPA;15031;2;Y;No;14;3;2;80;0;12;3;3;7;7;0;7;0
+VK1550;32;26-35;No;Travel-Frequently;967;Sales;8;3;Marketing;1;207;2;Female;3;3;Sales Executive;4;Single;95841;10+ LPA;59901;1;Y;No;14;3;4;80;0;9;2;3;9;8;3;7;0
+VK3520;32;26-35;No;TravelRarely;1062;Administration;2;3;Medical;1;471;3;Female;3;1;Laboratory Technician;2;Married;30375;3-6 LPA;18984;1;Y;No;13;3;3;80;1;8;4;3;8;0;0;7;0
+VK10350;45;36-45;No;TravelRarely;1038;Operations;20;3;Medical;1;1460;2;Male;1;3;Healthcare Representative;1;Married;92751;10+ LPA;57969;2;Y;Yes;18;3;2;80;1;24;2;3;7;7;0;7;0
+VK11000;45;36-45;No;TravelRarely;538;Operations;1;4;Technical Degree;1;1553;1;Male;3;3;Healthcare Representative;2;Married;40915;3-6 LPA;25572;1;Y;No;12;3;1;80;3;10;4;3;10;8;7;7;0
+VK14320;32;26-35;No;TravelRarely;801;Sales;1;4;Marketing;1;2016;3;Female;3;3;Sales Executive;4;Married;10823;0-3 LPA;6764;1;Y;No;19;3;3;80;2;14;3;3;14;10;5;7;0
+VK8820;32;26-35;No;Travel-Frequently;1316;Administration;2;2;Life Sciences;1;1235;4;Female;3;2;Research Scientist;3;Single;52293;6-10 LPA;32683;4;Y;Yes;14;3;4;80;0;10;2;3;8;7;0;7;0
+VK1220;33;26-35;No;Non-Travel;750;Sales;22;2;Marketing;1;160;3;Male;3;2;Sales Executive;2;Married;28663;3-6 LPA;17914;0;Y;No;13;3;1;80;1;8;2;4;7;7;0;7;0
+VK13150;45;36-45;No;Non-Travel;589;IT;2;4;Life Sciences;1;1845;3;Female;3;2;Sales Executive;3;Married;53329;6-10 LPA;33331;4;Y;No;22;4;2;80;2;10;3;4;8;7;5;7;0
+VK3230;32;26-35;No;TravelRarely;1018;Administration;2;4;Medical;1;439;1;Female;4;2;Research Scientist;4;Single;54222;6-10 LPA;33889;7;Y;No;16;3;3;80;0;10;0;2;7;7;0;7;0
+VK2370;33;26-35;Yes;TravelRarely;465;Administration;2;2;Life Sciences;1;328;1;Female;3;1;Laboratory Technician;1;Married;50115;6-10 LPA;31322;7;Y;No;20;4;1;80;0;13;3;4;9;7;1;7;1
+VK3220;31;26-35;No;TravelRarely;691;Sales;7;3;Marketing;1;438;4;Male;3;2;Sales Executive;4;Single;71316;6-10 LPA;44572;4;Y;No;12;3;4;80;3;13;3;3;7;7;1;7;0
+VK11500;27;26-35;No;TravelRarely;1302;Administration;19;3;Other;1;1619;4;Male;2;1;Laboratory Technician;1;Single;96839;10+ LPA;60524;1;Y;No;11;3;1;80;2;7;3;3;7;7;0;7;0
+VK0930;30;26-35;No;TravelRarely;1334;Sales;4;2;Medical;1;121;3;Female;2;2;Sales Executive;2;Single;4436;0-3 LPA;2772;1;Y;Yes;12;3;2;80;3;11;4;2;11;8;2;7;0
+VK5410;28;26-35;Yes;TravelRarely;654;Administration;1;2;Life Sciences;1;741;1;Female;1;1;Research Scientist;2;Single;51859;6-10 LPA;32412;7;Y;Yes;13;3;4;80;0;10;4;3;7;7;3;7;1
+VK3750;28;26-35;No;TravelRarely;304;Sales;9;4;Life Sciences;1;498;2;Male;3;2;Sales Executive;4;Single;47717;3-6 LPA;29823;1;Y;No;16;3;4;80;0;7;1;3;7;5;0;7;0
+VK0190;53;46-55;No;TravelRarely;1219;IT;2;4;Life Sciences;1;23;1;Female;2;4;Manager;4;Married;68642;6-10 LPA;42901;2;Y;No;16;3;3;80;0;31;3;3;25;8;3;7;0
+VK9480;52;46-55;Yes;TravelRarely;1030;IT;5;3;Life Sciences;1;1319;2;Male;3;3;Sales Executive;2;Single;30975;3-6 LPA;19359;9;Y;Yes;19;3;3;80;0;10;2;2;8;7;7;7;1
+VK3030;28;26-35;No;TravelRarely;1476;Administration;16;2;Medical;1;412;2;Male;4;2;Healthcare Representative;1;Single;8392;0-3 LPA;5245;0;Y;No;19;3;3;80;0;9;2;3;8;3;0;7;0
+VK3180;52;46-55;Yes;TravelRarely;723;Operations;8;4;Medical;1;433;3;Male;2;2;Research Scientist;2;Married;16358;0-3 LPA;10224;2;Y;No;15;3;1;80;0;11;3;2;8;2;7;7;1
+VK4270;30;26-35;No;Non-Travel;1116;Administration;2;3;Medical;1;571;3;Female;3;1;Laboratory Technician;4;Single;19589;0-3 LPA;12243;0;Y;No;14;3;3;80;0;12;2;2;11;7;6;7;0
+VK8590;53;46-55;No;TravelRarely;1223;Operations;7;2;Medical;1;1201;4;Female;3;5;Manager;3;Married;56029;6-10 LPA;35018;3;Y;No;18;3;2;80;1;26;6;3;7;7;4;7;0
+VK9310;51;46-55;No;Travel-Frequently;968;Operations;6;2;Medical;1;1297;2;Female;2;1;Laboratory Technician;3;Single;14859;0-3 LPA;9287;0;Y;No;14;3;2;80;0;8;6;2;7;0;7;7;0
+VK3770;51;46-55;No;TravelRarely;1178;IT;14;2;Life Sciences;1;500;3;Female;3;2;Sales Executive;4;Married;54394;6-10 LPA;33996;4;Y;No;11;3;3;80;1;18;2;2;7;7;0;7;0
+VK5460;30;26-35;No;TravelRarely;501;Sales;27;5;Marketing;1;747;3;Male;3;2;Sales Executive;4;Single;44525;3-6 LPA;27828;7;Y;No;23;4;4;80;1;10;2;2;8;7;7;7;0
+VK2140;51;46-55;No;TravelRarely;1469;Operations;8;4;Life Sciences;1;296;2;Male;2;3;Research Director;2;Married;17032;0-3 LPA;10645;5;Y;No;16;3;4;80;2;16;5;1;10;9;4;7;0
+VK7030;30;26-35;No;TravelRarely;231;Sales;8;2;Other;1;982;3;Male;3;3;Sales Executive;3;Single;34828;3-6 LPA;21768;5;Y;No;11;3;1;80;1;10;2;4;8;4;7;7;0
+VK7310;30;26-35;No;TravelRarely;153;Administration;8;2;Life Sciences;1;1015;2;Female;4;3;Research Director;1;Married;4420;0-3 LPA;2762;0;Y;Yes;12;3;3;80;3;9;4;2;8;7;1;7;0
+VK8870;30;26-35;No;TravelRarely;1465;Administration;1;3;Medical;1;1241;4;Male;3;1;Research Scientist;2;Married;66726;6-10 LPA;41704;0;Y;Yes;21;4;1;80;1;12;2;3;11;9;5;7;0
+VK9320;30;26-35;No;Non-Travel;879;Administration;9;2;Medical;1;1298;3;Female;3;2;Manufacturing Director;3;Single;11492;0-3 LPA;7182;7;Y;Yes;18;3;3;80;0;10;3;3;8;4;1;7;0
+VK9420;30;26-35;No;TravelRarely;1138;Administration;6;3;Technical Degree;1;1311;1;Female;2;2;Laboratory Technician;4;Married;7102;0-3 LPA;4439;0;Y;No;12;3;1;80;1;10;6;3;9;2;6;7;0
+VK7800;51;46-55;Yes;TravelRarely;1323;Operations;4;4;Life Sciences;1;1081;1;Male;3;1;Research Scientist;3;Married;37220;3-6 LPA;23262;9;Y;Yes;12;3;3;80;3;18;2;4;10;0;2;7;1
+VK0450;30;26-35;No;Travel-Frequently;721;Administration;1;2;Medical;1;57;3;Female;3;2;Laboratory Technician;4;Single;7893;0-3 LPA;4933;1;Y;No;23;4;4;80;0;12;2;3;12;8;3;7;0
+VK7890;28;26-35;No;TravelRarely;857;Administration;10;3;Other;1;1097;3;Female;3;2;Research Scientist;3;Single;26342;3-6 LPA;16464;3;Y;No;13;3;4;80;0;10;4;4;8;7;1;7;0
+VK10090;54;46-55;No;TravelRarely;971;Operations;1;3;Medical;1;1422;4;Female;3;4;Research Director;4;Single;79411;6-10 LPA;49632;6;Y;No;19;3;4;80;0;29;3;2;20;7;12;7;0
+VK10740;28;26-35;No;TravelRarely;1083;Administration;29;1;Life Sciences;1;1514;3;Male;1;2;Manufacturing Director;2;Married;57250;6-10 LPA;35781;1;Y;No;14;3;2;80;2;8;2;2;8;6;1;7;0
+VK13650;28;26-35;No;Travel-Frequently;783;Sales;1;2;Life Sciences;1;1927;3;Male;2;2;Sales Executive;4;Married;84763;10+ LPA;52977;1;Y;Yes;12;3;3;80;1;7;2;3;7;7;0;7;0
+VK3370;29;26-35;Yes;TravelRarely;318;Administration;8;4;Other;1;454;2;Male;1;1;Laboratory Technician;1;Married;31306;3-6 LPA;19566;1;Y;Yes;11;3;4;80;0;7;4;2;7;7;0;7;1
