@@ -4,10 +4,10 @@
 
 ### Who is leaving, why, and what can HR do about it?
 
-An interactive **Power BI** dashboard that turns 1,000 employee records into a clear picture of workforce attrition.
+An interactive **Power BI** dashboard that turns 1,417 employee records into a clear picture of workforce attrition.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Dataset](https://img.shields.io/badge/Records-1%2C000-0A66C2?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Records-1%2C417-0A66C2?style=for-the-badge)
 ![Columns](https://img.shields.io/badge/Features-38-2E8B57?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Employee%20Attrition-D9534F?style=for-the-badge)
 
@@ -17,7 +17,7 @@ An interactive **Power BI** dashboard that turns 1,000 employee records into a c
 
 ## 🎯 Project Overview
 
-Employee turnover is expensive: it means lost knowledge, recruitment costs, and lower team morale. This project analyses an HR dataset of **1,000 employees across 7 departments** to answer three practical questions:
+Employee turnover is expensive: it means lost knowledge, recruitment costs, and lower team morale. This project analyses an HR dataset of **1,417 employees across 7 departments** to answer three practical questions:
 
 1. **How big is the attrition problem?** (overall rate, headcount, trend by experience)
 2. **Where is it concentrated?** (department, job role, salary slab, age group, gender)
@@ -33,7 +33,7 @@ The result is a single-page dashboard that HR managers can read in under a minut
 
 ```
 📦 hr-analytics-dashboard
- ┣ 📜 HR_Analytics.csv              # Raw dataset (1,000 rows × 38 columns, ";" delimited)
+ ┣ 📜 HR_Analytics.csv              # Dataset (1,417 rows × 38 columns, ";" delimited)
  ┣ 📊 HR_Analytics_Dashboard.pbix   # Power BI report (data model + visuals)
  ┣ 📁 dashboard
  ┃ ┗ 📄 HR Analytics Dashboard.pdf  # Exported dashboard view
@@ -50,12 +50,12 @@ The report (titled **"HR ANALYTICS DASHBOARD"**) has one page with 6 KPI cards a
 
 | KPI | What it tells you | Value |
 |---|---|---|
-| 👥 **Total Employees** | Full headcount in the dataset | **1,000** |
-| ✅ **Active Employees** | Employees who stayed | **810** |
-| 🚪 **Attrition Count** | Employees who left | **190** |
-| 📉 **Attrition Rate %** | Attrition ÷ total employees | **19.0%** |
-| 🎂 **Average Age** | Mean age of the workforce | **36.0 years** |
-| 🏢 **Avg Experience** | Mean tenure at the company | **4.5 years** |
+| 👥 **Total Employees** | Full headcount in the dataset | **1,417** |
+| ✅ **Active Employees** | Employees who stayed | **1,186** |
+| 🚪 **Attrition Count** | Employees who left | **231** |
+| 📉 **Attrition Rate %** | Attrition ÷ total employees | **16.3%** |
+| 🎂 **Average Age** | Mean age of the workforce | **36.9 years** |
+| 🏢 **Avg Experience** | Mean tenure at the company | **7.0 years** |
 
 ### Visuals
 
@@ -78,50 +78,58 @@ Figures below are calculated directly from `HR_Analytics.csv`. Attrition rate = 
 ### 1. Overtime is the strongest warning sign
 | Overtime | Employees | Attrition rate |
 |---|---|---|
-| Yes | 299 | **35.8%** |
-| No | 701 | 11.8% |
+| Yes | 406 | **31.5%** |
+| No | 1,011 | 10.2% |
 
 Employees working overtime leave at roughly **3× the rate** of those who don't.
 
-### 2. Young employees are the flight risk
+### 2. Young and newly hired employees are the flight risk
 | Age group | Employees | Attrition rate |
 |---|---|---|
-| **18–25** | 116 | **37.9%** |
-| 26–35 | 438 | 20.5% |
-| 55+ | 30 | 16.7% |
-| 46–55 | 138 | 13.0% |
-| 36–45 | 278 | 11.9% |
+| **18–25** | 117 | **37.6%** |
+| 26–35 | 588 | 18.9% |
+| 55+ | 44 | 18.2% |
+| 46–55 | 222 | 12.2% |
+| 36–45 | 446 | 9.2% |
 
-Leavers are also younger on average (32.7 vs 36.7 years) and have shorter tenure (3.4 vs 4.8 years).
+Leavers are younger on average (33.8 vs 37.6 years) and have shorter tenure (5.1 vs 7.4 years). Grouping employees by years at the company shows the same pattern:
+
+| Years at company | Employees | Attrition rate |
+|---|---|---|
+| 0–2 | 324 | **30.2%** |
+| 3–5 | 421 | 14.5% |
+| 6–10 | 436 | 12.2% |
+| 10+ | 236 | 8.1% |
 
 ### 3. Attrition is not evenly spread across departments
 | Department | Employees | Attrition rate |
 |---|---|---|
-| Human Resources | 30 | **30.0%** |
-| Sales | 166 | **28.3%** |
-| Administration | 322 | 22.4% |
-| IT | 101 | 20.8% |
-| Finance | 17 | 17.6% |
-| Marketing | 35 | 14.3% |
-| Operations | 329 | 10.0% |
+| Sales | 207 | **25.1%** |
+| Human Resources | 39 | **23.1%** |
+| Administration | 406 | 20.7% |
+| IT | 166 | 18.1% |
+| Marketing | 64 | 15.6% |
+| Finance | 23 | 13.0% |
+| Operations | 512 | 8.4% |
 
 Note that Human Resources, Finance and Marketing are small groups, so their percentages move a lot with only a few exits.
 
 ### 4. Role matters
-- **Sales Representative** has the highest attrition at **42.3%** (78 employees), followed by Human Resources (28.6%) and Laboratory Technician (27.4%).
-- **Research Director** (0.0%), **Manager** (4.2%) and **Manufacturing Director** (5.0%) are the most stable roles.
+- **Sales Representative** has the highest attrition at **41.0%** (83 employees), followed by Laboratory Technician (23.9%) and Human Resources (23.5%).
+- **Research Director** (2.6%), **Manager** (5.0%) and **Manufacturing Director** (6.4%) are the most stable roles.
 
 ### 5. Other patterns worth noting
-- ✈️ **Frequent travellers** leave at 30.3%, versus 10.2% for those who don't travel.
-- 😐 **Low job satisfaction** (rating 1) goes with 28.0% attrition, versus 12.7% at rating 4.
-- 💍 **Single employees** leave at 26.0%, versus 12.6% for married employees.
-- ⚖️ **Gender:** men 20.7% vs women 16.5%.
-- 💰 **Salary slab:** attrition is highest in the **10+ LPA** group (24.4%) and similar across the lower slabs (17.0% to 18.3%), so pay level alone does not explain leaving in this dataset.
+- ✈️ **Frequent travellers** leave at 25.8%, versus 8.1% for those who don't travel.
+- 😐 **Low job satisfaction** (rating 1) goes with 23.0% attrition, versus 11.2% at rating 4.
+- ⚖️ **Work-life balance** rated 1 goes with 31.6% attrition, though only 79 employees gave that rating.
+- 💍 **Single employees** leave at 22.0%, versus 11.4% for married employees.
+- 🚻 **Gender:** men 17.2% vs women 15.0%.
+- 💰 **Salary slab:** attrition is highest in the **10+ LPA** group (19.8%) and ranges from 14.3% to 16.9% in the other slabs, so pay level alone does not explain leaving in this dataset.
 
 ### 💡 Recommendations for HR
 
 1. **Review overtime workloads**, especially in Sales and for younger staff.
-2. **Strengthen onboarding and career paths for the 18–25 group** during their first years.
+2. **Strengthen onboarding and career paths for the 18–25 group** and for employees in their first two years.
 3. **Look into the Sales Representative role** (targets, incentives, management support).
 4. **Track job satisfaction** as an early-warning metric and act on low scores.
 5. **Revisit travel policy** for roles that travel frequently.
@@ -135,13 +143,15 @@ The dataset has **38 columns**. The main ones:
 | Group | Columns |
 |---|---|
 | **Identity** | `EmpID`, `EmployeeNumber` |
-| **Demographics** | `Age`, `AgeGroup`, `Gender`, `MaritalStatus`, `Education`, `EducationField` |
+| **Demographics** | `Age`, `AgeGroup`*, `Gender`, `MaritalStatus`, `Education`, `EducationField` |
 | **Job** | `Department`, `JobRole`, `JobLevel`, `BusinessTravel`, `DistanceFromHome(KM)`, `OverTime` |
-| **Compensation** | `MonthlyIncome`, `SalarySlab`, `DailyRate`, `HourlyRate`, `SalaryHike %`, `StockOptionLevel` |
+| **Compensation** | `MonthlyIncome`, `SalarySlab`*, `DailyRate`, `HourlyRate`, `SalaryHike %`, `StockOptionLevel` |
 | **Experience** | `TotalExperience(Years)`, `NumCompaniesWorked`, `YearsatCompany`, `YearsinCurrentRole`, `YearsSincePromotion`, `YearsWithCurrManager`, `TrainingsLastYear` |
-| **Satisfaction (1–4 scale)** | `EnvironmentSatisfaction`, `JobSatisfaction`, `RelationshipSatisfaction`, `JobInvolvement`, `WorkLifeBalance`, `PerformanceRating` |
-| **Target** | `Attrition` (Yes/No), `AttritionCount` (1/0, used for aggregations in Power BI) |
+| **Satisfaction (1–4 scale)** | `EnvironmentSatisfaction`, `JobSatisfaction`, `RelationshipSatisfaction`, `JobInvolvement`, `WorkLifeBalance`, `PerformanceRating` (3–4 only) |
+| **Target** | `Attrition` (Yes/No), `AttritionCount`* (1/0, used for aggregations in Power BI) |
 | **Constants** | `EmployeeCount`, `Over18`, `StandardWorkingHours` (same value in every row) |
+
+\* *Derived columns: `AgeGroup` is grouped from `Age`, `SalarySlab` from annualised `MonthlyIncome` (in LPA), and `AttritionCount` from `Attrition`.*
 
 ---
 
@@ -158,7 +168,7 @@ The dataset has **38 columns**. The main ones:
 1. **Clone or download** this repository.
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
 3. Open `HR_Analytics_Dashboard.pbix`.
-4. If Power BI shows a data-source error, go to **Home → Transform data → Data source settings → Change Source** and point it to your local `HR_Analytics.csv`. The file uses a **semicolon (`;`)** delimiter.
+4. If Power BI shows a data-source error, or the numbers differ from this README, go to **Home → Transform data → Data source settings → Change Source**, point it to your local `HR_Analytics.csv`, then click **Refresh**. The file uses a **semicolon (`;`)** delimiter.
 5. Click any chart element to cross-filter the whole report.
 
 ---
@@ -167,9 +177,9 @@ The dataset has **38 columns**. The main ones:
 
 Being transparent about the data makes the analysis more credible:
 
-- **10 EmpID values appear twice** (990 unique IDs across 1,000 rows), although no row is a full duplicate. Worth checking before any production use.
+- **14 EmpID values appear twice** (1,403 unique IDs across 1,417 rows), although no row is a full duplicate. Worth checking before any production use.
 - `EmployeeCount`, `Over18` and `StandardWorkingHours` are constants and add no analytical value.
-- `HourlyRate` and `MonthlyIncome` values look unrealistic in places (for example, hourly rate can exceed daily rate), which suggests the compensation fields are **synthetic or anonymised**. Treat salary-related findings as illustrative.
+- `HourlyRate` and `MonthlyIncome` values look unrealistic (for example, hourly rate exceeds daily rate in 1,389 of 1,417 rows, and monthly income is almost unrelated to job level), which suggests the compensation fields are **synthetic or anonymised**. Treat salary-related findings as illustrative.
 - `MaritalStatus` has only two categories (Single, Married), and group sizes for some departments are small.
 - The analysis is **descriptive**: it shows associations, not proof of cause and effect.
 
